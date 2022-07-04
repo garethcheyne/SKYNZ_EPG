@@ -1,5 +1,7 @@
 # SKY New Zealand EPG Data Export.
 
+ALPHA ONLY, NOT COMPLETE, NOT TESTED AND WORKING.
+
 The following uses the Sky NZ EPG API to extract the current days channel information and prepaid that data for importation into LG ProCentric.
 
 Feel free to use this as a base if you want needing NZ EPG data including all Sky NZ channels and model as you see fit.
@@ -9,6 +11,7 @@ Feel free to use this as a base if you want needing NZ EPG data including all Sk
 URL https://web-epg.sky.co.nz/prod/epgs/v1?start={unix_timestamp}&end={unix_timestamp}&limit=20000
 
 PayLoad Responce
+```
 {
     "total": 947,
     "returned": 947,
@@ -29,8 +32,10 @@ PayLoad Responce
         }
     ]
 }
+```
 
 Error Responce
+```
 {
     "code" : "NO_RESULTS_FOUND",
     "description" : "No results found",
@@ -56,7 +61,7 @@ Error Responce
         timeZone=UTC, 
         dataformat=JSON
     }"
-
+```
 
 
 ## SKY Channel Names and Info
@@ -67,7 +72,7 @@ URL https://skywebconfig.msl-prod.skycloud.co.nz/sky/json/channels.prod.json
 
 ## LG ProCentric Expected Format.
 This data is not published anywhere.
-
+```
 {
     "filetype": "Pro:Centric JSON Program Guide Data 98101",
     "version": "0.1",
@@ -93,3 +98,5 @@ This data is not published anywhere.
         }
     ]
 }
+```
+

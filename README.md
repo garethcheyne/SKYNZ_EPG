@@ -83,7 +83,7 @@ URL https://skywebconfig.msl-prod.skycloud.co.nz/sky/json/channels.prod.json
 ## LG ProCentric 
 Preparing the data form importation is only the first step, you must host a Zip file on and accessable FTP server and have the files names correctly.
 
-ZIP Naming Convention = Procentric_EPG_{ISO Contry Code}_{Date YYYYMMDD}.zip
+ZIP Naming Convention = Procentric_EPG_{ISO Country Code ie NZL}_{Date YYYYMMDD}.zip
 
 JSON Naming Convention = Procentric_EPG.json
 

@@ -116,3 +116,8 @@ JSON Naming Convention = Procentric_EPG.json
 }
 ```
 
+### EPG ID Mapping.
+.. csv-table::
+    :widths: 20 20 20 20 20
+    :file: ./data/raw_channels.csv
+

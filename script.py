@@ -5,12 +5,33 @@ import pytz
 import json
 from zipfile import ZipFile
 import pandas as pd
+import yaml
+from yaml.loader import SafeLoader
+import ftplib
+
 
 ## EPG URL 
 ## "https://web-epg.sky.co.nz/prod/epgs/v1?start=1656804027242&end=1656832827242&limit=20000"
 
-epgUri = "https://web-epg.sky.co.nz/prod/epgs/v1?"
-channelUrl = "https://skywebconfig.msl-prod.skycloud.co.nz/sky/json/channels.prod.json"
+
+URI_EPG = "https://web-epg.sky.co.nz/prod/epgs/v1?"
+URI_CHANNELS = "https://skywebconfig.msl-prod.skycloud.co.nz/sky/json/channels.prod.json"
+
+def push2FTP(file_name):    
+
+    with open("credentials.yaml") as f:
+        config = yaml.load(f, Loader=SafeLoader)
+        f.close()
+
+    ftp = ftplib.FTP()
+    ftp.connect(config["server"], config["port"])
+    ftp.login(config["username"], config["password"])
+
+    with open(f"./export/NZL/{file_name}", "rb") as file:
+        ftp.storbinary(f'STOR .{config["dir"]}/{file_name}', file)
+    
+    print("Process Complete")
+    exit()
 
 
 def getRawEPG():
@@ -19,25 +40,27 @@ def getRawEPG():
 
     timeStart = str(datetime.timestamp(dateTimeStart)*1000).replace(".","")[0:13]
     timeEnd = str(datetime.timestamp(dateTimeEnd)*1000).replace(".","")[0:13] 
-    uri = "%sstart=%s&end=%s&limit=2000" % (epgUri, timeStart, timeEnd)
+    uri = "%sstart=%s&end=%s&limit=2000" % (URI_EPG, timeStart, timeEnd)
    
     responce = requests.get(uri)     
     if responce.status_code == 200:
         with open("./data/raw_epg.json", "w") as f:
             json.dump(responce.json(), f, indent=6)
+            f.close()
         return responce.json()
 
     return responce.json()
 
 
 def getRawChannels():
-    uri = channelUrl
+    uri = URI_CHANNELS
     responce = requests.get(uri) 
 
     if responce.status_code == 200:
         data = responce.json()
         with open("./data/raw_channels.json", "w") as f:
             json.dump(data, f, indent=6)
+            f.close()
 
         exportChannelMaping(data)
 
@@ -133,8 +156,9 @@ def buildPayLoad(epg):
         "channels": epg            
     }
 
-    out_file = open("./data/Procentric_EPG.json", "w") 
-    json.dump(payload, out_file, indent=6)
+    with open("./data/Procentric_EPG.json", "w") as f:
+        json.dump(payload, f, indent=6)
+        f.close()
 
     return payload
 
@@ -144,19 +168,34 @@ def saveToZip(payload):
 
     today = datetime.today().date().strftime("%Y%m%d")
 
-    file_name = "./export/NZL/Procentric_EPG_NZL_%s.zip" % (today)
-    with ZipFile(file_name, 'w') as zip:
+    file_name = f"Procentric_EPG_NZL_{today}.zip"
+    with ZipFile(f"./export/NZL/{file_name}", 'w') as zip:
         zip.write("./data/Procentric_EPG.json")
         zip.close()
 
+    return file_name
 
 
-rawEPG = getRawEPG()
 
-events = modelEPG(rawEPG)
 
-epg = groupEPGChannels(events)
+def Main():
+    ## Get EPG From SKY NZ API
+    raw_epg = getRawEPG()
 
-payload = buildPayLoad(epg)
+    ## Process Events
+    events = modelEPG(raw_epg)
 
-saveToZip(payload)
+    ## Group Events per Channel
+    epg = groupEPGChannels(events)
+
+    ## Build ProCentric JSON PayLoad
+    payload = buildPayLoad(epg)
+
+    # Add ProCentric JSON to ZIP
+    file_name = saveToZip(payload)
+
+    ## Upload to FTP
+    push2FTP(file_name)
+
+
+Main()

@@ -1,0 +1,1738 @@
+[
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/TV1.png",
+            "sort": "One",
+            "synopsis": "SKY Digital customers can enjoy all their favourite TV1 entertainment with crystal clear picture quality. If you are a MY SKY HDi customers you will be able to view TV1 in high definition (you will also need a HD television).",
+            "url": "",
+            "number": "001",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "One",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "202",
+            "order": "17"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/TV2.png",
+            "sort": "TV2",
+            "synopsis": "TVNZ Channel 2 for Freeview",
+            "url": "",
+            "number": "002",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "TV2",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "202",
+            "order": "19"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_Three_LogoThumbnail_80x60.png",
+            "sort": "Three",
+            "synopsis": "Three Free To View",
+            "url": "",
+            "number": "003",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Three",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "202",
+            "order": "21"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/Prime_Orange_80x60.png",
+            "sort": "Prime TV",
+            "synopsis": "PRIME's schedule is a mixture of general entertainment, lifestyle, drama and comedy, sourced overseas primarily from Australia and America. While PRIME screens some classic TV series, the majority of our peak time programming is new to New Zealand, unseen on any other network.",
+            "url": "https://www.sky.co.nz/prime",
+            "number": "004",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Prime TV",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "26"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SKY5_LogoThumbnail_70x70.png",
+            "sort": "Sky 5",
+            "synopsis": "Your home of Heroes",
+            "url": "https://www.sky.co.nz/sky-5",
+            "number": "005",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Sky 5",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "1"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/VIBE.png",
+            "sort": "Vibe",
+            "synopsis": "Be Engaged. Be Inspired. Be Entertained.",
+            "url": "https://www.sky.co.nz/vibe",
+            "number": "006",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Vibe",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "6"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/UKTV.png",
+            "sort": "UKTV",
+            "synopsis": "UKTV, a celebration of Great British Entertainment brought to you by the BBC.",
+            "url": "https://www.sky.co.nz/uktv",
+            "number": "007",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "UKTV",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "7"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/JONES.png",
+            "sort": "Jones!",
+            "synopsis": "Jones! Is here to provide you with all your favourite shows from the 1950s to the 1990s.",
+            "url": "https://www.sky.co.nz/jones",
+            "number": "008",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Jones!",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "8"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_JonesToo_LogoThumbnail_60x80.png",
+            "sort": "JONES! too",
+            "synopsis": "JONES! too offers a nostalgic viewing experience and the opportunity to handpick from a wide selection of  iconic television content.\n\nPremiering to celebrate the launch of JONES! too will be perennial 80s favourites The Golden Girls, Moonlighting and The Greatest American Hero, together with 70s hit One Day at a Time. A new feature of the schedule will be weekend marathons of fan favourites such as The Good Life, Frasier, Mission: Impossible, Jeeves & Wooster and Columbo.",
+            "url": "https://www.sky.co.nz/jones",
+            "number": "208",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "JONES! too",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "9"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SKYBoxSets_LogoThumbnail_80x60.png",
+            "sort": "SKY BOX SETS",
+            "synopsis": "Fans of cutting edge drama and comedy can indulge their passion with SKY BOX SETS, playing a box set every night from 7.30pm.",
+            "url": "https://www.sky.co.nz/boxsets",
+            "number": "009",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY BOX SETS",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "238",
+            "order": "9"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SoHo_LogoThumbnail2019_250x180.png",
+            "sort": "SoHo",
+            "synopsis": "SoHo & SoHo2: Say hello to obsession with two great channels of world-class programming from HBO, Showtime, FX and more. Both channels form part of the SoHo subscription.",
+            "url": "https://www.sky.co.nz/soho",
+            "number": "010",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SoHo",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "260",
+            "order": "1"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/channel-logos/210_universal_tv.png",
+            "sort": "UniversalTV",
+            "synopsis": "",
+            "url": "",
+            "number": "210",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "UniversalTV",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "43"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/Comedy_Central.png",
+            "sort": "Comedy Central",
+            "synopsis": "Get ready to laugh on Comedy Central: where we always put the good times first!",
+            "url": "https://www.sky.co.nz/comedy-central",
+            "number": "011",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Comedy Central",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "3"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/mk_bravo_thumbnail.png",
+            "sort": "BRAVO",
+            "synopsis": "Say hello to Bravo, your brand new entertainment lifestyle TV Channel and home of The Real Housewives of Auckland.",
+            "url": "",
+            "number": "012",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "BRAVO",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "24"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/EdenLogoRed.png",
+            "sort": "eden",
+            "synopsis": "",
+            "url": "",
+            "number": "013",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "eden",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "25"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/E.png",
+            "sort": "E!",
+            "synopsis": "E! is the Pulse of Pop Culture.",
+            "url": "https://www.sky.co.nz/e-entertainment-television",
+            "number": "014",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "E!",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "4"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/mtv.png",
+            "sort": "MTV",
+            "synopsis": "The ultimate destination for music and pop-culture.",
+            "url": "https://www.sky.co.nz/mtv",
+            "number": "015",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "MTV",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "7"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_TLC_LogoThumb_70x70.png",
+            "sort": "TLC",
+            "synopsis": "TLC, it\u2019s Life Worth Watching.",
+            "url": "https://www.sky.co.nz/tlc",
+            "number": "016",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "TLC",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "5"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_LivingChannel_LogoSmall.jpg",
+            "sort": "Living Channel",
+            "synopsis": "Living Channel welcomes you home, sweet home.",
+            "url": "https://www.sky.co.nz/living-channel",
+            "number": "017",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Living Channel",
+            "genre": [
+                  "Lifestyle & Leisure"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "17"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_ID.png",
+            "sort": "Investigation Discovery",
+            "synopsis": "Investigation Discovery.",
+            "url": "https://www.sky.co.nz/id",
+            "number": "018",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Investigation Discovery",
+            "genre": [
+                  "News & Documentaries",
+                  "Special Interest"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "6"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/Maori_TV.png",
+            "sort": "Maori Television",
+            "synopsis": "Catch a taste of NZ culture",
+            "url": "",
+            "number": "019",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Maori Television",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "30"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/logo_020_80x60.png",
+            "sort": "Arts Channel",
+            "synopsis": "Tune in to the best arts and cultural television from New Zealand and around the world",
+            "url": "https://www.sky.co.nz/sky-arts",
+            "number": "020",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY ARTS",
+            "genre": [
+                  "Lifestyle & Leisure"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "256",
+            "order": "3"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_HGTV_LogoThumbnail_70x70.png",
+            "sort": "HGTV",
+            "synopsis": "HGTV is dedicated to the very best in home improvement, DIY design, real estate and gardening.",
+            "url": "",
+            "number": "021",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "HGTV",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "15"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/mtv-hits.png",
+            "sort": "MTV Music",
+            "synopsis": "MTV MUSIC is the home of today\u2019s biggest superstars and iconic music legends. It is the ultimate music destination delivering all the best hits from the 90s to today\u2019s chart toppers! MTV MUSIC has something for everybody and always has you leaving feeling good.",
+            "url": "https://www.sky.co.nz/mtv",
+            "number": "022",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "MTV Music",
+            "genre": [
+                  "Music"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "8"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_DUKE_LogoThumbnail_80x60.png",
+            "sort": "DUKE",
+            "synopsis": "",
+            "url": "",
+            "number": "023",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "DUKE",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "28"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/rush/Colour_Logo.png",
+            "sort": "Rush",
+            "synopsis": "",
+            "url": "",
+            "number": "024",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Rush",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "18"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/The_Shopping_Channel.png",
+            "sort": "The Shopping Channel",
+            "synopsis": "Catch a bargain on The Shopping Channel",
+            "url": "",
+            "number": "025",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "The Shopping Channel",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "32"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_Sky_Movies_Premiere_Logo.png",
+            "sort": "Premiere Movies",
+            "synopsis": "New Zealand's premium movie channel is the home of blockbuster movies featuring the biggest stars on the planet.",
+            "url": "https://www.sky.co.nz/sky-movies",
+            "number": "030",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Premiere Movies",
+            "genre": [
+                  "Movies"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "233",
+            "order": "1"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_Sky_Movies_Comedy_Logo.png",
+            "sort": "Comedy Movies",
+            "synopsis": "",
+            "url": "https://www.sky.co.nz/sky-movies",
+            "number": "031",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Comedy Movies",
+            "genre": [
+                  "Movies"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "233",
+            "order": "2"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_Sky_Movies_Action_Logo.png",
+            "sort": "Action Movies",
+            "synopsis": "Get ready for the BOOM! If you are looking for some kick-arse action movies that really pack a punch, checkout Sky Movies Action.",
+            "url": "https://www.sky.co.nz/sky-movies",
+            "number": "032",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Action Movies",
+            "genre": [
+                  "Movies"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "233",
+            "order": "5"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_Sky_Movies_Greats_Logo.png",
+            "sort": "Great Movies",
+            "synopsis": "Sky Movies Greats has the very best of modern film-making and has the some of the most memorable films from the last decade.",
+            "url": "https://www.sky.co.nz/sky-movies",
+            "number": "033",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Great Movies",
+            "genre": [
+                  "Movies"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "233",
+            "order": "3"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_Sky_Movies_Classics_Logo.png",
+            "sort": "Classic Movies",
+            "synopsis": "If you are looking for timeless classics, from some of the most well-loved and respected directors and actors in history then Sky Movies Classics the channel for you.",
+            "url": "https://www.sky.co.nz/sky-movies",
+            "number": "034",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Classic Movies",
+            "genre": [
+                  "Movies"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "233",
+            "order": "4"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SkyMovies_Collection_Logo.png",
+            "sort": "Collection Movies",
+            "synopsis": "Sky Movies Collection",
+            "url": "https://www.sky.co.nz/sky-movies",
+            "number": "035",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Movies Collection",
+            "genre": [
+                  "Movies"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "233",
+            "order": "35"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_Sky_Movies_Family_Logo.png",
+            "sort": "Family Movies",
+            "synopsis": "Sky Movies Family goes 24/7. Tune in for new movies, classic family films and much more!",
+            "url": "https://www.sky.co.nz/sky-movies",
+            "number": "036",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Family Movies",
+            "genre": [
+                  "Kids & Family"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "233",
+            "order": "36"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/logo_039_80x60.png",
+            "sort": "Rialto",
+            "synopsis": "Rialto Channel offers a superb range of specialist movies, documentaries and entertainment",
+            "url": "https://www.sky.co.nz/rialto",
+            "number": "039",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Rialto",
+            "genre": [
+                  "Movies"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "232",
+            "order": "3"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SBO_LogoThumbnail_80x60.png",
+            "sort": "SKY Box Office",
+            "synopsis": "Access pay-per-view blockbuster movies. Purchase via My Account, your SKY digital remote control or call SKY on 0800 759 778 to book over the phone. You can watch as many times as you like during the 24 hours blocks from these set start-times: 7.35pm, 8.05pm, 8.35pm and 9.05pm. *HD available with the HD Access Ticket",
+            "url": "https://www.sky.co.nz/sky-box-office",
+            "number": "040",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Box Office",
+            "genre": [
+                  "Movies",
+                  "Pay-Per-View"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "",
+            "order": "40"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SBO_LogoThumbnail_80x60.png",
+            "sort": "SKY Box Office 041",
+            "synopsis": "Access pay-per-view blockbuster movies. Purchase via My Account, your SKY digital remote control or call SKY on 0800 759 778 to book over the phone. You can watch as many times as you like during the 24 hours blocks from these set start-times: 7.35pm, 8.05pm, 8.35pm and 9.05pm. *HD available with the HD Access Ticket",
+            "url": "https://www.sky.co.nz/sky-box-office",
+            "number": "041",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Box Office 041",
+            "genre": [
+                  "Movies",
+                  "Pay-Per-View"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "",
+            "order": "41"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SBO_LogoThumbnail_80x60.png",
+            "sort": "SKY Box Office 042",
+            "synopsis": "Access pay-per-view blockbuster movies. Purchase via My Account, your SKY digital remote control or call SKY on 0800 759 778 to book over the phone. You can watch as many times as you like during the 24 hours blocks from these set start-times: 7.35pm, 8.05pm, 8.35pm and 9.05pm. *HD available with the HD Access Ticket",
+            "url": "",
+            "number": "042",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Box Office 042",
+            "genre": [
+                  "Movies",
+                  "Pay-Per-View"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "",
+            "order": "42"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SBO_LogoThumbnail_80x60.png",
+            "sort": "SKY Box Office 043",
+            "synopsis": "Access pay-per-view blockbuster movies. Purchase via My Account, your SKY digital remote control or call SKY on 0800 759 778 to book over the phone. You can watch as many times as you like during the 24 hours blocks from these set start-times: 7.35pm, 8.05pm, 8.35pm and 9.05pm. *HD available with the HD Access Ticket",
+            "url": "",
+            "number": "043",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Box Office 043",
+            "genre": [
+                  "Movies",
+                  "Pay-Per-View"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "",
+            "order": "43"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/logo_SKY_Sport_Select_80x60.png",
+            "sort": "SKY Sport Select",
+            "synopsis": "",
+            "url": "https://www.sky.co.nz/sport",
+            "number": "050",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Sport Select",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "242",
+            "order": "50"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SkySport1_NewLogo_V_80x60.png",
+            "sort": "SKY Sport 1",
+            "synopsis": "Coverage from the Investec Rugby Championship, Super Rugby, Mitre 10 Cup, documentaries, classic matches and more.",
+            "url": "https://www.sky.co.nz/sport",
+            "number": "051",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Sport 1",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "242",
+            "order": "51"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SkySport2_NewLogo_V_80x60.png",
+            "sort": "SKY Sport 2",
+            "synopsis": "The best cricket from around the world.",
+            "url": "https://www.sky.co.nz/sport",
+            "number": "052",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Sport 2",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "242",
+            "order": "52"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SkySport3_NewLogo_V_80x60.png",
+            "sort": "SKY Sport 3",
+            "synopsis": "The place to catch all the best domestic and international Netball including the Silver Ferns, ANZ Premiership and Suncorp Super Netball.",
+            "url": "https://www.sky.co.nz/sport",
+            "number": "053",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Sport 3",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "242",
+            "order": "53"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SkySport4_NewLogo_V_80x60.png",
+            "sort": "SKY Sport 4",
+            "synopsis": "The home of Rugby League coverage from competitions such as the NRL Premiership and Super League.",
+            "url": "https://www.sky.co.nz/sport",
+            "number": "054",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Sport 4",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "242",
+            "order": "54"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SkySport5_NewLogo_V_80x60.png",
+            "sort": "SKY Sport 5",
+            "synopsis": "The place to be as a Motorsport fan, with coverage from the Supercars Championship, MotoGP, IndyCar and NASCAR.",
+            "url": "https://www.sky.co.nz/sport",
+            "number": "055",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Sport 5",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "242",
+            "order": "55"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SkySport6_NewLogo_V_80x60.png",
+            "sort": "SKY Sport 6",
+            "synopsis": "The best golf from around the world including coverage of the LPGA, PGA Tour and European Tour.",
+            "url": "https://www.sky.co.nz/sport",
+            "number": "056",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Sport 6",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "242",
+            "order": "56"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SkySport7_NewLogo_V_80x60.png",
+            "sort": "SKY Sport 7",
+            "synopsis": "The home of beIN, featuring coverage of the UEFA Champions League, FA Cup, LaLiga, Serie A, Hyundai A-League, MLS and more.",
+            "url": "https://www.sky.co.nz/sport",
+            "number": "057",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Sport 7",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "242",
+            "order": "57"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SkySport8_NewLogo_V_80x60.png",
+            "sort": "SKY Sport 8",
+            "synopsis": "Here you\u2019ll find the best of the rest from home and abroad.",
+            "url": "https://www.sky.co.nz/sport",
+            "number": "058",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Sport 8",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "242",
+            "order": "58"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SkySport9_NewLogo_V_80x60.png",
+            "sort": "SKY Sport 9",
+            "synopsis": "Here you\u2019ll find the best of the rest from home and abroad.",
+            "url": "https://www.sky.co.nz/sport",
+            "number": "059",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Sport 9",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "242",
+            "order": "59"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SKYSportPopUp1_Logo_80x60.png",
+            "sort": "SKY Sport Popup 1",
+            "synopsis": "",
+            "url": "",
+            "number": "600",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Sport Popup 1",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "242",
+            "order": "0"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/ESPN.png",
+            "sort": "ESPN",
+            "synopsis": "ESPN, the world wide leaders in sport. Catch all the action from around the United States and the world as we cross to ESPN International. Keep up with NFL Football, NBA Basketball and the MLB Baseball. ESPN also covers many other sports like UEFA Champions League, Volleyball and Tennis.",
+            "url": "https://www.sky.co.nz/sport",
+            "number": "060",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "ESPN",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "242",
+            "order": "60"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/ESPN2.png",
+            "sort": "ESPN2",
+            "synopsis": "The best of American sport with coverage from the US Open, NBA, NFL and MLB.",
+            "url": "https://www.sky.co.nz/sport",
+            "number": "061",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "ESPN2",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "242",
+            "order": "61"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/Trackside_1.png",
+            "sort": "TAB Trackside 1",
+            "synopsis": "Trackside 1 and 2 are the broadcast channels for the New Zealand Racing Board offering live coverage of the majority of races for which betting is available through the TAB.",
+            "url": "",
+            "number": "062",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "TAB Trackside 1",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "202",
+            "order": "33"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/Trackside_2.png",
+            "sort": "TAB Trackside 2",
+            "synopsis": "Trackside 2 offers a busy seven day racing schedule with a focus on international racing.",
+            "url": "",
+            "number": "063",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "TAB Trackside 2",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "202",
+            "order": "34"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SkyArena_NewLogo_80x60.png",
+            "sort": "SKY Arena",
+            "synopsis": "SKY ARENA is the home of live pay-per-view events such as WWE, UFC and boxing. With SKY ARENA your TV is your ringside seat to some of the best live action available.",
+            "url": "https://www.sky.co.nz/sky-arena",
+            "number": "065",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Arena",
+            "genre": [
+                  "Sport",
+                  "Pay-Per-View"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "",
+            "order": "2"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/Discovery_Channel.png",
+            "sort": "Discovery Channel",
+            "synopsis": "Discovery Channel empowers people to explore their world and satisfy their curiosity.",
+            "url": "https://www.sky.co.nz/discovery-channel",
+            "number": "070",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Discovery Channel",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "70"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_CI_LogoThumb_Update_80x60.png",
+            "sort": "Crime + Investigation",
+            "synopsis": "Real people, real crime, real drama, 24-hours a day. Look Closer \u2013 The Investigation has begun.",
+            "url": "https://www.sky.co.nz/crime-investigation",
+            "number": "071",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Crime + Investigation",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "71"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_NatGeo_LogoThumbnail_80x60.jpg",
+            "sort": "National Geographic",
+            "synopsis": "National Geographic's engaging programming will inspire you to find out more about the people, places and events of our world.",
+            "url": "https://www.sky.co.nz/national-geographic",
+            "number": "072",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "National Geographic",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "72"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_History_LogoThumbnail_80x60.jpg",
+            "sort": "History",
+            "synopsis": "History is committed to presenting a perspective of the world through the eyes of us \"Down Under\".",
+            "url": "https://www.sky.co.nz/history",
+            "number": "073",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "History",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "73"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_BBCEarth_LogoThumbnail_80x60.jpg",
+            "sort": "BBC Earth",
+            "synopsis": "BBC Earth will take you on a thrilling journey of discovery of our amazing universe; from the wonders of the natural world, human stories, travel and science.",
+            "url": "https://www.sky.co.nz/bbc-earth",
+            "number": "074",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "BBC Earth",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "74"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_DiscoveryTurbo_LogoThumbnail_80x60.jpg",
+            "sort": "Discovery Turbo",
+            "synopsis": "Discovery Turbo offers adrenaline-fuelled entertainment for those who love the thrill of speed.",
+            "url": "https://www.sky.co.nz/discovery-turbo",
+            "number": "075",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Discovery Turbo",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "75"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_AnimalPlanetUpdate_Thumbnail_80x60.png",
+            "sort": "Animal Planet",
+            "synopsis": "Animal Planet offers \u2018pawsome\u2019 entertainment, showcasing our domestic friends and everything in between.",
+            "url": "https://www.sky.co.nz/animal-planet",
+            "number": "076",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Animal Planet",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "76"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/logo_081_250x180.png",
+            "sort": "Country TV",
+            "synopsis": "Country TV is the only television channel dedicated to providing interesting and relevant information and entertainment to New Zealand farmers as well as the equestrian communities",
+            "url": "https://www.sky.co.nz/country-tv",
+            "number": "081",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Country TV",
+            "genre": [
+                  "Special Interest"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "258",
+            "order": "5"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/Te_Reo.png",
+            "sort": "Te Reo",
+            "synopsis": "Maori Culture Current Affairs",
+            "url": "",
+            "number": "082",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Te Reo",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "36"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_FaceTV_LogoThumbnail_80x60.jpg",
+            "sort": "FACE TV",
+            "synopsis": "Accessible Television Broadcasting For Everyone.",
+            "url": "",
+            "number": "083",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "FACE TV",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "35"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SKYNews_LogoThumb_v2_80x60px.png",
+            "sort": "SKY NEWS",
+            "synopsis": "For all the latest in News & Sports from around the globe",
+            "url": "",
+            "number": "085",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY NEWS",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "85"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/parliament-tv-thumb.png",
+            "sort": "Parliament TV",
+            "synopsis": "Catch all the gossip live from the BeeHive",
+            "url": "",
+            "number": "086",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Parliament TV",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "true",
+            "sku": "202",
+            "order": "39"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/CNN_Logo_80x60.jpg",
+            "sort": "CNN International",
+            "synopsis": "News, Current Affairs & Sports with an American twist",
+            "url": "",
+            "number": "087",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "CNN International",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "87"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/Fox_News_Channel.png",
+            "sort": "Fox News",
+            "synopsis": "News, Sport & Current Affairs from the Entertainment American News channel",
+            "url": "",
+            "number": "088",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Fox News",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "88"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/BBCWorldNews_Logo_80x60.png",
+            "sort": "BBC World News",
+            "synopsis": "News, Sport & Current Affairs from Britain",
+            "url": "",
+            "number": "089",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "BBC World News",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "89"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/Al_Jazeera.png",
+            "sort": "Al Jazeera",
+            "synopsis": "News, Sport & Current Affairs with an Arab View",
+            "url": "",
+            "number": "090",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Al Jazeera",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "37"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/CNBC.png",
+            "sort": "CNBC",
+            "synopsis": "American News & Current Affairs Channel",
+            "url": "",
+            "number": "091",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "CNBC",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "238",
+            "order": "91"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/RT.png",
+            "sort": "RT",
+            "synopsis": "The Russian News Station",
+            "url": "",
+            "number": "092",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "RT",
+            "genre": [
+                  "News & Documentaries"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "38"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_Logo_NickMusic_80x60.png",
+            "sort": "Nick Music",
+            "synopsis": "Keep your precious little ones entranced for hours",
+            "url": "https://www.sky.co.nz/kids",
+            "number": "100",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Nick Music",
+            "genre": [
+                  "Kids & Family",
+                  "Music"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "10"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_Nick_LogoThumbnail_80x60.png",
+            "sort": "Nick",
+            "synopsis": "A channel to amuse your kids for hours",
+            "url": "https://www.sky.co.nz/kids",
+            "number": "101",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Nick",
+            "genre": [
+                  "Kids & Family"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "12"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_CartoonNetwork_LogoThumbnail_80x60.jpg",
+            "sort": "Cartoon Network",
+            "synopsis": "Cartoon Network animates kids\u2019 lives through the best comedy and adventure shows on TV.",
+            "url": "https://www.sky.co.nz/kids",
+            "number": "102",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Cartoon Network",
+            "genre": [
+                  "Kids & Family"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "14"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/CBeebies_logo_80x60.png",
+            "sort": "CBeebies",
+            "synopsis": "Cartoon Network animates kids\u2019 lives through the best comedy and adventure shows on TV.",
+            "url": "https://www.sky.co.nz/kids",
+            "number": "103",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "CBeebies",
+            "genre": [
+                  "Kids & Family"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "14"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/Nick_Jr.png",
+            "sort": "nick jr.",
+            "synopsis": "Get ready to giggle, wiggle, learn and play!",
+            "url": "https://www.sky.co.nz/kids",
+            "number": "104",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "nick jr.",
+            "genre": [
+                  "Kids & Family"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "13"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/logo_150_250x180.png",
+            "sort": "Star Plus Hindi",
+            "synopsis": "Subscribe to one Hindi channel, additional Hindi channels cost $5 each \u2013 Star Plus is a Hindi-language general entertainment television channel based in India. Star Plus' programming comprises a variety of shows that appeal to a wide and varied audience base. The shows include a mix of family dramas, comedies, reality shows, shows on crime and telefilms.",
+            "url": "",
+            "number": "150",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Star Plus Hindi",
+            "genre": [
+                  "Special Interest"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "257",
+            "order": "150"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/logo_151_250x180.png",
+            "sort": "Colors",
+            "synopsis": "Subscribe to one Hindi channel, additional Hindi channels cost $5 each \u2013 Colors is Viacom18\u2019s flagship brand in the mass entertainment space. Known for its meaningful and differentiated content, Colors is today synonymous with entertainment in India. The channel celebrates the spirit of entertainment by bringing together a wide array of shows creating everlasting relationships with the discerning audiences in India and across the globe",
+            "url": "",
+            "number": "151",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Colors",
+            "genre": [
+                  "Special Interest"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "261",
+            "order": "151"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/logo_152_250x180.png",
+            "sort": "Star Gold",
+            "synopsis": "Subscribe to one Hindi channel, additional Hindi channels cost $5 each \u2013 The destination for the Biggest Bollywood Blockbuster Premieres in India.This is the place where the biggest stars and the best-in-class movies come together",
+            "url": "",
+            "number": "152",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Star Gold",
+            "genre": [
+                  "Special Interest"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "262",
+            "order": "152"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/0111_80x60.png",
+            "sort": "The Filipino Channel",
+            "synopsis": "Stay up-to-date with the latest news, TV series, game shows and talk shows from the Philippines",
+            "url": "https://www.sky.co.nz/the-filipino-channel",
+            "number": "160",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "The Filipino Channel",
+            "genre": [
+                  "Special Interest"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "265",
+            "order": "160"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_ShineTV_LogoThumbnail_80x60.jpg",
+            "sort": "Shine TV",
+            "synopsis": "The Christian lifestyle channel",
+            "url": "",
+            "number": "201",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Shine TV",
+            "genre": [
+                  "Special Interest"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "42"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/Daystar.png",
+            "sort": "Daystar TV Network",
+            "synopsis": "Christian General Interest Channel",
+            "url": "",
+            "number": "202",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Daystar TV Network",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "40"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_SBN_LogoThumbnail_80x60.jpg",
+            "sort": "SBN",
+            "synopsis": "The Message from the Cross",
+            "url": "",
+            "number": "203",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SBN",
+            "genre": [
+                  "Special Interest"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "41"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_HopeChannel_Logo_80x60.png",
+            "sort": "Hope Channel",
+            "synopsis": "The official religious channel from the Seventh-day Adventist Church.",
+            "url": "",
+            "number": "204",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Hope Channel",
+            "genre": [
+                  "Special Interest"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "44"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_Firstlight_LogoThumb_250x180.jpg",
+            "sort": "Firstlight",
+            "synopsis": "",
+            "url": "",
+            "number": "206",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Firstlight",
+            "genre": [
+                  "Special Interest"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "43"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_CGTNDoc_LogoThumbnail_80x60.png",
+            "sort": "CGTN",
+            "synopsis": "CGTN broadcasts news and current affairs bulletins in English, complemented by feature and educational programs, designed to present a comprehensive picture of China to the world.",
+            "url": "",
+            "number": "309",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "CGTN",
+            "genre": [
+                  "Special Interest"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "45"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_CGTNnew_LogoThumbnail_80x60.png",
+            "sort": "CGTN",
+            "synopsis": "CGTN broadcasts news and current affairs bulletins in English, complemented by feature and educational programs, designed to present a comprehensive picture of China to the world.",
+            "url": "",
+            "number": "310",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "CGTN",
+            "genre": [
+                  "News & Documentaries",
+                  "Special Interest"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "45"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/TV1_plus_1.png",
+            "sort": "One Plus 1",
+            "synopsis": "A little bit extra from TV One",
+            "url": "",
+            "number": "501",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "One Plus 1",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "18"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/TV2_plus_1.png",
+            "sort": "TV2 + 1",
+            "synopsis": "TVNZ Channel 2 Extra",
+            "url": "",
+            "number": "502",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "TV2 + 1",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "20"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_ThreePlus1_LogoThumbnail_80x60.png",
+            "sort": "ThreePlus1",
+            "synopsis": "ThreePlus1",
+            "url": "",
+            "number": "503",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "ThreePlus1",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "22"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_DUKEPlus1_Logo.png",
+            "sort": "DukePlus1",
+            "synopsis": "DukePlus1",
+            "url": "",
+            "number": "504",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "DukePlus1",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "28"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/EdenPlus1Red.png",
+            "sort": "eden +1",
+            "synopsis": "",
+            "url": "",
+            "number": "505",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "eden +1",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "29"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_Bravo_plus1_Thumbnail_Logo_80x60.png",
+            "sort": "BRAVO Plus 1",
+            "synopsis": "Bravo PLUS 1 is everything on Bravo, screened one hour later!",
+            "url": "",
+            "number": "512",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "BRAVO Plus 1",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "25"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/MK_PrimePlus1_LogoThumbnail_80x60.png",
+            "sort": "Prime PLUS 1",
+            "synopsis": "Prime PLUS 1 is everything on Prime, screened one hour later!",
+            "url": "",
+            "number": "514",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Prime PLUS 1",
+            "genre": [
+                  "Entertainment"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "202",
+            "order": "27"
+      }
+]

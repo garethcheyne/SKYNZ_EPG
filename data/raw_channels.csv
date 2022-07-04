@@ -1,0 +1,97 @@
+EPG_Map_No,Channel_Name,Logo_Url,HD,Genre
+1,One,https://static.sky.co.nz/sky/epglogos/TV1.png,true,Entertainment
+2,TV2,https://static.sky.co.nz/sky/epglogos/TV2.png,true,Entertainment
+3,Three,https://static.sky.co.nz/sky/epglogos/MK_Three_LogoThumbnail_80x60.png,true,Entertainment
+4,Prime TV,https://static.sky.co.nz/sky/epglogos/Prime_Orange_80x60.png,,Entertainment
+5,Sky 5,https://static.sky.co.nz/sky/epglogos/MK_SKY5_LogoThumbnail_70x70.png,,Entertainment
+6,Vibe,https://static.sky.co.nz/sky/epglogos/VIBE.png,,Entertainment
+7,UKTV,https://static.sky.co.nz/sky/epglogos/UKTV.png,,Entertainment
+8,Jones!,https://static.sky.co.nz/sky/epglogos/JONES.png,,Entertainment
+208,JONES! too,https://static.sky.co.nz/sky/epglogos/MK_JonesToo_LogoThumbnail_60x80.png,,Entertainment
+9,SKY BOX SETS,https://static.sky.co.nz/sky/epglogos/MK_SKYBoxSets_LogoThumbnail_80x60.png,true,Entertainment
+10,SoHo,https://static.sky.co.nz/sky/epglogos/MK_SoHo_LogoThumbnail2019_250x180.png,true,Entertainment
+210,UniversalTV,https://static.sky.co.nz/sky/channel-logos/210_universal_tv.png,,Entertainment
+11,Comedy Central,https://static.sky.co.nz/sky/epglogos/Comedy_Central.png,,Entertainment
+12,BRAVO,https://static.sky.co.nz/sky/epglogos/mk_bravo_thumbnail.png,,Entertainment
+13,eden,https://static.sky.co.nz/sky/epglogos/EdenLogoRed.png,,Entertainment
+14,E!,https://static.sky.co.nz/sky/epglogos/E.png,,Entertainment
+15,MTV,https://static.sky.co.nz/sky/epglogos/mtv.png,,Entertainment
+16,TLC,https://static.sky.co.nz/sky/epglogos/MK_TLC_LogoThumb_70x70.png,,Entertainment
+17,Living Channel,https://static.sky.co.nz/sky/epglogos/MK_LivingChannel_LogoSmall.jpg,,Lifestyle & Leisure
+18,Investigation Discovery,https://static.sky.co.nz/sky/epglogos/MK_ID.png,,News & Documentaries
+19,Maori Television,https://static.sky.co.nz/sky/epglogos/Maori_TV.png,,Entertainment
+20,SKY ARTS,https://static.sky.co.nz/sky/epglogos/logo_020_80x60.png,,Lifestyle & Leisure
+21,HGTV,https://static.sky.co.nz/sky/epglogos/MK_HGTV_LogoThumbnail_70x70.png,,Entertainment
+22,MTV Music,https://static.sky.co.nz/sky/epglogos/mtv-hits.png,,Music
+23,DUKE,https://static.sky.co.nz/sky/epglogos/MK_DUKE_LogoThumbnail_80x60.png,,Entertainment
+24,Rush,https://static.sky.co.nz/sky/epglogos/rush/Colour_Logo.png,,Entertainment
+25,The Shopping Channel,https://static.sky.co.nz/sky/epglogos/The_Shopping_Channel.png,,Entertainment
+30,Premiere Movies,https://static.sky.co.nz/sky/epglogos/MK_Sky_Movies_Premiere_Logo.png,true,Movies
+31,Comedy Movies,https://static.sky.co.nz/sky/epglogos/MK_Sky_Movies_Comedy_Logo.png,true,Movies
+32,Action Movies,https://static.sky.co.nz/sky/epglogos/MK_Sky_Movies_Action_Logo.png,true,Movies
+33,Great Movies,https://static.sky.co.nz/sky/epglogos/MK_Sky_Movies_Greats_Logo.png,true,Movies
+34,Classic Movies,https://static.sky.co.nz/sky/epglogos/MK_Sky_Movies_Classics_Logo.png,,Movies
+35,Movies Collection,https://static.sky.co.nz/sky/epglogos/MK_SkyMovies_Collection_Logo.png,,Movies
+36,Family Movies,https://static.sky.co.nz/sky/epglogos/MK_Sky_Movies_Family_Logo.png,true,Kids & Family
+39,Rialto,https://static.sky.co.nz/sky/epglogos/logo_039_80x60.png,,Movies
+40,SKY Box Office,https://static.sky.co.nz/sky/epglogos/MK_SBO_LogoThumbnail_80x60.png,,Movies
+41,SKY Box Office 041,https://static.sky.co.nz/sky/epglogos/MK_SBO_LogoThumbnail_80x60.png,,Movies
+42,SKY Box Office 042,https://static.sky.co.nz/sky/epglogos/MK_SBO_LogoThumbnail_80x60.png,,Movies
+43,SKY Box Office 043,https://static.sky.co.nz/sky/epglogos/MK_SBO_LogoThumbnail_80x60.png,,Movies
+50,SKY Sport Select,https://static.sky.co.nz/sky/epglogos/logo_SKY_Sport_Select_80x60.png,true,Sport
+51,SKY Sport 1,https://static.sky.co.nz/sky/epglogos/MK_SkySport1_NewLogo_V_80x60.png,true,Sport
+52,SKY Sport 2,https://static.sky.co.nz/sky/epglogos/MK_SkySport2_NewLogo_V_80x60.png,true,Sport
+53,SKY Sport 3,https://static.sky.co.nz/sky/epglogos/MK_SkySport3_NewLogo_V_80x60.png,true,Sport
+54,SKY Sport 4,https://static.sky.co.nz/sky/epglogos/MK_SkySport4_NewLogo_V_80x60.png,,Sport
+55,SKY Sport 5,https://static.sky.co.nz/sky/epglogos/MK_SkySport5_NewLogo_V_80x60.png,true,Sport
+56,SKY Sport 6,https://static.sky.co.nz/sky/epglogos/MK_SkySport6_NewLogo_V_80x60.png,true,Sport
+57,SKY Sport 7,https://static.sky.co.nz/sky/epglogos/MK_SkySport7_NewLogo_V_80x60.png,true,Sport
+58,SKY Sport 8,https://static.sky.co.nz/sky/epglogos/MK_SkySport8_NewLogo_V_80x60.png,true,Sport
+59,SKY Sport 9,https://static.sky.co.nz/sky/epglogos/MK_SkySport9_NewLogo_V_80x60.png,true,Sport
+600,SKY Sport Popup 1,https://static.sky.co.nz/sky/epglogos/MK_SKYSportPopUp1_Logo_80x60.png,,Sport
+60,ESPN,https://static.sky.co.nz/sky/epglogos/ESPN.png,,Sport
+61,ESPN2,https://static.sky.co.nz/sky/epglogos/ESPN2.png,true,Sport
+62,TAB Trackside 1,https://static.sky.co.nz/sky/epglogos/Trackside_1.png,true,Sport
+63,TAB Trackside 2,https://static.sky.co.nz/sky/epglogos/Trackside_2.png,true,Sport
+65,SKY Arena,https://static.sky.co.nz/sky/epglogos/MK_SkyArena_NewLogo_80x60.png,,Sport
+70,Discovery Channel,https://static.sky.co.nz/sky/epglogos/Discovery_Channel.png,,News & Documentaries
+71,Crime + Investigation,https://static.sky.co.nz/sky/epglogos/MK_CI_LogoThumb_Update_80x60.png,,News & Documentaries
+72,National Geographic,https://static.sky.co.nz/sky/epglogos/MK_NatGeo_LogoThumbnail_80x60.jpg,,News & Documentaries
+73,History,https://static.sky.co.nz/sky/epglogos/MK_History_LogoThumbnail_80x60.jpg,,News & Documentaries
+74,BBC Earth,https://static.sky.co.nz/sky/epglogos/MK_BBCEarth_LogoThumbnail_80x60.jpg,,News & Documentaries
+75,Discovery Turbo,https://static.sky.co.nz/sky/epglogos/MK_DiscoveryTurbo_LogoThumbnail_80x60.jpg,,News & Documentaries
+76,Animal Planet,https://static.sky.co.nz/sky/epglogos/MK_AnimalPlanetUpdate_Thumbnail_80x60.png,,News & Documentaries
+81,Country TV,https://static.sky.co.nz/sky/epglogos/logo_081_250x180.png,,Special Interest
+82,Te Reo,https://static.sky.co.nz/sky/epglogos/Te_Reo.png,,Entertainment
+83,FACE TV,https://static.sky.co.nz/sky/epglogos/MK_FaceTV_LogoThumbnail_80x60.jpg,,Entertainment
+85,SKY NEWS,https://static.sky.co.nz/sky/epglogos/MK_SKYNews_LogoThumb_v2_80x60px.png,,News & Documentaries
+86,Parliament TV,https://static.sky.co.nz/sky/epglogos/parliament-tv-thumb.png,true,News & Documentaries
+87,CNN International,https://static.sky.co.nz/sky/epglogos/CNN_Logo_80x60.jpg,,News & Documentaries
+88,Fox News,https://static.sky.co.nz/sky/epglogos/Fox_News_Channel.png,,News & Documentaries
+89,BBC World News,https://static.sky.co.nz/sky/epglogos/BBCWorldNews_Logo_80x60.png,,News & Documentaries
+90,Al Jazeera,https://static.sky.co.nz/sky/epglogos/Al_Jazeera.png,,News & Documentaries
+91,CNBC,https://static.sky.co.nz/sky/epglogos/CNBC.png,,News & Documentaries
+92,RT,https://static.sky.co.nz/sky/epglogos/RT.png,,News & Documentaries
+100,Nick Music,https://static.sky.co.nz/sky/epglogos/MK_Logo_NickMusic_80x60.png,,Kids & Family
+101,Nick,https://static.sky.co.nz/sky/epglogos/MK_Nick_LogoThumbnail_80x60.png,,Kids & Family
+102,Cartoon Network,https://static.sky.co.nz/sky/epglogos/MK_CartoonNetwork_LogoThumbnail_80x60.jpg,,Kids & Family
+103,CBeebies,https://static.sky.co.nz/sky/epglogos/CBeebies_logo_80x60.png,,Kids & Family
+104,nick jr.,https://static.sky.co.nz/sky/epglogos/Nick_Jr.png,,Kids & Family
+150,Star Plus Hindi,https://static.sky.co.nz/sky/epglogos/logo_150_250x180.png,,Special Interest
+151,Colors,https://static.sky.co.nz/sky/epglogos/logo_151_250x180.png,,Special Interest
+152,Star Gold,https://static.sky.co.nz/sky/epglogos/logo_152_250x180.png,,Special Interest
+160,The Filipino Channel,https://static.sky.co.nz/sky/epglogos/0111_80x60.png,,Special Interest
+201,Shine TV,https://static.sky.co.nz/sky/epglogos/MK_ShineTV_LogoThumbnail_80x60.jpg,,Special Interest
+202,Daystar TV Network,https://static.sky.co.nz/sky/epglogos/Daystar.png,,Entertainment
+203,SBN,https://static.sky.co.nz/sky/epglogos/MK_SBN_LogoThumbnail_80x60.jpg,,Special Interest
+204,Hope Channel,https://static.sky.co.nz/sky/epglogos/MK_HopeChannel_Logo_80x60.png,,Special Interest
+206,Firstlight,https://static.sky.co.nz/sky/epglogos/MK_Firstlight_LogoThumb_250x180.jpg,,Special Interest
+309,CGTN,https://static.sky.co.nz/sky/epglogos/MK_CGTNDoc_LogoThumbnail_80x60.png,,Special Interest
+310,CGTN,https://static.sky.co.nz/sky/epglogos/MK_CGTNnew_LogoThumbnail_80x60.png,,News & Documentaries
+501,One Plus 1,https://static.sky.co.nz/sky/epglogos/TV1_plus_1.png,,Entertainment
+502,TV2 + 1,https://static.sky.co.nz/sky/epglogos/TV2_plus_1.png,,Entertainment
+503,ThreePlus1,https://static.sky.co.nz/sky/epglogos/MK_ThreePlus1_LogoThumbnail_80x60.png,,Entertainment
+504,DukePlus1,https://static.sky.co.nz/sky/epglogos/MK_DUKEPlus1_Logo.png,,Entertainment
+505,eden +1,https://static.sky.co.nz/sky/epglogos/EdenPlus1Red.png,,Entertainment
+512,BRAVO Plus 1,https://static.sky.co.nz/sky/epglogos/MK_Bravo_plus1_Thumbnail_Logo_80x60.png,,Entertainment
+514,Prime PLUS 1,https://static.sky.co.nz/sky/epglogos/MK_PrimePlus1_LogoThumbnail_80x60.png,,Entertainment

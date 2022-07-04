@@ -1,8 +1,8 @@
 {
       "filetype": "Pro:Centric JSON Program Guide Data",
       "version": "0.1",
-      "fetchTime": "2022-07-04 12:09:12.719323+12:00",
-      "maxMinutes": 77760,
+      "fetchTime": "2022-07-04 12:35:07.233476+12:00",
+      "maxMinutes": 71520,
       "channels": [
             {
                   "channelID": 514,
@@ -11,17 +11,6 @@
                   "events": [
                         {
                               "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
-                        {
-                              "channelNumber": 514,
                               "genres": "Drama",
                               "rating": "M-CV",
                               "eventID": "047093636",
@@ -200,17 +189,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -391,17 +369,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -582,17 +549,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -773,17 +729,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -966,17 +911,6 @@
                   "events": [
                         {
                               "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
-                        {
-                              "channelNumber": 514,
                               "genres": "Drama",
                               "rating": "M-CV",
                               "eventID": "047093636",
@@ -1155,17 +1089,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -1346,17 +1269,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -1537,17 +1449,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -1728,17 +1629,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -1919,17 +1809,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -2110,17 +1989,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -2301,17 +2169,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -2492,17 +2349,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -2683,17 +2529,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -2874,17 +2709,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -3065,17 +2889,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -3258,17 +3071,6 @@
                   "events": [
                         {
                               "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
-                        {
-                              "channelNumber": 514,
                               "genres": "Drama",
                               "rating": "M-CV",
                               "eventID": "047093636",
@@ -3447,17 +3249,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -3638,17 +3429,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -3829,17 +3609,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -4020,17 +3789,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -4211,17 +3969,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -4402,17 +4149,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -4593,17 +4329,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -4784,17 +4509,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -4975,17 +4689,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -5166,17 +4869,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -5357,17 +5049,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -5550,17 +5231,6 @@
                   "events": [
                         {
                               "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
-                        {
-                              "channelNumber": 514,
                               "genres": "Drama",
                               "rating": "M-CV",
                               "eventID": "047093636",
@@ -5739,17 +5409,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -5930,17 +5589,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -6121,17 +5769,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -6312,17 +5949,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -6503,17 +6129,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -6694,17 +6309,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -6885,17 +6489,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -7076,17 +6669,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -7267,17 +6849,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -7458,17 +7029,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -7649,17 +7209,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -7842,17 +7391,6 @@
                   "events": [
                         {
                               "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
-                        {
-                              "channelNumber": 514,
                               "genres": "Drama",
                               "rating": "M-CV",
                               "eventID": "047093636",
@@ -8031,17 +7569,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -8222,17 +7749,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -8413,17 +7929,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -8604,17 +8109,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -8797,17 +8291,6 @@
                   "events": [
                         {
                               "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
-                        {
-                              "channelNumber": 514,
                               "genres": "Drama",
                               "rating": "M-CV",
                               "eventID": "047093636",
@@ -8986,17 +8469,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -9177,17 +8649,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -9368,17 +8829,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -9559,17 +9009,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -9750,17 +9189,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -9941,17 +9369,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -10127,22 +9544,11 @@
                         }
                   ]
             },
-            {
-                  "channelID": 514,
-                  "name": "Prime PLUS 1",
-                  "resolution": "SD",
-                  "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
+            {
+                  "channelID": 514,
+                  "name": "Prime PLUS 1",
+                  "resolution": "SD",
+                  "events": [
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -10323,17 +9729,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -10514,17 +9909,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -10705,17 +10089,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -10896,17 +10269,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -11087,17 +10449,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -11278,17 +10629,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -11469,17 +10809,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -11660,17 +10989,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -11851,17 +11169,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -12042,17 +11349,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -12233,17 +11529,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -12424,17 +11709,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -12615,17 +11889,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -12806,17 +12069,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -12997,17 +12249,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -13188,17 +12429,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -13379,17 +12609,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -13570,17 +12789,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -13761,17 +12969,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -13952,17 +13149,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -14143,17 +13329,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -14334,17 +13509,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -14525,17 +13689,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -14716,17 +13869,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -14907,17 +14049,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -15098,17 +14229,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -15289,17 +14409,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -15480,17 +14589,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -15671,17 +14769,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -15862,17 +14949,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -16053,17 +15129,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -16244,17 +15309,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -16435,17 +15489,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -16626,17 +15669,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -16817,17 +15849,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -17008,17 +16029,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -17199,17 +16209,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -17390,17 +16389,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -17581,17 +16569,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -17772,17 +16749,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -17963,17 +16929,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",
@@ -18154,17 +17109,6 @@
                   "name": "Prime PLUS 1",
                   "resolution": "SD",
                   "events": [
-                        {
-                              "channelNumber": 514,
-                              "genres": "General Entertainment",
-                              "rating": "M",
-                              "eventID": "047092232",
-                              "name": "Big Love",
-                              "eventDescription": "Bill rushes to announce his candidacy, Alby gives JJ permission to add a wife, and Don takes a bullet for Bill. S4 Ep4",
-                              "date": "2022-07-04",
-                              "startTime": "1130",
-                              "length": "65"
-                        },
                         {
                               "channelNumber": 514,
                               "genres": "Drama",

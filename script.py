@@ -1,6 +1,6 @@
 import requests
 import time
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone, timedelta, date
 import pytz
 import json
 from zipfile import ZipFile
@@ -140,7 +140,10 @@ def buildPayLoad(epg):
 
 def saveToZip(payload):
     #Zip file name : Procentric_EPG_{country code}_{date}.zip (e.g. Procentric_EPG_GBR_20220609.zip)
-    file_name = "./export/Procentric_EPG_NZL_20220704.zip"
+    
+    today = datetime.today().date().strftime("%Y%m%d")
+
+    file_name = "./export/Procentric_EPG_NZL_%s.zip" % (today)
     with ZipFile(file_name, 'w') as zip:
         zip.write("./data/Procentric_EPG.json")
         zip.close()

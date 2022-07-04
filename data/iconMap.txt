@@ -1,0 +1,98 @@
+## iconsMap.txt
+# ID | filename | name | alias (optional)
+001 | tv1.png | One
+002 | tv2.png | TV2
+003 | mk_three_logothumbnail_80x60.png | Three
+004 | prime_orange_80x60.png | Prime TV
+005 | mk_sky5_logothumbnail_70x70.png | Sky 5
+006 | vibe.png | Vibe
+007 | uktv.png | UKTV
+008 | jones.png | Jones!
+208 | mk_jonestoo_logothumbnail_60x80.png | JONES! too
+009 | mk_skyboxsets_logothumbnail_80x60.png | SKY BOX SETS
+010 | mk_soho_logothumbnail2019_250x180.png | SoHo
+210 | 210_universal_tv.png | UniversalTV
+011 | comedy_central.png | Comedy Central
+012 | mk_bravo_thumbnail.png | BRAVO
+013 | edenlogored.png | eden
+014 | e.png | E!
+015 | mtv.png | MTV
+016 | mk_tlc_logothumb_70x70.png | TLC
+017 | mk_livingchannel_logosmall.jpg | Living Channel
+018 | mk_id.png | Investigation Discovery
+019 | maori_tv.png | Maori Television
+020 | logo_020_80x60.png | SKY ARTS
+021 | mk_hgtv_logothumbnail_70x70.png | HGTV
+022 | mtv_hits.png | MTV Music
+023 | mk_duke_logothumbnail_80x60.png | DUKE
+024 | colour_logo.png | Rush
+025 | the_shopping_channel.png | The Shopping Channel
+030 | mk_sky_movies_premiere_logo.png | Premiere Movies
+031 | mk_sky_movies_comedy_logo.png | Comedy Movies
+032 | mk_sky_movies_action_logo.png | Action Movies
+033 | mk_sky_movies_greats_logo.png | Great Movies
+034 | mk_sky_movies_classics_logo.png | Classic Movies
+035 | mk_skymovies_collection_logo.png | Movies Collection
+036 | mk_sky_movies_family_logo.png | Family Movies
+039 | logo_039_80x60.png | Rialto
+040 | mk_sbo_logothumbnail_80x60.png | SKY Box Office
+041 | mk_sbo_logothumbnail_80x60.png | SKY Box Office 041
+042 | mk_sbo_logothumbnail_80x60.png | SKY Box Office 042
+043 | mk_sbo_logothumbnail_80x60.png | SKY Box Office 043
+050 | logo_sky_sport_select_80x60.png | SKY Sport Select
+051 | mk_skysport1_newlogo_v_80x60.png | SKY Sport 1
+052 | mk_skysport2_newlogo_v_80x60.png | SKY Sport 2
+053 | mk_skysport3_newlogo_v_80x60.png | SKY Sport 3
+054 | mk_skysport4_newlogo_v_80x60.png | SKY Sport 4
+055 | mk_skysport5_newlogo_v_80x60.png | SKY Sport 5
+056 | mk_skysport6_newlogo_v_80x60.png | SKY Sport 6
+057 | mk_skysport7_newlogo_v_80x60.png | SKY Sport 7
+058 | mk_skysport8_newlogo_v_80x60.png | SKY Sport 8
+059 | mk_skysport9_newlogo_v_80x60.png | SKY Sport 9
+600 | mk_skysportpopup1_logo_80x60.png | SKY Sport Popup 1
+060 | espn.png | ESPN
+061 | espn2.png | ESPN2
+062 | trackside_1.png | TAB Trackside 1
+063 | trackside_2.png | TAB Trackside 2
+065 | mk_skyarena_newlogo_80x60.png | SKY Arena
+070 | discovery_channel.png | Discovery Channel
+071 | mk_ci_logothumb_update_80x60.png | Crime + Investigation
+072 | mk_natgeo_logothumbnail_80x60.jpg | National Geographic
+073 | mk_history_logothumbnail_80x60.jpg | History
+074 | mk_bbcearth_logothumbnail_80x60.jpg | BBC Earth
+075 | mk_discoveryturbo_logothumbnail_80x60.jpg | Discovery Turbo
+076 | mk_animalplanetupdate_thumbnail_80x60.png | Animal Planet
+081 | logo_081_250x180.png | Country TV
+082 | te_reo.png | Te Reo
+083 | mk_facetv_logothumbnail_80x60.jpg | FACE TV
+085 | mk_skynews_logothumb_v2_80x60px.png | SKY NEWS
+086 | parliament_tv_thumb.png | Parliament TV
+087 | cnn_logo_80x60.jpg | CNN International
+088 | fox_news_channel.png | Fox News
+089 | bbcworldnews_logo_80x60.png | BBC World News
+090 | al_jazeera.png | Al Jazeera
+091 | cnbc.png | CNBC
+092 | rt.png | RT
+100 | mk_logo_nickmusic_80x60.png | Nick Music
+101 | mk_nick_logothumbnail_80x60.png | Nick
+102 | mk_cartoonnetwork_logothumbnail_80x60.jpg | Cartoon Network
+103 | cbeebies_logo_80x60.png | CBeebies
+104 | nick_jr.png | nick jr.
+150 | logo_150_250x180.png | Star Plus Hindi
+151 | logo_151_250x180.png | Colors
+152 | logo_152_250x180.png | Star Gold
+160 | 0111_80x60.png | The Filipino Channel
+201 | mk_shinetv_logothumbnail_80x60.jpg | Shine TV
+202 | daystar.png | Daystar TV Network
+203 | mk_sbn_logothumbnail_80x60.jpg | SBN
+204 | mk_hopechannel_logo_80x60.png | Hope Channel
+206 | mk_firstlight_logothumb_250x180.jpg | Firstlight
+309 | mk_cgtndoc_logothumbnail_80x60.png | CGTN
+310 | mk_cgtnnew_logothumbnail_80x60.png | CGTN
+501 | tv1_plus_1.png | One Plus 1
+502 | tv2_plus_1.png | TV2 + 1
+503 | mk_threeplus1_logothumbnail_80x60.png | ThreePlus1
+504 | mk_dukeplus1_logo.png | DukePlus1
+505 | edenplus1red.png | eden +1
+512 | mk_bravo_plus1_thumbnail_logo_80x60.png | BRAVO Plus 1
+514 | mk_primeplus1_logothumbnail_80x60.png | Prime PLUS 1

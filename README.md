@@ -119,3 +119,7 @@ JSON Naming Convention = Procentric_EPG.json
 ### EPG ID Mapping for PCD or Other.
 [EPG ID Mapping](./data/raw_channels.csv)
 
+## Channel Icon Bundle
+
+Will build and bundle the NZ Channels icon bundle for importing into PCD.
+

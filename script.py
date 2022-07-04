@@ -123,7 +123,8 @@ def getMaxMinutes(epg):
 
 
 
-def buildPayLoad(epg):    
+def buildPayLoad(epg):   
+
     payload = {
         "filetype": "Pro:Centric JSON Program Guide Data",
         "version": "0.1",
@@ -140,10 +141,10 @@ def buildPayLoad(epg):
 
 def saveToZip(payload):
     #Zip file name : Procentric_EPG_{country code}_{date}.zip (e.g. Procentric_EPG_GBR_20220609.zip)
-    
+
     today = datetime.today().date().strftime("%Y%m%d")
 
-    file_name = "./export/Procentric_EPG_NZL_%s.zip" % (today)
+    file_name = "./export/NZL/Procentric_EPG_NZL_%s.zip" % (today)
     with ZipFile(file_name, 'w') as zip:
         zip.write("./data/Procentric_EPG.json")
         zip.close()

@@ -1,6 +1,6 @@
 {
-      "total": 1525,
-      "returned": 1525,
+      "total": 1523,
+      "returned": 1523,
       "events": [
             {
                   "id": "047548232",
@@ -227,19 +227,6 @@
                         "News/Current Affairs"
                   ],
                   "seriesId": "22182"
-            },
-            {
-                  "id": "047548807",
-                  "title": "Charmed",
-                  "synopsis": "Now all-powerful goddesses, the Charmed Ones must try to not be seduced by their new powers and stay focused on vanquishing the Titans before the Titans can destroy all the whitelighters and elders.",
-                  "channelNumber": 2,
-                  "start": "1656891900000",
-                  "end": "1656895200000",
-                  "genres": [
-                        "Drama"
-                  ],
-                  "rating": "PG",
-                  "seriesId": "16810"
             },
             {
                   "id": "047548810",
@@ -2979,18 +2966,6 @@
                   "rating": "M-C"
             },
             {
-                  "id": "047575184",
-                  "title": "Are You The One?",
-                  "synopsis": "A drunken mishap causes issues for the strongest couple. Anthony swoops in on Layton's crush, Jenni. John makes a move on Christina.",
-                  "channelNumber": 15,
-                  "start": "1656892200000",
-                  "end": "1656895200000",
-                  "genres": [
-                        "Drama"
-                  ],
-                  "rating": "M"
-            },
-            {
                   "id": "047575185",
                   "title": "The Challenge: Vendettas",
                   "synopsis": "Natalie balances a budding romance with her desire to be a strong competitor. An injured Melissa finds comfort with Nicole, but her true motives are questioned.",
@@ -4803,18 +4778,6 @@
                         "Rock Music"
                   ],
                   "rating": "16-CLSV"
-            },
-            {
-                  "id": "047549605",
-                  "title": "DUKEbox Music",
-                  "synopsis": "Let DUKEbox be your DJ as we bring you a selection of music videos, from fresh beats to classic bangers.",
-                  "channelNumber": 23,
-                  "start": "1656891000000",
-                  "end": "1656895200000",
-                  "genres": [
-                        "Music"
-                  ],
-                  "rating": "G"
             },
             {
                   "id": "047549607",
@@ -12383,17 +12346,17 @@
                   "seriesId": "31887"
             },
             {
-                  "id": "047521690",
-                  "title": "Boy Girl Dog Cat Mouse Cheese",
-                  "synopsis": "Boy's Friend: The family is going on a canoe trip.",
-                  "channelNumber": 102,
-                  "start": "1656894780000",
-                  "end": "1656895440000",
+                  "id": "047498384",
+                  "title": "The Casagrandes",
+                  "synopsis": "Fast Feud/Never Friending Story: Ronnie Anne and Sid try to take an obnoxious burger restaurant. / After picking Par as his new best friend, Bobby realizes he may be in over his head.",
+                  "channelNumber": 101,
+                  "start": "1656938400000",
+                  "end": "1656939900000",
                   "genres": [
                         "Kids/Family"
                   ],
-                  "rating": "PG",
-                  "seriesId": "14382"
+                  "rating": "G",
+                  "seriesId": "31887"
             },
             {
                   "id": "047521691",
@@ -13124,16 +13087,17 @@
                   "seriesId": "26306"
             },
             {
-                  "id": "047534504",
-                  "title": "Bitz & Bob: You Can Do It Too",
-                  "synopsis": "Make It- Rock & Roll: You Can Do It Too: We're using engineering to stop stones and soft drinks from sinking in the water!",
-                  "channelNumber": 103,
-                  "start": "1656894900000",
-                  "end": "1656895200000",
+                  "id": "047521747",
+                  "title": "Regular Show",
+                  "synopsis": "First Day: Mordecai and Rigby play Rock, Paper, Scissors for a chair.",
+                  "channelNumber": 102,
+                  "start": "1656938640000",
+                  "end": "1656939600000",
                   "genres": [
-                        "Kids (Pre-School)"
+                        "Kids/Family"
                   ],
-                  "rating": "G"
+                  "rating": "PG",
+                  "seriesId": "18154"
             },
             {
                   "id": "047534505",
@@ -17711,6 +17675,19 @@
                   ],
                   "rating": "PG",
                   "seriesId": "65305"
+            },
+            {
+                  "id": "047548265",
+                  "title": "Under Investigation",
+                  "synopsis": "This series seeks to solve crimes, uncover new evidence, hear from people who have never spoken publicly, while harnessing great knowledge and skill with innovative storytelling techniques.",
+                  "channelNumber": 501,
+                  "start": "1656938400000",
+                  "end": "1656941700000",
+                  "genres": [
+                        "General Entertainment"
+                  ],
+                  "rating": "PG",
+                  "seriesId": "13763"
             },
             {
                   "id": "047548805",

@@ -7,6 +7,15 @@ The following uses the Sky NZ EPG API to extract the current days channel inform
 Feel free to use this as a base if you want needing NZ EPG data including all Sky NZ channels and model as you see fit.
 
 
+## How to Use.
+Clone this Repo.
+Create the Python venv
+Install Pip Requirements
+Create a Credentials.yaml file in the root
+TEST
+Schedual Task, Daily
+
+
 ## SKY NZ API (No Channel Info)
 URL https://web-epg.sky.co.nz/prod/epgs/v1?start={unix_timestamp}&end={unix_timestamp}&limit=20000
 

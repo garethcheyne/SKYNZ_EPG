@@ -80,7 +80,7 @@ This data is not published anywhere.
     "filetype": "Pro:Centric JSON Program Guide Data 98101",
     "version": "0.1",
     "fetchTime": "2022-06-24T13:22:44-0400",
-    "maxMinutes": 259200,
+    "maxMinutes": 60,
     "channels": [
         {
             "channelID": "1",

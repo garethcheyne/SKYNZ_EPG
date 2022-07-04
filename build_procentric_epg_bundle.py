@@ -35,8 +35,9 @@ def push2FTP(file_name):
 
 
 def getRawEPG():
-    dateTimeStart = datetime.now(pytz.timezone("Pacific/Auckland"))
-    dateTimeEnd = dateTimeStart + timedelta(hours=12)
+    now = datetime.now(pytz.timezone("Pacific/Auckland"))
+    dateTimeStart = now + timedelta(hours=12)
+    dateTimeEnd = now + timedelta(hours=24)
 
     timeStart = str(datetime.timestamp(dateTimeStart)*1000).replace(".","")[0:13]
     timeEnd = str(datetime.timestamp(dateTimeEnd)*1000).replace(".","")[0:13] 

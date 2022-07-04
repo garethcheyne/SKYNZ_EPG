@@ -1,6 +1,6 @@
 # SKY New Zealand EPG Data Export.
 
-ALPHA ONLY, NOT COMPLETE, NOT TESTED AND WORKING.
+ALPHA ONLY, NOT COMPLETE, NOT TESTED OR CONFIRMED WORKING.
 
 The following uses the Sky NZ EPG API to extract the current days channel information and prepairs that data for importation into a LG PCD Server, after it has been uploaded the an ftp server accessable to the PCD.
 
@@ -11,8 +11,8 @@ Feel free to use this as a base if you want an NZ EPG data including all Sky NZ 
 1. Clone this Repo.
 2. Create the Python venv
 3. Install Pip Requirements
-4. Create a Credentials.yaml file in the root
-5. TEST
+4. Create a "credentials.yaml" file in the root
+5. !IMPORTANT -> TEST
 6. Schedule Task, Daily
 
 
@@ -81,7 +81,7 @@ URL https://skywebconfig.msl-prod.skycloud.co.nz/sky/json/channels.prod.json
 
 
 ## LG ProCentric 
-Preparing the data form importation is only the first step, you must host a Zip file on and accessable FTP server and have the files names correctly.
+Preparing the data form importation is only the first step, you must host a Zip file on and accessable FTP server and have the file named correctly.
 
 ZIP Naming Convention = Procentric_EPG_{ISO Country Code ie NZL}_{Date YYYYMMDD}.zip
 
@@ -116,6 +116,6 @@ JSON Naming Convention = Procentric_EPG.json
 }
 ```
 
-### EPG ID Mapping.
+### EPG ID Mapping for PCD or Other.
 [EPG ID Mapping](./data/raw_channels.csv)
 

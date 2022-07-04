@@ -7,10 +7,10 @@ The following uses the Sky NZ EPG API to extract the current days channel inform
 Feel free to use this as a base if you want needing NZ EPG data including all Sky NZ channels and model as you see fit.
 
 
-## SKY NZ API (No Chaannel Info)
+## SKY NZ API (No Channel Info)
 URL https://web-epg.sky.co.nz/prod/epgs/v1?start={unix_timestamp}&end={unix_timestamp}&limit=20000
 
-PayLoad Responce
+### PayLoad Responce
 ```
 {
     "total": 947,
@@ -34,7 +34,8 @@ PayLoad Responce
 }
 ```
 
-Error Responce
+### Error Responce, 
+Useful if you want to add further queries in the url.
 ```
 {
     "code" : "NO_RESULTS_FOUND",
@@ -70,8 +71,10 @@ URL https://skywebconfig.msl-prod.skycloud.co.nz/sky/json/channels.prod.json
 
 
 
-## LG ProCentric Expected Format.
+## LG ProCentric 
 This data is not published anywhere.
+
+### Expected JSON Format
 ```
 {
     "filetype": "Pro:Centric JSON Program Guide Data 98101",

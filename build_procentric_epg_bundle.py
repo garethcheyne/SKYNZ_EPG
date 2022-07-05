@@ -106,7 +106,7 @@ def modelEPG(rawEPG):
 
     for event in events:
         event["eventID"] = event.pop("id")
-        event["name"] = event.pop("title")
+        event["title"] = event.pop("title")
         event["eventDescription"] = event.pop("synopsis")
         event["date"] =  date(event["start"])
         event["startTime"] = time(event["start"])
@@ -133,6 +133,12 @@ def groupEPGChannels(events):
         channel["resolution"] = "HD" if c["hd"] == "true" else "SD"
         channel["events"] = epg
         channels.append(channel)
+
+    for channel in channels:
+        for event in channel["events"]:
+            if "channelNumber" in event.keys():
+                del event["channelNumber"]
+                print("ok")
 
     return channels
     
@@ -171,7 +177,7 @@ def saveToZip(payload):
 
     file_name = f"Procentric_EPG_NZL_{today}.zip"
     with ZipFile(f"./export/NZL/{file_name}", 'w') as zip:
-        zip.write("./data/Procentric_EPG.json")
+        zip.write("./data/Procentric_EPG.json", "Procentric_EPG.json")
         zip.close()
 
     return file_name
@@ -196,7 +202,7 @@ def Main():
     file_name = saveToZip(payload)
 
     ## Upload to FTP
-    push2FTP(file_name)
+    #push2FTP(file_name)
 
 
 Main()

@@ -122,24 +122,28 @@ def modelEPG(rawEPG):
 
 def groupEPGChannels(events):
     rawChannels = getRawChannels()
-    channel = {}
+ 
+    
     channels = []
+    print(type(channels))
 
     for c in rawChannels:
-        epg = [x for x in events if (x['channelNumber'] == int(c["number"]))]
+        channel = {}
+        epg = [x for x in events if (x['channelNumber'] == int(c["number"]))]  
 
-        channel["channelID"] = int(c["number"])
+        channel["channelID"] = "NZL" + str(int(c["number"]))
         channel["name"] = c["name"]
         channel["resolution"] = "HD" if c["hd"] == "true" else "SD"
         channel["events"] = epg
         channels.append(channel)
 
+        print(f'Channel = {channel["name"]} Number = {c["number"]})')
+
     for channel in channels:
         for event in channel["events"]:
             if "channelNumber" in event.keys():
                 del event["channelNumber"]
-                print("ok")
-
+  
     return channels
     
 

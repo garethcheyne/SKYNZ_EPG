@@ -1,31 +1,7 @@
 {
-      "total": 1491,
-      "returned": 1491,
+      "total": 1504,
+      "returned": 1504,
       "events": [
-            {
-                  "id": "047548340",
-                  "title": "Infomercials",
-                  "synopsis": "Infomercials",
-                  "channelNumber": 1,
-                  "start": "1657035300000",
-                  "end": "1657037100000",
-                  "genres": [
-                        "Shopping"
-                  ],
-                  "rating": "G"
-            },
-            {
-                  "id": "047548342",
-                  "title": "Infomercials",
-                  "synopsis": "Infomercials",
-                  "channelNumber": 1,
-                  "start": "1657037100000",
-                  "end": "1657038900000",
-                  "genres": [
-                        "Shopping"
-                  ],
-                  "rating": "G"
-            },
             {
                   "id": "047548344",
                   "title": "Infomercials",
@@ -178,42 +154,29 @@
                   "seriesId": "4903"
             },
             {
-                  "id": "047548987",
-                  "title": "Heroes",
-                  "synopsis": "S1 E9 Claire's homecoming celebration becomes a frightening night for many, Hiro travels back in time to right a wrong, and Suresh continues to experience strange dreams while in India.",
-                  "channelNumber": 2,
-                  "start": "1657034700000",
-                  "end": "1657037400000",
+                  "id": "047548368",
+                  "title": "Te Karere",
+                  "synopsis": "Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.",
+                  "channelNumber": 1,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
                   "genres": [
-                        "Drama"
+                        "General Entertainment"
                   ],
-                  "rating": "M-CV",
-                  "seriesId": "40636"
+                  "seriesId": "26969"
             },
             {
-                  "id": "047548990",
-                  "title": "B Positive",
-                  "synopsis": "S1 E7 After missing Maddie's soccer game due to dialysis, a depressed Drew begins to question if all his sacrifices are worth it.",
-                  "channelNumber": 2,
-                  "start": "1657037400000",
-                  "end": "1657038600000",
+                  "id": "047548370",
+                  "title": "Neighbours",
+                  "synopsis": "Kiri begins to see Nicolette in a new light. Paul tempts Estelle.",
+                  "channelNumber": 1,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
                   "genres": [
-                        "Comedy"
+                        "Soap"
                   ],
                   "rating": "PG",
-                  "seriesId": "13546"
-            },
-            {
-                  "id": "047548993",
-                  "title": "2 Tunes",
-                  "synopsis": "2 Tunes",
-                  "channelNumber": 2,
-                  "start": "1657038600000",
-                  "end": "1657038900000",
-                  "genres": [
-                        "Reality Show"
-                  ],
-                  "rating": "M"
+                  "seriesId": "6016"
             },
             {
                   "id": "047548996",
@@ -525,17 +488,6 @@
                   "seriesId": "29582"
             },
             {
-                  "id": "047566385",
-                  "title": "Infomercials",
-                  "synopsis": "Infomercials",
-                  "channelNumber": 3,
-                  "start": "1657029600000",
-                  "end": "1657036800000",
-                  "genres": [
-                        "Shopping"
-                  ]
-            },
-            {
                   "id": "047566388",
                   "title": "Infomercials",
                   "synopsis": "Infomercials",
@@ -643,6 +595,32 @@
                   ],
                   "rating": "PG-CL",
                   "seriesId": "28300"
+            },
+            {
+                  "id": "047566417",
+                  "title": "Room Crashers",
+                  "synopsis": "Todd Davis is in stores across America looking for unsuspecting homeowners who could use some help with their home improvement projects, transforming their bland rooms into stunning showpieces.",
+                  "channelNumber": 3,
+                  "start": "1657079700000",
+                  "end": "1657081800000",
+                  "genres": [
+                        "Home/Gardening"
+                  ],
+                  "rating": "G",
+                  "seriesId": "34202"
+            },
+            {
+                  "id": "047588975",
+                  "title": "Extreme Couponing",
+                  "synopsis": "New Episode. A Florida mega donator stacks coupons to make over $50 to spend on other groceries. A super frugal mom in Missouri plans to buy over $400 worth of groceries for under $10. S1 Ep3",
+                  "channelNumber": 3,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "Reality Show"
+                  ],
+                  "rating": "PG",
+                  "seriesId": "23862"
             },
             {
                   "id": "047342522",
@@ -812,30 +790,17 @@
                   "seriesId": "17697"
             },
             {
-                  "id": "046816610",
-                  "title": "Storage Wars",
-                  "synopsis": "The desert is hot, but the auctions are hotter in Palm Desert, CA. A few locals give Rene a run for his money, but that doesn't stop Mary from bidding beyond her budget. S8 Ep14",
-                  "channelNumber": 5,
-                  "start": "1657035000000",
-                  "end": "1657036500000",
-                  "genres": [
-                        "Reality Show"
-                  ],
-                  "rating": "PG-L",
-                  "seriesId": "31248"
-            },
-            {
-                  "id": "046816611",
-                  "title": "Storage Wars",
-                  "synopsis": "The buyers hope to stay classy as they head south to San Diego. Darrell has to shoulder the burden of a possible bad locker, as Mary tries to get in touch with her inner Californian. S8 Ep15",
-                  "channelNumber": 5,
-                  "start": "1657036500000",
-                  "end": "1657038000000",
+                  "id": "047379070",
+                  "title": "Outback Truckers",
+                  "synopsis": "History threatens to repeat itself for Steve Grahame and convoy partner Sy Howells. Yogi feels the pressure as he loads a number of awkward and irreplaceable vintage tractors. S7 Ep10",
+                  "channelNumber": 4,
+                  "start": "1657080000000",
+                  "end": "1657083300000",
                   "genres": [
                         "Reality Show"
                   ],
                   "rating": "PG",
-                  "seriesId": "31248"
+                  "seriesId": "26980"
             },
             {
                   "id": "047147506",
@@ -1085,6 +1050,32 @@
                   "seriesId": "14358"
             },
             {
+                  "id": "046964446",
+                  "title": "Jeopardy",
+                  "synopsis": "This is fast paced general knowledge at its best! Jeopardy provides a test of literature, history, science, the arts, pop culture and more. Can you keep up?",
+                  "channelNumber": 5,
+                  "start": "1657080600000",
+                  "end": "1657082100000",
+                  "genres": [
+                        "Game Show"
+                  ],
+                  "rating": "G",
+                  "seriesId": "65341"
+            },
+            {
+                  "id": "046388465",
+                  "title": "Wheel Of Fortune",
+                  "synopsis": "Contestants guess letters in mystery words and phrases to win money or prizes, all determined by a spin of The Wheel!",
+                  "channelNumber": 5,
+                  "start": "1657082100000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "Game Show"
+                  ],
+                  "rating": "G",
+                  "seriesId": "1622"
+            },
+            {
                   "id": "047132434",
                   "title": "Vera",
                   "synopsis": "DI Vera Stanhope, usually awkward around children, finds a kindred spirit in the son of a murdered woman.  Along the way she realises that the key to the case lies deep in the child\u2019s memory.",
@@ -1265,17 +1256,30 @@
                   "seriesId": "29113"
             },
             {
-                  "id": "047457764",
-                  "title": "Heartbeat",
-                  "synopsis": "England Expects: An old villain returns to Aidensfield and has a score to settle with the Ashfordly police. Elsewhere, Peggy ropes David into making clay pots, with explosive consequences S18 Ep2",
-                  "channelNumber": 7,
-                  "start": "1657035000000",
-                  "end": "1657038000000",
+                  "id": "047131094",
+                  "title": "Judging Amy",
+                  "synopsis": "Amy must decide whether a 10-year-old boy, whose mother suffers from a life-threatening illness, should be removed from his home. S6 Ep8",
+                  "channelNumber": 6,
+                  "start": "1657078800000",
+                  "end": "1657081800000",
                   "genres": [
                         "Drama"
                   ],
-                  "rating": "PG",
-                  "seriesId": "20152"
+                  "rating": "M",
+                  "seriesId": "9774"
+            },
+            {
+                  "id": "047131179",
+                  "title": "Judge Judy",
+                  "synopsis": "With her outspoken style and hard-hitting decisiveness, Judge Judy single-handedly sorts out family disputes and misdemeanours, one case at a time.",
+                  "channelNumber": 6,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "Reality Show"
+                  ],
+                  "rating": "PG-C",
+                  "seriesId": "23481"
             },
             {
                   "id": "047457765",
@@ -1445,29 +1449,17 @@
                   "seriesId": "30597"
             },
             {
-                  "id": "046994163",
-                  "title": "Nichols",
-                  "synopsis": "Ketcham angers a tribe of Native Americans when he tries to force a brave to end his hunt for a big buck. Nichols has to walk a fine line to keep the peace.",
-                  "channelNumber": 8,
-                  "start": "1657033500000",
-                  "end": "1657036500000",
+                  "id": "047457778",
+                  "title": "The Graham Norton Show",
+                  "synopsis": "Graham is joined by Tom Cruise, Jennifer Connelly, Miles Teller, Felicity Jones, Wunmi Mosaku and John Bishop. S28 Ep24",
+                  "channelNumber": 7,
+                  "start": "1657081200000",
+                  "end": "1657084500000",
                   "genres": [
-                        "Drama"
+                        "Talk Show"
                   ],
-                  "seriesId": "24484"
-            },
-            {
-                  "id": "046975477",
-                  "title": "The Beverly Hillbillies",
-                  "synopsis": "The ultimate fish-out-of-water story. The Clampett's strike it rich in oil and move from their mountain cabin to the upscale neighbourhood of Beverly Hills.",
-                  "channelNumber": 8,
-                  "start": "1657036500000",
-                  "end": "1657038000000",
-                  "genres": [
-                        "Comedy"
-                  ],
-                  "rating": "PG",
-                  "seriesId": "27468"
+                  "rating": "M-L",
+                  "seriesId": "14157"
             },
             {
                   "id": "046696847",
@@ -1678,17 +1670,17 @@
                   "seriesId": "22542"
             },
             {
-                  "id": "047356959",
-                  "title": "The Vow",
-                  "synopsis": "Season 1 finale: Keith hasn't been seen in Clifton Park for weeks, but the team gets a tip on where he might be. Sarah, Bonnie, Mark, Nippy, and Catherine face a shocking development in the case.",
-                  "channelNumber": 9,
-                  "start": "1657032780000",
-                  "end": "1657036020000",
+                  "id": "046238333",
+                  "title": "The Waltons",
+                  "synopsis": "The family all help with a large lumber contract, knowing they will be out of debt upon its completion. However, as they celebrate, Ike Godsey faces financial ruin.",
+                  "channelNumber": 8,
+                  "start": "1657080000000",
+                  "end": "1657083300000",
                   "genres": [
-                        "Investigations"
+                        "Drama"
                   ],
-                  "rating": "18-CLSV",
-                  "seriesId": "15859"
+                  "rating": "PG",
+                  "seriesId": "22028"
             },
             {
                   "id": "047382232",
@@ -1768,17 +1760,30 @@
                   "seriesId": "30709"
             },
             {
-                  "id": "046950200",
-                  "title": "New Amsterdam",
-                  "synopsis": "Season 4 finale: As a monster hurricane approaches, Bloom and the team scramble to put preparations in place. Max and Helen make plans for an intimate New York wedding.",
-                  "channelNumber": 10,
-                  "start": "1657033800000",
-                  "end": "1657036500000",
+                  "id": "047357276",
+                  "title": "The Vow",
+                  "synopsis": "Sarah, Mark, and Nippy contact additional news outlets to provoke outrage and pressure law enforcement to pay attention. Early defector Barbara Bouchey shares her insight into NXIVM. S1 Ep6",
+                  "channelNumber": 9,
+                  "start": "1657078920000",
+                  "end": "1657082280000",
                   "genres": [
-                        "Drama"
+                        "Investigations"
                   ],
-                  "rating": "M-CV",
-                  "seriesId": "11855"
+                  "rating": "18-CLSV",
+                  "seriesId": "30709"
+            },
+            {
+                  "id": "047357277",
+                  "title": "The Vow",
+                  "synopsis": "Catherine meets with Frank Parlato to build a dossier of evidence for the New York Attorney General's office. One of Keith's former girlfriend recalls the early days of the organisation. S1 Ep7",
+                  "channelNumber": 9,
+                  "start": "1657082280000",
+                  "end": "1657085580000",
+                  "genres": [
+                        "Investigations"
+                  ],
+                  "rating": "18-CLSV",
+                  "seriesId": "30709"
             },
             {
                   "id": "047425466",
@@ -1944,41 +1949,30 @@
                   "rating": "18-CLSV"
             },
             {
-                  "id": "047447663",
-                  "title": "Comedy Central Live",
-                  "synopsis": "(S01E02) Stephen Bailey: Comedy Central is introducing you to emerging comedy stars, all hailing from the UK, filmed in the intimate Dingwalls theatre.",
-                  "channelNumber": 11,
-                  "start": "1657035000000",
-                  "end": "1657036200000",
+                  "id": "047208515",
+                  "title": "A Black Lady Sketch Show",
+                  "synopsis": "Four friends on a camping trip unknowingly disprove a stereotype. A pastor tries to take back control of his church potluck. Robin, Quinta, Ashley, and Gabrielle discuss their weird turn-ons. S1 Ep5",
+                  "channelNumber": 10,
+                  "start": "1657079100000",
+                  "end": "1657080900000",
                   "genres": [
                         "Comedy"
                   ],
-                  "rating": "16-LS"
+                  "rating": "16-LS",
+                  "seriesId": "23092"
             },
             {
-                  "id": "047447664",
-                  "title": "Community",
-                  "synopsis": "(S02E20) Competitive Wine Tasting: The group must choose their spring electives. Britta and Troy take an acting class, and Abed picks a course studying a 1980s sitcom.",
-                  "channelNumber": 11,
-                  "start": "1657036200000",
-                  "end": "1657037400000",
+                  "id": "047211535",
+                  "title": "Our Cartoon President",
+                  "synopsis": "Trump hopes to make his cabinet more competent and prove he only hires \"the best people\". A freshly bearded Ted Cruz plans to makeover Stephen Miller in his own slightly less repulsive image. S2 Ep4",
+                  "channelNumber": 10,
+                  "start": "1657080900000",
+                  "end": "1657082700000",
                   "genres": [
-                        "Comedy"
+                        "Drama"
                   ],
-                  "rating": "M-CLS",
-                  "seriesId": "48794"
-            },
-            {
-                  "id": "047447665",
-                  "title": "South Park",
-                  "synopsis": "(S05E13) Kenny Dies: Kenny develops a terminal illness and is incredibly sick. All the boys react differently to this - Kyle stays by Kenny's bedside, and Stan avoids seeing him.",
-                  "channelNumber": 11,
-                  "start": "1657037400000",
-                  "end": "1657038900000",
-                  "genres": [
-                        "Comedy"
-                  ],
-                  "rating": "16"
+                  "rating": "16-L",
+                  "seriesId": "33453"
             },
             {
                   "id": "047447666",
@@ -2341,16 +2335,43 @@
                   "seriesId": "9619"
             },
             {
-                  "id": "047564857",
-                  "title": "Infomercials",
-                  "synopsis": "Infomercials",
-                  "channelNumber": 12,
-                  "start": "1657029600000",
-                  "end": "1657036800000",
+                  "id": "047447696",
+                  "title": "Seinfeld",
+                  "synopsis": "(S07E06) The Soup Nazi: A demanding soup stand chef bans Elaine from eating his wares.",
+                  "channelNumber": 11,
+                  "start": "1657078800000",
+                  "end": "1657080300000",
                   "genres": [
-                        "Shopping"
+                        "Comedy"
                   ],
-                  "rating": "G"
+                  "rating": "M-CLS",
+                  "seriesId": "9619"
+            },
+            {
+                  "id": "047447697",
+                  "title": "South Park",
+                  "synopsis": "(S16E08) Sarcastaball: Randy's campaign to prevent head injuries in football radically changes the way the game is played, but the new rules become a national sensation.",
+                  "channelNumber": 11,
+                  "start": "1657080300000",
+                  "end": "1657081800000",
+                  "genres": [
+                        "Comedy"
+                  ],
+                  "rating": "16",
+                  "seriesId": "4837"
+            },
+            {
+                  "id": "047447698",
+                  "title": "South Park",
+                  "synopsis": "(S16E09) Raising the bar: Cartman comes to accept his obesity, and decides that using a scooter for transportation is his right, an attitude embraced by others as well.",
+                  "channelNumber": 11,
+                  "start": "1657081800000",
+                  "end": "1657083300000",
+                  "genres": [
+                        "Comedy"
+                  ],
+                  "rating": "16",
+                  "seriesId": "4837"
             },
             {
                   "id": "047564859",
@@ -2480,16 +2501,17 @@
                   "seriesId": "5218"
             },
             {
-                  "id": "047543954",
-                  "title": "Infomercials",
-                  "synopsis": "Infomercials",
-                  "channelNumber": 13,
-                  "start": "1657029600000",
-                  "end": "1657036800000",
+                  "id": "047564879",
+                  "title": "Shark Tank",
+                  "synopsis": "A young man who applied four times to be on Shark Tank finally gets his chance when he pitches a gimmicky business that delivers an unusual twist to a common vegetable.",
+                  "channelNumber": 12,
+                  "start": "1657081800000",
+                  "end": "1657085400000",
                   "genres": [
-                        "Shopping"
+                        "Reality Show"
                   ],
-                  "rating": "G"
+                  "rating": "PG",
+                  "seriesId": "61668"
             },
             {
                   "id": "047543956",
@@ -2673,16 +2695,30 @@
                   "seriesId": "22000"
             },
             {
-                  "id": "047467582",
-                  "title": "Revenge Body with Khloe Kardashian",
-                  "synopsis": "The Excuse Queen & The Pop Star: Hoping to change her family's dangerous path toward diabetes and heart disease, 23-year-old Nicole embarks on a life-saving journey.",
-                  "channelNumber": 14,
-                  "start": "1657033200000",
-                  "end": "1657036800000",
+                  "id": "047570578",
+                  "title": "Giada In Italy",
+                  "synopsis": "Giada spends Sunday afternoon in the kitchen cooking for a family gathering. The menu includes roasted beets with cherries and pistachios, and lamb osso buco.",
+                  "channelNumber": 13,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
                   "genres": [
-                        "Reality Show"
+                        "Food/Cooking"
                   ],
-                  "rating": "M-C"
+                  "rating": "G",
+                  "seriesId": "32806"
+            },
+            {
+                  "id": "047570580",
+                  "title": "Giada In Italy",
+                  "synopsis": "Giada visits her favourite bakery in Sorrento. She bakes her famous pound cake to pair with limoncello zabaglione and makes a chocolate pistachio fudge tart.",
+                  "channelNumber": 13,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "Food/Cooking"
+                  ],
+                  "rating": "G",
+                  "seriesId": "32806"
             },
             {
                   "id": "047467583",
@@ -2853,16 +2889,28 @@
                   "rating": "M-C"
             },
             {
-                  "id": "047575267",
-                  "title": "Night Videos",
-                  "synopsis": "As night falls, MTV plays you the best videos out there",
-                  "channelNumber": 15,
-                  "start": "1657032900000",
-                  "end": "1657038900000",
+                  "id": "047467597",
+                  "title": "Overserved With Lisa Vanderpump",
+                  "synopsis": "A Tuscan Feast: Joel McHale & Cheryl Hines: Lisa creates an al fresco Tuscan feast for two hilarious guests - Italian-born Joel McHale and actress Cheryl Hines.",
+                  "channelNumber": 14,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
                   "genres": [
-                        "Rock Music"
+                        "Reality Show"
                   ],
-                  "rating": "16"
+                  "rating": "M-C"
+            },
+            {
+                  "id": "047467598",
+                  "title": "Revenge Body with Khloe Kardashian",
+                  "synopsis": "The Odd Couple & The Ex Factor: In the hopes of becoming parents one day soon, newlyweds Chad and Allison are both on a mission to get healthy.",
+                  "channelNumber": 14,
+                  "start": "1657081800000",
+                  "end": "1657085400000",
+                  "genres": [
+                        "Reality Show"
+                  ],
+                  "rating": "M-C"
             },
             {
                   "id": "047575268",
@@ -3057,17 +3105,16 @@
                   "rating": "16-LS"
             },
             {
-                  "id": "047403040",
-                  "title": "1000-Lb Sisters",
-                  "synopsis": "Welcome To Rehab: With her weight spiraling, Tammy makes a life-altering decision. Amy finally gets a taste of the life she's always wanted, but, unfortunately, it's short-lived.",
-                  "channelNumber": 16,
-                  "start": "1657035300000",
-                  "end": "1657038300000",
+                  "id": "047575284",
+                  "title": "Geordie Shore",
+                  "synopsis": "The Geordies are going radge in Tenerife, and it's not only the weather that's heating up! Steph's on the pull, and Sam continues to play with fire.",
+                  "channelNumber": 15,
+                  "start": "1657080300000",
+                  "end": "1657083600000",
                   "genres": [
-                        "Reality Show"
+                        "Drama"
                   ],
-                  "rating": "M-C",
-                  "seriesId": "34749"
+                  "rating": "16-LS"
             },
             {
                   "id": "047403041",
@@ -3252,30 +3299,17 @@
                   "seriesId": "17726"
             },
             {
-                  "id": "047519363",
-                  "title": "Salvage Hunters: The Restorers",
-                  "synopsis": "Episode 8: The work of the skilled craftspeople who bring Drew's finds back to life. With demanding customers and high turnover, their hard work turns trash to treasure.",
-                  "channelNumber": 17,
-                  "start": "1657032600000",
-                  "end": "1657035600000",
+                  "id": "047403055",
+                  "title": "Curvy Brides' Boutique",
+                  "synopsis": "The Verity S Episode: Jo and Al encourage introvert bride Verity to try on a dress. Plus, Laura is terrified of shopping, but the indecisive bride-to-be is ready to face her fear!",
+                  "channelNumber": 16,
+                  "start": "1657079400000",
+                  "end": "1657082700000",
                   "genres": [
-                        "Home/Gardening"
+                        "Reality Show"
                   ],
                   "rating": "PG",
-                  "seriesId": "55687"
-            },
-            {
-                  "id": "047519364",
-                  "title": "Holmes + Holmes",
-                  "synopsis": "A Thousand Goodbyes: Flooring takes center stage inside the country house, while the barn's exterior is finally completed; the river house gets its finishing touches.",
-                  "channelNumber": 17,
-                  "start": "1657035600000",
-                  "end": "1657038600000",
-                  "genres": [
-                        "Home/Gardening"
-                  ],
-                  "rating": "PG",
-                  "seriesId": "14797"
+                  "seriesId": "17030"
             },
             {
                   "id": "047519365",
@@ -3473,17 +3507,30 @@
                   "seriesId": "47793"
             },
             {
-                  "id": "047376376",
-                  "title": "Citizen P.I.",
-                  "synopsis": "Emails From Death Row: In Pensacola, Florida, an independent journalist investigates the murder of a local couple.",
-                  "channelNumber": 18,
-                  "start": "1657035300000",
-                  "end": "1657038300000",
+                  "id": "047519380",
+                  "title": "The Pioneer Woman",
+                  "synopsis": "Painting Class: Ree Drummond is preparing for a painting class at The Merc by making finger foods like Mini Hawaiian Chicken Skewers and more.",
+                  "channelNumber": 17,
+                  "start": "1657079100000",
+                  "end": "1657080900000",
                   "genres": [
-                        "Investigations"
+                        "Home/Gardening"
                   ],
-                  "rating": "M-C",
-                  "seriesId": "25622"
+                  "rating": "PG",
+                  "seriesId": "7144"
+            },
+            {
+                  "id": "047519381",
+                  "title": "Barefoot Contessa: Back to Basics",
+                  "synopsis": "Cocktails And Cookies: It's all about brunch, baking and cocktail shaking for Ina Garten and her Hollywood friends.",
+                  "channelNumber": 17,
+                  "start": "1657080900000",
+                  "end": "1657082700000",
+                  "genres": [
+                        "Home/Gardening"
+                  ],
+                  "rating": "PG",
+                  "seriesId": "23559"
             },
             {
                   "id": "047376377",
@@ -3679,6 +3726,19 @@
                   ],
                   "rating": "M-CV",
                   "seriesId": "22688"
+            },
+            {
+                  "id": "047376392",
+                  "title": "Evil Kin",
+                  "synopsis": "Mummy Dearest: Sonya Bamberg and her son Damon were inseparable. Many thought it was odd. Damon would even sleep in bed with her. and murder.",
+                  "channelNumber": 18,
+                  "start": "1657079400000",
+                  "end": "1657082700000",
+                  "genres": [
+                        "Investigations"
+                  ],
+                  "rating": "M-CSV",
+                  "seriesId": "4970"
             },
             {
                   "id": "047557117",
@@ -4004,16 +4064,82 @@
                   "seriesId": "9972"
             },
             {
-                  "id": "047362484",
-                  "title": "Inside The Uffizi",
-                  "synopsis": "How can the oldest and most esteemed art institution in the world adapt to the demands of 21st century visitors while keeping its history intact?",
-                  "channelNumber": 20,
-                  "start": "1657035000000",
-                  "end": "1657038600000",
+                  "id": "047557142",
+                  "title": "TAMARIKI HA: Tamariki Haka",
+                  "synopsis": "Children from kura across the country showcase their haka skills. (R)",
+                  "channelNumber": 19,
+                  "start": "1657079100000",
+                  "end": "1657079700000",
                   "genres": [
-                        "Fine Arts"
+                        "Educational"
                   ],
-                  "rating": "G"
+                  "rating": "G",
+                  "seriesId": "10037"
+            },
+            {
+                  "id": "047557143",
+                  "title": "TAMARIKI HA: Te Nutube",
+                  "synopsis": "Award-winning cousins, Atareta and Te Haakura, are back for a fourth season to share their world with their followers. (R)",
+                  "channelNumber": 19,
+                  "start": "1657079700000",
+                  "end": "1657080300000",
+                  "genres": [
+                        "Educational"
+                  ],
+                  "rating": "G",
+                  "seriesId": "10420"
+            },
+            {
+                  "id": "047557144",
+                  "title": "TAMARIKI HA: Kids Kai Kart",
+                  "synopsis": "Students at Te Kura Kaupapa Maori o Hoani Waititi make pork and kawakawa burger. (R)",
+                  "channelNumber": 19,
+                  "start": "1657080300000",
+                  "end": "1657080900000",
+                  "genres": [
+                        "Educational"
+                  ],
+                  "rating": "G",
+                  "seriesId": "22287"
+            },
+            {
+                  "id": "047557145",
+                  "title": "TAMARIKI HA: Kia Mau",
+                  "synopsis": "A fun sing-along Maori performing arts series for children. (R)",
+                  "channelNumber": 19,
+                  "start": "1657080900000",
+                  "end": "1657081500000",
+                  "genres": [
+                        "Educational"
+                  ],
+                  "rating": "G",
+                  "seriesId": "9551"
+            },
+            {
+                  "id": "047557146",
+                  "title": "TAMARIKI HA: Cube",
+                  "synopsis": "An exciting youth series and a hub for rangatahi content. (R)",
+                  "channelNumber": 19,
+                  "start": "1657081500000",
+                  "end": "1657082100000",
+                  "genres": [
+                        "Educational"
+                  ],
+                  "rating": "G",
+                  "seriesId": "31080"
+            },
+            {
+                  "id": "047557147",
+                  "title": "TAMARIKI: Pukana 2022",
+                  "synopsis": "New characters, comedy and competitions in this colourful, hip and funny show for tamariki and rangatahi. Presented by Kimiora, Niua and Torerenui A Rua. (R)",
+                  "channelNumber": 19,
+                  "start": "1657082100000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "Educational"
+                  ],
+                  "rating": "G",
+                  "seriesId": "28566"
             },
             {
                   "id": "047362485",
@@ -4218,43 +4344,17 @@
                   "seriesId": "4169"
             },
             {
-                  "id": "047570932",
-                  "title": "House Hunters",
-                  "synopsis": "An airline pilot and his wife want to buy a home with more space in Atlanta.\u00ff",
-                  "channelNumber": 21,
-                  "start": "1657034400000",
-                  "end": "1657035900000",
+                  "id": "047126839",
+                  "title": "Grayson's Art Club",
+                  "synopsis": "On a mission to release our collective creativity during the coronavirus crisis, Grayson Perry reveals how he creates new art works, talks to other famous artists, creatives and \ncelebrity guests about how they are spending their time in isolation.",
+                  "channelNumber": 20,
+                  "start": "1657080000000",
+                  "end": "1657082700000",
                   "genres": [
-                        "Home/Gardening"
+                        "Lifestyle"
                   ],
                   "rating": "G",
-                  "seriesId": "47011"
-            },
-            {
-                  "id": "047570933",
-                  "title": "Mexico Life",
-                  "synopsis": "A Toronto couple looks to pursue their dream and open a restaurant in Playa Del Carmen. They want something open concept with a spacious kitchen.",
-                  "channelNumber": 21,
-                  "start": "1657035900000",
-                  "end": "1657037400000",
-                  "genres": [
-                        "Home/Gardening"
-                  ],
-                  "rating": "G",
-                  "seriesId": "39170"
-            },
-            {
-                  "id": "047570934",
-                  "title": "Bahamas Life",
-                  "synopsis": "A GA couple fell in love with the laid-back lifestyle of Green Turtle Cay after visiting a few years ago on vacation.",
-                  "channelNumber": 21,
-                  "start": "1657037400000",
-                  "end": "1657038900000",
-                  "genres": [
-                        "Home/Gardening"
-                  ],
-                  "rating": "G",
-                  "seriesId": "7733"
+                  "seriesId": "64865"
             },
             {
                   "id": "047570935",
@@ -4556,6 +4656,32 @@
                   "seriesId": "48791"
             },
             {
+                  "id": "047570958",
+                  "title": "Island Hunters",
+                  "synopsis": "Mark and his wife, Marianela, have been married for nearly 30 years, but between starting a family and Mark's education they forgot to take a honeymoon.",
+                  "channelNumber": 21,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
+                  "genres": [
+                        "Home/Gardening"
+                  ],
+                  "rating": "G",
+                  "seriesId": "56106"
+            },
+            {
+                  "id": "047570959",
+                  "title": "Island Hunters",
+                  "synopsis": "Host Chris Krolow joins house-hunters as they seek the ultimate tropical getaway - a property on their own private island.",
+                  "channelNumber": 21,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "Home/Gardening"
+                  ],
+                  "rating": "G",
+                  "seriesId": "56106"
+            },
+            {
                   "id": "047558223",
                   "title": "After Hours",
                   "synopsis": "It's after hours here at MTV, so let us keep you company with the music that's trending right now.",
@@ -4767,17 +4893,17 @@
                   "seriesId": "19120"
             },
             {
-                  "id": "047570288",
-                  "title": "Alaskan Bush People",
-                  "synopsis": "The film crew reveals untold tales and the extraordinary challenge of capturing the Brown lifestyle as they journeyed from Alaska to the Pacific Northwest. S4 Specials 3",
-                  "channelNumber": 24,
-                  "start": "1657035300000",
-                  "end": "1657038000000",
+                  "id": "047549715",
+                  "title": "The Chase Australia",
+                  "synopsis": "Australian version of the critically acclaimed game show. Four strangers work individually and as a team to build a cashpot. Standing in their way is the Chaser, one of the world's top trivia brains.",
+                  "channelNumber": 23,
+                  "start": "1657080300000",
+                  "end": "1657083300000",
                   "genres": [
-                        "Reality Show"
+                        "Game Show"
                   ],
-                  "rating": "PG",
-                  "seriesId": "22879"
+                  "rating": "G",
+                  "seriesId": "17654"
             },
             {
                   "id": "047570290",
@@ -4936,16 +5062,30 @@
                   "seriesId": "2371"
             },
             {
-                  "id": "047592736",
-                  "title": "Does It All Drill Bits",
-                  "synopsis": "The one drill bit that does it all. DOES IT ALL DRILL BITS drills through wood, metal, masonry and more, without changing drill bits saving you time and money.",
-                  "channelNumber": 25,
-                  "start": "1657035060000",
-                  "end": "1657038660000",
+                  "id": "047570303",
+                  "title": "Abalone Wars",
+                  "synopsis": "Wild abalone stocks are extinct in some parts of the world and the South Australian Coast is one of the final frontiers of this sought-after delicacy, so protecting this delicacy is key. S5 Ep 4",
+                  "channelNumber": 24,
+                  "start": "1657078800000",
+                  "end": "1657082400000",
                   "genres": [
-                        "Shopping"
+                        "Reality Show"
                   ],
-                  "rating": "G"
+                  "rating": "PG-L",
+                  "seriesId": "23088"
+            },
+            {
+                  "id": "047570304",
+                  "title": "Alaskan Bush People",
+                  "synopsis": "The film crew reveals untold tales and the extraordinary challenge of capturing the Brown lifestyle as they journeyed from Alaska to the Pacific Northwest. S4 Specials 3",
+                  "channelNumber": 24,
+                  "start": "1657082400000",
+                  "end": "1657085700000",
+                  "genres": [
+                        "Reality Show"
+                  ],
+                  "rating": "PG",
+                  "seriesId": "30710"
             },
             {
                   "id": "047592737",
@@ -5152,6 +5292,18 @@
                   "rating": "G"
             },
             {
+                  "id": "047592754",
+                  "title": "TEVO Heater",
+                  "synopsis": "Enjoy the warmth of sunshine all year with the infrared TEVO Heater. It heats you, not the air to keep you warm in all weather, indoors or outdoors.",
+                  "channelNumber": 25,
+                  "start": "1657081860000",
+                  "end": "1657083660000",
+                  "genres": [
+                        "Shopping"
+                  ],
+                  "rating": "G"
+            },
+            {
                   "id": "047357227",
                   "title": "Dirt Music",
                   "synopsis": "Drama: Against the stunning backdrop of Western Australia, a woman falls in love with a mysterious loner who's haunted by a tragic past. Stars: Kelly Macdonald, Garrett Hedlund (2019)",
@@ -5236,16 +5388,16 @@
                   "rating": "M-CV"
             },
             {
-                  "id": "047357483",
-                  "title": "Dumped Me Not",
-                  "synopsis": "Romance: Believing she's going to be dumped over Thanksgiving break, a college girl plans to avoid heartache by pushing herself out of her comfort zone. Stars: Olivia Holt, Cheryl Hines (2020)",
-                  "channelNumber": 31,
-                  "start": "1657031700000",
-                  "end": "1657037100000",
+                  "id": "047388794",
+                  "title": "Locked Down",
+                  "synopsis": "Comedy: Just as they decide to split, Linda and Paxton get stuck at home in a mandatory lockdown. Co-habitation brings them together in a surprising way. Stars: Anne Hathaway, Chiwetel Ejiofor (2021)",
+                  "channelNumber": 30,
+                  "start": "1657082400000",
+                  "end": "1657089600000",
                   "genres": [
                         "Comedy"
                   ],
-                  "rating": "PG"
+                  "rating": "M-CL"
             },
             {
                   "id": "047248455",
@@ -5344,18 +5496,6 @@
                   "rating": "PG-V"
             },
             {
-                  "id": "047241679",
-                  "title": "The Outpost",
-                  "synopsis": "Drama: Based on true events, a small team of US soldiers stationed in Afghanistan are relentlessly attacked by an overwhelming force of Taliban insurgents. Stars: Scott Eastwood, Orlando Bloom (2020)",
-                  "channelNumber": 32,
-                  "start": "1657031820000",
-                  "end": "1657039200000",
-                  "genres": [
-                        "Drama"
-                  ],
-                  "rating": "16-CLV"
-            },
-            {
                   "id": "047241657",
                   "title": "The Silencing",
                   "synopsis": "Action: A reformed hunter teams up with the local sheriff to track a vicious killer who may have kidnapped his daughter several years earlier. Stars: Nikolaj Coster-Waldau, Annabelle Wallis (2020)",
@@ -5440,16 +5580,16 @@
                   "rating": "16-LSV"
             },
             {
-                  "id": "047244456",
-                  "title": "Saw",
-                  "synopsis": "Horror: A sadistic serial killer abducts two men and forces them to play horrific games and make impossible choices for their own survival. Stars: Cary Elwes, Danny Glover (2004)",
-                  "channelNumber": 33,
-                  "start": "1657032600000",
-                  "end": "1657038600000",
+                  "id": "047253336",
+                  "title": "Demolition Man",
+                  "synopsis": "Action: A police officer is released from a cryogenic jail to pursue an ultra-violent nemesis loose in a non-violent future society. Stars: Sylvester Stallone, Wesley Snipes (1993)",
+                  "channelNumber": 32,
+                  "start": "1657081800000",
+                  "end": "1657088700000",
                   "genres": [
-                        "Horror"
+                        "Action/Adventure"
                   ],
-                  "rating": "18-V"
+                  "rating": "M-LV"
             },
             {
                   "id": "047282887",
@@ -5522,6 +5662,18 @@
                         "Drama"
                   ],
                   "rating": "M-L"
+            },
+            {
+                  "id": "047241777",
+                  "title": "Lord Of War",
+                  "synopsis": "Drama: An arms dealer struggles to stay one step ahead of a persistent Interpol agent as he does business in some of the world's deadliest war zones. Stars: Nicolas Cage, Jared Leto (2005)",
+                  "channelNumber": 33,
+                  "start": "1657081800000",
+                  "end": "1657089000000",
+                  "genres": [
+                        "Drama"
+                  ],
+                  "rating": "16-LSV"
             },
             {
                   "id": "047281439",
@@ -5656,18 +5808,6 @@
                   "rating": "PG"
             },
             {
-                  "id": "047401023",
-                  "title": "Power Rangers",
-                  "synopsis": "Adventure: Five ordinary teenagers are accidentally imbued with ancient powers, which they must use to save the planet from a vengeful and powerful evil. Stars: Dacre Montgomery, Naomi Scott (2017)",
-                  "channelNumber": 36,
-                  "start": "1657031040000",
-                  "end": "1657038240000",
-                  "genres": [
-                        "Action/Adventure"
-                  ],
-                  "rating": "M-V"
-            },
-            {
                   "id": "047401031",
                   "title": "Furry Vengeance",
                   "synopsis": "Family: A real estate developer faces opposition from a unique group of protesters - local woodland creatures who don't want their homes disturbed. Stars: Brendan Fraser, Brooke Shields (2010)",
@@ -5764,28 +5904,16 @@
                   "rating": "G"
             },
             {
-                  "id": "047405046",
-                  "title": "Starfish",
-                  "synopsis": "The true story of a couple, whose love is tested to its limit after their perfect life falls apart in a single moment. 2016. UK. Director: Bill Clark. Starring: Tom Riley, Joanne Froggatt",
-                  "channelNumber": 39,
-                  "start": "1657029900000",
-                  "end": "1657035600000",
+                  "id": "047309914",
+                  "title": "The Goonies",
+                  "synopsis": "Adventure: A group of young misfits discover an ancient map and embark on an epic adventure to find a legendary pirate's long-lost treasure. Stars: Sean Astin, Josh Brolin (1985)",
+                  "channelNumber": 36,
+                  "start": "1657078860000",
+                  "end": "1657085460000",
                   "genres": [
-                        "Drama"
+                        "Action/Adventure"
                   ],
-                  "rating": "M-CL"
-            },
-            {
-                  "id": "047405047",
-                  "title": "Quacks",
-                  "synopsis": "1/3. William has a patient who firmly believes he will be seized by spies and put on trial for being a French noble. 2017. UK. Director: Andy De Emmony. Starring: Rory Kinnear, Mathew Baynton",
-                  "channelNumber": 39,
-                  "start": "1657035600000",
-                  "end": "1657037700000",
-                  "genres": [
-                        "Comedy"
-                  ],
-                  "rating": "M-CLSV"
+                  "rating": "PG"
             },
             {
                   "id": "047405048",
@@ -5910,6 +6038,18 @@
                   "seriesId": "31662"
             },
             {
+                  "id": "047405058",
+                  "title": "The Mystery Of Henri Pick",
+                  "synopsis": "An editor discovers a masterpiece among a pile of rejected manuscripts, and tries to track down its author. 2019. France. Director: Remi Bezancon. Starring: Fabrice Luchini",
+                  "channelNumber": 39,
+                  "start": "1657079400000",
+                  "end": "1657085700000",
+                  "genres": [
+                        "Comedy"
+                  ],
+                  "rating": "M-L"
+            },
+            {
                   "id": "047499256",
                   "title": "The Bad Guys",
                   "synopsis": "Animated: A crackerjack criminal crew of animal outlaws are about to attempt their most challenging con yet - becoming model citizens. Voices Of: Sam Rockwell, Zazie Beetz (2022)",
@@ -5994,18 +6134,6 @@
                   "rating": "PG-V"
             },
             {
-                  "id": "047500793",
-                  "title": "Dog",
-                  "synopsis": "Comedy: Two former army rangers - Jackson Briggs and dog Lulu - race down the Pacific Coast in the hopes of making it to a fellow soldier's funeral on time. Stars: Channing Tatum, Jane Adams (2022)",
-                  "channelNumber": 41,
-                  "start": "1657029900000",
-                  "end": "1657037100000",
-                  "genres": [
-                        "Comedy"
-                  ],
-                  "rating": "M-CL"
-            },
-            {
                   "id": "047500794",
                   "title": "Dog",
                   "synopsis": "Comedy: Two former army rangers - Jackson Briggs and dog Lulu - race down the Pacific Coast in the hopes of making it to a fellow soldier's funeral on time. Stars: Channing Tatum, Jane Adams (2022)",
@@ -6078,6 +6206,18 @@
                   "rating": "M-CL"
             },
             {
+                  "id": "047500800",
+                  "title": "Dog",
+                  "synopsis": "Comedy: Two former army rangers - Jackson Briggs and dog Lulu - race down the Pacific Coast in the hopes of making it to a fellow soldier's funeral on time. Stars: Channing Tatum, Jane Adams (2022)",
+                  "channelNumber": 41,
+                  "start": "1657080300000",
+                  "end": "1657087500000",
+                  "genres": [
+                        "Comedy"
+                  ],
+                  "rating": "M-CL"
+            },
+            {
                   "id": "047501482",
                   "title": "Dune",
                   "synopsis": "Action: A brilliantly gifted young man must travel to the most dangerous planet in the universe to ensure the future of his family and his people. Stars: Timothee Chalamet, Rebecca Ferguson (2021)",
@@ -6136,18 +6276,6 @@
                         "Action/Adventure"
                   ],
                   "rating": "M-V"
-            },
-            {
-                  "id": "047502036",
-                  "title": "Ambulance",
-                  "synopsis": "Action: When a bank heist goes awry, Will and Danny Sharp hijack an ambulance containing a critically wounded cop and an ace EMT. Stars: Jake Gyllenhaal, Yahya Abdul-Matenn II (2022)",
-                  "channelNumber": 43,
-                  "start": "1657028100000",
-                  "end": "1657036200000",
-                  "genres": [
-                        "Action/Adventure"
-                  ],
-                  "rating": "16-CLSV"
             },
             {
                   "id": "047502037",
@@ -6210,16 +6338,16 @@
                   "rating": "16-CLSV"
             },
             {
-                  "id": "047302800",
-                  "title": "Fox Sports News",
-                  "synopsis": "Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.",
-                  "channelNumber": 50,
-                  "start": "1657033200000",
-                  "end": "1657036800000",
+                  "id": "047502042",
+                  "title": "Ambulance",
+                  "synopsis": "Action: When a bank heist goes awry, Will and Danny Sharp hijack an ambulance containing a critically wounded cop and an ace EMT. Stars: Jake Gyllenhaal, Yahya Abdul-Matenn II (2022)",
+                  "channelNumber": 43,
+                  "start": "1657082100000",
+                  "end": "1657090200000",
                   "genres": [
-                        "Sports"
+                        "Action/Adventure"
                   ],
-                  "rating": "G"
+                  "rating": "16-CLSV"
             },
             {
                   "id": "047438720",
@@ -6402,14 +6530,14 @@
                   "rating": "G"
             },
             {
-                  "id": "047439060",
-                  "title": "Rugby: RSA v WAL Replay",
-                  "synopsis": "Replay coverage of Wales' Tour of South Africa, as the Springboks host Wales at Loftus Versfeld, Pretoria in the first game of the three test series.",
-                  "channelNumber": 51,
-                  "start": "1657030200000",
-                  "end": "1657037700000",
+                  "id": "047302573",
+                  "title": "Fox Sports News",
+                  "synopsis": "Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.",
+                  "channelNumber": 50,
+                  "start": "1657080000000",
+                  "end": "1657083600000",
                   "genres": [
-                        "Rugby"
+                        "Sports"
                   ],
                   "rating": "G"
             },
@@ -6660,31 +6788,6 @@
                   "rating": "G"
             },
             {
-                  "id": "047274795",
-                  "title": "LIVE: Tour de France: S4",
-                  "synopsis": "LIVE: Tour de France 2022. Tune in for Stage 4. 171.5km Dunkerque - Calais.",
-                  "channelNumber": 53,
-                  "start": "1657019100000",
-                  "end": "1657036800000",
-                  "genres": [
-                        "Cycling"
-                  ],
-                  "rating": "G",
-                  "seriesId": "28684"
-            },
-            {
-                  "id": "047433117",
-                  "title": "WI V BAN: 1st T20 Hls",
-                  "synopsis": "Highlights from the first T20 International between the West Indies and Bangladesh at Windsor Park, Dominica.",
-                  "channelNumber": 53,
-                  "start": "1657036800000",
-                  "end": "1657038600000",
-                  "genres": [
-                        "Cricket"
-                  ],
-                  "rating": "G"
-            },
-            {
                   "id": "047433118",
                   "title": "WI v BAN: 2nd T20 Hls",
                   "synopsis": "Highlights of the second T20 International between the West Indies and Bangladesh at Windsor Park, Dominica.",
@@ -6781,14 +6884,14 @@
                   "rating": "G"
             },
             {
-                  "id": "047460125",
-                  "title": "NRL Premiership: CBY v CRO",
-                  "synopsis": "Replay coverage from the NRL Premiership as the Canterbury-Bankstown Bulldogs take on the Cronulla Sharks at CommBank Stadium, Sydney",
-                  "channelNumber": 54,
-                  "start": "1657031400000",
-                  "end": "1657038600000",
+                  "id": "047495959",
+                  "title": "Tauihi Basketball: R1 Hls",
+                  "synopsis": "Highlights from Tauihi Women's Basketball 2022 Round 1.",
+                  "channelNumber": 53,
+                  "start": "1657081800000",
+                  "end": "1657085400000",
                   "genres": [
-                        "League"
+                        "Sports"
                   ],
                   "rating": "G"
             },
@@ -6937,18 +7040,6 @@
                   "rating": "G"
             },
             {
-                  "id": "047447004",
-                  "title": "FIA WTCR: Race 1",
-                  "synopsis": "Replay of the FIA World Touring Car Championship, Race of Portugal, Race 1. From Circuito Internacional De Vila Real, Vila Real, Portugal.",
-                  "channelNumber": 55,
-                  "start": "1657035000000",
-                  "end": "1657038600000",
-                  "genres": [
-                        "Motorsport"
-                  ],
-                  "rating": "G"
-            },
-            {
                   "id": "047447005",
                   "title": "FIA WTCR: Race 2",
                   "synopsis": "Replay of the FIA World Touring Car Championship, Race of Portugal, Race 2. From Circuito Internacional De Vila Real, Vila Real, Portugal.",
@@ -7029,18 +7120,6 @@
                   "end": "1657083600000",
                   "genres": [
                         "Motorsport"
-                  ],
-                  "rating": "G"
-            },
-            {
-                  "id": "047481255",
-                  "title": "Champions Tour Event Hls",
-                  "synopsis": "Event Highlights PGA Champions Tour. American Family Insurance Championship held at University Ridge Golf Course in Madison, Wisconsin.",
-                  "channelNumber": 56,
-                  "start": "1657033200000",
-                  "end": "1657036800000",
-                  "genres": [
-                        "Golf"
                   ],
                   "rating": "G"
             },
@@ -7147,6 +7226,18 @@
                   "channelNumber": 56,
                   "start": "1657072800000",
                   "end": "1657080000000",
+                  "genres": [
+                        "Golf"
+                  ],
+                  "rating": "G"
+            },
+            {
+                  "id": "047470996",
+                  "title": "PGA Tour Event Hls",
+                  "synopsis": "Event Highlights: PGA Tour John Deere Classic, at TPC Deere Run (Illinois)",
+                  "channelNumber": 56,
+                  "start": "1657080000000",
+                  "end": "1657083600000",
                   "genres": [
                         "Golf"
                   ],
@@ -7375,6 +7466,18 @@
                   "rating": "G"
             },
             {
+                  "id": "047527108",
+                  "title": "Bundesliga",
+                  "synopsis": "The Best Goals: Schalke. Discover the best club, impossible dribbling, amazing free kicks, the fastest and oddest goals and the top screamers in Bundesliga documentaries.",
+                  "channelNumber": 57,
+                  "start": "1657082100000",
+                  "end": "1657083000000",
+                  "genres": [
+                        "Soccer"
+                  ],
+                  "rating": "G"
+            },
+            {
                   "id": "047394882",
                   "title": "LIVE: Wimbledon Extra",
                   "synopsis": "Additional LIVE coverage from Day 9 of the 2022 Championships from the grass courts of Wimbledon in London.",
@@ -7400,16 +7503,16 @@
                   "rating": "G"
             },
             {
-                  "id": "047416724",
-                  "title": "PFL Regular Season 6",
-                  "synopsis": "The Welterweights and the Women's Lightweights face up. Kayla Harrison takes on Julia Budd. And Kiwi Genah Fabian and Hawaiian Ray Cooper III need big wins after their disastrous first rounds.",
-                  "channelNumber": 59,
-                  "start": "1657017000000",
-                  "end": "1657036800000",
+                  "id": "047395257",
+                  "title": "Wimbledon: Ladies' Singles QF1",
+                  "synopsis": "Coverage of the Ladies' Singles Quarter-Final 1 from the 2022 Championships in London.",
+                  "channelNumber": 58,
+                  "start": "1657079700000",
+                  "end": "1657085100000",
                   "genres": [
-                        "Fight Sport"
+                        "Tennis"
                   ],
-                  "rating": "M"
+                  "rating": "G"
             },
             {
                   "id": "047495896",
@@ -7558,14 +7661,14 @@
                   "rating": "G"
             },
             {
-                  "id": "047583658",
-                  "title": "Quick Pitch",
-                  "synopsis": "With MLB Network's Quick Pitch, no one is too busy for baseball. Catch all the baseball you missed the day before, plus your first look at upcoming matchups, all in one lightning-fast hour.",
-                  "channelNumber": 60,
-                  "start": "1657033200000",
-                  "end": "1657036800000",
+                  "id": "047428700",
+                  "title": "The Breakdown",
+                  "synopsis": "Fresh off the back of the weekend action, host Kirstie Stanway is joined by All Black legends Goldie, JK and Mils to discuss and analyse all the hot topics.",
+                  "channelNumber": 59,
+                  "start": "1657081800000",
+                  "end": "1657085400000",
                   "genres": [
-                        "US Sports"
+                        "Rugby"
                   ],
                   "rating": "G"
             },
@@ -7722,6 +7825,19 @@
                   "rating": "G"
             },
             {
+                  "id": "047475252",
+                  "title": "Live: SportsCenter",
+                  "synopsis": "ESPN's flagship program provides TV's most thorough presentation of sports news, highlights and analysis.",
+                  "channelNumber": 60,
+                  "start": "1657080000000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "Sports"
+                  ],
+                  "rating": "G",
+                  "seriesId": "50820"
+            },
+            {
                   "id": "047475453",
                   "title": "Johnsonville ACL Cornhole C'ships",
                   "synopsis": "ACL Final Chase Pro Doubles Finals.",
@@ -7844,28 +7960,17 @@
                   "seriesId": "47734"
             },
             {
-                  "id": "047593444",
-                  "title": "Racing Replay Hastings",
-                  "synopsis": "Replay of Hastings races. Sat 02 July.",
-                  "channelNumber": 62,
-                  "start": "1657035000000",
-                  "end": "1657036800000",
+                  "id": "047475463",
+                  "title": "2021 Poker Masters",
+                  "synopsis": "$10K Pot-Limit Omaha: The 2021 World Series of Poker was the 52nd edition of the event. It took place from September 30? November 23 at the Rio All-Suite Hotel and Casino in Las Vegas, Nevada.",
+                  "channelNumber": 61,
+                  "start": "1657080000000",
+                  "end": "1657083600000",
                   "genres": [
                         "Sports"
                   ],
-                  "rating": "G"
-            },
-            {
-                  "id": "047593445",
-                  "title": "Racing Replay Ruakaka",
-                  "synopsis": "Replay of Ruakaka races. Sat 02 July.",
-                  "channelNumber": 62,
-                  "start": "1657036800000",
-                  "end": "1657038600000",
-                  "genres": [
-                        "Sports"
-                  ],
-                  "rating": "G"
+                  "rating": "G",
+                  "seriesId": "37642"
             },
             {
                   "id": "047593446",
@@ -8055,28 +8160,17 @@
                   "seriesId": "64741"
             },
             {
-                  "id": "047306451",
-                  "title": "Trackside 2 Live from 7:55",
-                  "synopsis": "Trackside 2 live racing coverage will resume at 7:55am",
-                  "channelNumber": 63,
-                  "start": "1657035000000",
-                  "end": "1657036800000",
+                  "id": "047607595",
+                  "title": "Trackside 1 LIVE - NZ/AUS",
+                  "synopsis": "Live coverage from Cambridge, Palmerston North & Australia. Bet online at TAB.co.nz",
+                  "channelNumber": 62,
+                  "start": "1657080000000",
+                  "end": "1657087200000",
                   "genres": [
                         "Sports"
                   ],
-                  "rating": "G"
-            },
-            {
-                  "id": "047306452",
-                  "title": "Trackside 2 Live from 7:55",
-                  "synopsis": "Trackside 2 live racing coverage will resume at 7:55am",
-                  "channelNumber": 63,
-                  "start": "1657036800000",
-                  "end": "1657038600000",
-                  "genres": [
-                        "Sports"
-                  ],
-                  "rating": "G"
+                  "rating": "G",
+                  "seriesId": "64741"
             },
             {
                   "id": "047306453",
@@ -8199,6 +8293,18 @@
                   "rating": "G"
             },
             {
+                  "id": "047306463",
+                  "title": "Trackside 2 LIVE - AUS",
+                  "synopsis": "Live Racing coverage from Australia. Bet online at TAB.co.nz",
+                  "channelNumber": 63,
+                  "start": "1657080000000",
+                  "end": "1657087200000",
+                  "genres": [
+                        "Sports"
+                  ],
+                  "rating": "G"
+            },
+            {
                   "id": "047490631",
                   "title": "Coming Up: Fight For Life",
                   "synopsis": "A star studded event of Kiwi celebs fight for Mike King's \"I Am Hope\" charity. Headlined by Kevin Mealamu and Wairangi Koopu. LIVE, Thursday, 21st July, 7pm, CH 065 *$49.95*. To Book: Text BOX to 4024, or call 0800 759 780.",
@@ -8221,19 +8327,6 @@
                         "Fight Sport"
                   ],
                   "rating": "M"
-            },
-            {
-                  "id": "047373430",
-                  "title": "Moonshiners",
-                  "synopsis": "Another Mans Mash: Tickle and the Laws invent a new recipe with master distiller Richard Landry. Tim and Howard make a ceramic still to rediscover a colonial whiskey.",
-                  "channelNumber": 70,
-                  "start": "1657035300000",
-                  "end": "1657038300000",
-                  "genres": [
-                        "Reality Show"
-                  ],
-                  "rating": "M-CL",
-                  "seriesId": "30688"
             },
             {
                   "id": "047373431",
@@ -8431,28 +8524,17 @@
                   "seriesId": "33413"
             },
             {
-                  "id": "047458664",
-                  "title": "It Takes A Killer",
-                  "synopsis": "Bayou Strangler: A serial predator terrorises Louisiana strangling men to death and disposing of their bodies like trash.",
-                  "channelNumber": 71,
-                  "start": "1657034100000",
-                  "end": "1657035600000",
+                  "id": "047373466",
+                  "title": "Gold Rush: White Water",
+                  "synopsis": "End Of Days: A flash flood racing down McKinley Creek threatens to kill the crew and destroy their operation, but the Dakota Boys still manage to find more gold.",
+                  "channelNumber": 70,
+                  "start": "1657079400000",
+                  "end": "1657082700000",
                   "genres": [
-                        "Investigations"
+                        "Reality Show"
                   ],
-                  "rating": "16-V"
-            },
-            {
-                  "id": "047458665",
-                  "title": "The First 48",
-                  "synopsis": "Blood Red / Deadly Moves: Detectives in major cities around America race against the clock during the critical first 48 hours of murder investigations.",
-                  "channelNumber": 71,
-                  "start": "1657035600000",
-                  "end": "1657038600000",
-                  "genres": [
-                        "Investigations"
-                  ],
-                  "rating": "16-V"
+                  "rating": "M-CL",
+                  "seriesId": "25752"
             },
             {
                   "id": "047458666",
@@ -8636,16 +8718,16 @@
                   "rating": "16-V"
             },
             {
-                  "id": "047445653",
-                  "title": "Camo Sharks",
-                  "synopsis": "Can sharks change colour at will to enhance their predatory abilities? Through experiments, revered shark biologists answer this question.",
-                  "channelNumber": 72,
-                  "start": "1657035000000",
-                  "end": "1657038600000",
+                  "id": "047458681",
+                  "title": "Cold Blood",
+                  "synopsis": "Queen Of Hearts: Free spirited Susan has been shot and killed where she should have been the safest: inside her suburban home.",
+                  "channelNumber": 71,
+                  "start": "1657081800000",
+                  "end": "1657085400000",
                   "genres": [
-                        "Science"
+                        "Investigations"
                   ],
-                  "rating": "PG"
+                  "rating": "M-CV"
             },
             {
                   "id": "047445654",
@@ -8794,27 +8876,14 @@
                   "rating": "PG"
             },
             {
-                  "id": "047435853",
-                  "title": "WWII: The Price Of Empire",
-                  "synopsis": "Blitzkrieg: Examine the German army's Blitzkrieg tactics, which led to the swift conquest of Holland, Belgium and France.",
-                  "channelNumber": 73,
-                  "start": "1657034100000",
-                  "end": "1657036800000",
+                  "id": "047445666",
+                  "title": "Lost Treasures of Egypt",
+                  "synopsis": "Search For Cleopatra: Egyptologists in search of Cleopatra's tomb make a breakthrough while another team unlocks the secrets of the Queen's ancient capital city.",
+                  "channelNumber": 72,
+                  "start": "1657081800000",
+                  "end": "1657085400000",
                   "genres": [
-                        "Historical Documentary"
-                  ],
-                  "rating": "PG",
-                  "seriesId": "30671"
-            },
-            {
-                  "id": "047435854",
-                  "title": "I Was There",
-                  "synopsis": "Bloody Sunday: Theo Wilson time travels to the tension-filled 60s to see how inspirational Civil Rights hero, John Lewis, came to lead a historic march across the Edmund Pettus Bridge on Bloody Sunday.",
-                  "channelNumber": 73,
-                  "start": "1657036800000",
-                  "end": "1657038600000",
-                  "genres": [
-                        "Historical Documentary"
+                        "Foreign/Expeditions"
                   ],
                   "rating": "PG"
             },
@@ -8972,17 +9041,17 @@
                   "seriesId": "56604"
             },
             {
-                  "id": "047468472",
-                  "title": "24 Hours In A&E",
-                  "synopsis": "You Before Me: Junior (8) has been knocked off his bike by a car and Anthony (46) has suffered chest pain at the races.  S15 Ep16",
-                  "channelNumber": 74,
-                  "start": "1657034100000",
-                  "end": "1657037100000",
+                  "id": "047435867",
+                  "title": "WWII: The Price Of Empire",
+                  "synopsis": "Blitzkrieg: Examine the German army's Blitzkrieg tactics, which led to the swift conquest of Holland, Belgium and France.",
+                  "channelNumber": 73,
+                  "start": "1657081800000",
+                  "end": "1657085400000",
                   "genres": [
-                        "Cultural Documentary"
+                        "Historical Documentary"
                   ],
                   "rating": "PG",
-                  "seriesId": "58557"
+                  "seriesId": "18405"
             },
             {
                   "id": "047468473",
@@ -9176,17 +9245,16 @@
                   "seriesId": "30820"
             },
             {
-                  "id": "047375113",
-                  "title": "Street Outlaws: Farmtruck and AZN",
-                  "synopsis": "Putting Azn In The Hot Seat: Farm truck dreams up a vehicle propelled solely by air pressure, but getting AZN into the pilot's seat is going to take some convincing.",
-                  "channelNumber": 75,
-                  "start": "1657035300000",
-                  "end": "1657038300000",
+                  "id": "047468488",
+                  "title": "The Truth About Your Immune System",
+                  "synopsis": "The definitive guide to defending yourself against Covid-19 and other diseases.",
+                  "channelNumber": 74,
+                  "start": "1657080900000",
+                  "end": "1657084200000",
                   "genres": [
-                        "Motoring"
+                        "Technology Documentary"
                   ],
-                  "rating": "M-CLV",
-                  "seriesId": "29186"
+                  "rating": "PG"
             },
             {
                   "id": "047375114",
@@ -9397,17 +9465,17 @@
                   "seriesId": "21690"
             },
             {
-                  "id": "047382545",
-                  "title": "I Was Prey",
-                  "synopsis": "Silent Scream: Erin Greene is walking home from a Halloween party in a small arctic town when a polar bear chases her down.",
-                  "channelNumber": 76,
-                  "start": "1657034400000",
-                  "end": "1657037400000",
+                  "id": "047375132",
+                  "title": "Diesel Brothers",
+                  "synopsis": "Yo Soy Diesel: For the Dieselsellerz giveaway, Thunder VS Lightning, two lifted F450s compete and the winner decides which one to take home.",
+                  "channelNumber": 75,
+                  "start": "1657079400000",
+                  "end": "1657082700000",
                   "genres": [
-                        "Nature Documentary"
+                        "Motoring"
                   ],
-                  "rating": "M-C",
-                  "seriesId": "19422"
+                  "rating": "PG",
+                  "seriesId": "16379"
             },
             {
                   "id": "047382546",
@@ -9592,17 +9660,17 @@
                   "seriesId": "19831"
             },
             {
-                  "id": "047541901",
-                  "title": "Global Champions Tour 2022",
-                  "synopsis": "The Global Champions Tour is the supreme test for the world\u2019s very best riders and horses. Today highlights of the Global Champions League and Tour from Cannes. Ep 7.",
-                  "channelNumber": 81,
-                  "start": "1657035000000",
-                  "end": "1657038600000",
+                  "id": "047382560",
+                  "title": "The Treehouse Guys",
+                  "synopsis": "A Sushi Lovers Treehouse: The team builds a romantic 'bed and dinner' treehouse for a sushi restauranteur in a 300-year-old Oak in Cave Junction, Oregon.",
+                  "channelNumber": 76,
+                  "start": "1657080600000",
+                  "end": "1657083600000",
                   "genres": [
-                        "Equestrian"
+                        "Nature Documentary"
                   ],
-                  "rating": "G",
-                  "seriesId": "24940"
+                  "rating": "PG",
+                  "seriesId": "14403"
             },
             {
                   "id": "047541902",
@@ -9852,6 +9920,19 @@
                   "seriesId": "23604"
             },
             {
+                  "id": "047541921",
+                  "title": "Nice Fish Pro Staff",
+                  "synopsis": "Rod Toth gives these two greenhorns a workout on the Fraser River. Martin and Pat jig for salmon in excess of twenty pounds.  S2 Ep 5.",
+                  "channelNumber": 81,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "Sports"
+                  ],
+                  "rating": "G",
+                  "seriesId": "29606"
+            },
+            {
                   "id": "047557332",
                   "title": "Te Reo",
                   "synopsis": "Te Reo channel is an immersion experience for learners, and fluent speakers of the Maori language. The shows provide uniquely Maori entertainment and a strongly Maori world view.  Go to www.tereo.tv",
@@ -9903,29 +9984,43 @@
                   "seriesId": "24591"
             },
             {
-                  "id": "047456446",
-                  "title": "Democracy Now",
-                  "synopsis": "An alternative global news hour presented by Amy Goodman at Democracynow.org",
-                  "channelNumber": 83,
-                  "start": "1657033200000",
-                  "end": "1657036800000",
+                  "id": "047557336",
+                  "title": "TAMARIKI HA: ASB Polyfest 2021",
+                  "synopsis": "Highlights from the Maori stage at the largest Polynesian secondary school festival in the world. Today: Nga Puna o Waiorea - Western Springs College. (R)",
+                  "channelNumber": 82,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
                   "genres": [
-                        "News/Current Affairs"
-                  ],
-                  "seriesId": "26803"
-            },
-            {
-                  "id": "047456447",
-                  "title": "DW News Business and Culture",
-                  "synopsis": "The DW Daily News Business and Culture all rolled into one",
-                  "channelNumber": 83,
-                  "start": "1657036800000",
-                  "end": "1657038600000",
-                  "genres": [
-                        "News Magazine"
+                        "Cultural Documentary"
                   ],
                   "rating": "G",
-                  "seriesId": "16973"
+                  "seriesId": "24591"
+            },
+            {
+                  "id": "047557337",
+                  "title": "TAMARIKI HA:  Kainga Whakapaipai",
+                  "synopsis": "Join Ratema and Makurata on an action-packed journey of self-discovery, learning new techniques and practises to fulfil their daily household chores. (R)",
+                  "channelNumber": 82,
+                  "start": "1657081800000",
+                  "end": "1657082400000",
+                  "genres": [
+                        "Educational"
+                  ],
+                  "rating": "G",
+                  "seriesId": "26882"
+            },
+            {
+                  "id": "047557338",
+                  "title": "TAMARIKI HA: Purakau",
+                  "synopsis": "Animated story time series for children focusing on Maori myths and legends. (R)",
+                  "channelNumber": 82,
+                  "start": "1657082400000",
+                  "end": "1657083000000",
+                  "genres": [
+                        "Educational"
+                  ],
+                  "rating": "G",
+                  "seriesId": "29611"
             },
             {
                   "id": "047456448",
@@ -10158,16 +10253,30 @@
                   "seriesId": "33671"
             },
             {
-                  "id": "047419665",
-                  "title": "Sky News UK LIVE",
-                  "synopsis": "Britain's award winning SKY NEWS brings you the latest news from across the world and the UK.",
-                  "channelNumber": 85,
-                  "start": "1657033200000",
-                  "end": "1657036800000",
+                  "id": "047456466",
+                  "title": "DW Documentary",
+                  "synopsis": "Face TV lets you see the world with a documentary from DW Germany",
+                  "channelNumber": 83,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
                   "genres": [
-                        "News/Current Affairs"
+                        "Lifestyle"
                   ],
-                  "seriesId": "7704"
+                  "rating": "G",
+                  "seriesId": "65330"
+            },
+            {
+                  "id": "047456467",
+                  "title": "The Cellar Door",
+                  "synopsis": "An Australian wine programme covering both Australia and New Zealand",
+                  "channelNumber": 83,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "Health & Fitness"
+                  ],
+                  "rating": "G",
+                  "seriesId": "58026"
             },
             {
                   "id": "047419666",
@@ -10362,6 +10471,18 @@
                   "seriesId": "46863"
             },
             {
+                  "id": "047419682",
+                  "title": "Afternoon Agenda",
+                  "synopsis": "Chief News Anchor Kieran Gilbert breaks down the key news stories and political developments of the day, live from Parliament House.",
+                  "channelNumber": 85,
+                  "start": "1657080000000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "News/Current Affairs"
+                  ],
+                  "seriesId": "24913"
+            },
+            {
                   "id": "047541826",
                   "title": "Parliament TV",
                   "synopsis": "The next sitting of the House of Representatives will be on 26 July 2022 at 2pm. Youth Parliament 2022 sits over 19 and 20 July and will be broadcast on PTV. More details at www.parliament.nz",
@@ -10384,18 +10505,6 @@
                         "Social/Political"
                   ],
                   "rating": "G"
-            },
-            {
-                  "id": "047594217",
-                  "title": "Connect the World",
-                  "synopsis": "Connect the World takes viewers on a sweeping journey across continents, beyond headlines and into the stories changing our world.",
-                  "channelNumber": 87,
-                  "start": "1657033200000",
-                  "end": "1657036800000",
-                  "genres": [
-                        "News/Current Affairs"
-                  ],
-                  "seriesId": "23280"
             },
             {
                   "id": "047594218",
@@ -10572,16 +10681,16 @@
                   "seriesId": "57163"
             },
             {
-                  "id": "047504653",
-                  "title": "The Faulkner Focus",
-                  "synopsis": "Harris Faulkner puts the issues under the spotlight with 'The Faulkner Focus'",
-                  "channelNumber": 88,
-                  "start": "1657033200000",
-                  "end": "1657036800000",
+                  "id": "047594233",
+                  "title": "CNN Newsroom",
+                  "synopsis": "Live from Atlanta, John Vause brings context and clarity to the day's top stories from around the world.",
+                  "channelNumber": 87,
+                  "start": "1657080000000",
+                  "end": "1657082700000",
                   "genres": [
                         "News/Current Affairs"
                   ],
-                  "seriesId": "45553"
+                  "seriesId": "15054"
             },
             {
                   "id": "047504654",
@@ -10716,28 +10825,16 @@
                   "seriesId": "56380"
             },
             {
-                  "id": "047430748",
-                  "title": "Global with Matthew Amroliwala",
-                  "synopsis": "Matthew Amroliwala explains the day's global news and what it means to you - with reports from the BBC's network of correspondents around the world.",
-                  "channelNumber": 89,
-                  "start": "1657035000000",
-                  "end": "1657036800000",
+                  "id": "047504665",
+                  "title": "Fox News @ Night",
+                  "synopsis": "Fox News @ Night is an hour of hard news and analysis of the most compelling stories from Washington and across the country.",
+                  "channelNumber": 88,
+                  "start": "1657080000000",
+                  "end": "1657083600000",
                   "genres": [
                         "News/Current Affairs"
                   ],
-                  "seriesId": "3993"
-            },
-            {
-                  "id": "047430749",
-                  "title": "Global with Matthew Amroliwala",
-                  "synopsis": "Matthew Amroliwala explains the day's global news and what it means to you - with reports from the BBC's network of correspondents around the world.",
-                  "channelNumber": 89,
-                  "start": "1657036800000",
-                  "end": "1657038600000",
-                  "genres": [
-                        "News/Current Affairs"
-                  ],
-                  "seriesId": "3993"
+                  "seriesId": "1782"
             },
             {
                   "id": "047430750",
@@ -11063,26 +11160,27 @@
                   ]
             },
             {
-                  "id": "047539379",
-                  "title": "Newshour",
-                  "synopsis": "In-depth global news is presented.",
-                  "channelNumber": 90,
-                  "start": "1657033200000",
-                  "end": "1657036800000",
+                  "id": "047430778",
+                  "title": "BBC World News",
+                  "synopsis": "The latest international news from the BBC.",
+                  "channelNumber": 89,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
                   "genres": [
                         "News/Current Affairs"
                   ]
             },
             {
-                  "id": "047539380",
-                  "title": "News Live",
-                  "synopsis": "Get the latest news every evening about what is happening around the globe.",
-                  "channelNumber": 90,
-                  "start": "1657036800000",
-                  "end": "1657038600000",
+                  "id": "047430779",
+                  "title": "World Business Report",
+                  "synopsis": "The latest business news with informed analysis from the world's financial centres.",
+                  "channelNumber": 89,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
                   "genres": [
                         "News/Current Affairs"
-                  ]
+                  ],
+                  "seriesId": "47682"
             },
             {
                   "id": "047539381",
@@ -11294,28 +11392,26 @@
                   ]
             },
             {
-                  "id": "047553718",
-                  "title": "Techcheck",
-                  "synopsis": "The destination for compelling, in-depth reporting and analysis of the tech industry, \u201cTechCheck\u201d focuses on the universe of opportunities exciting today\u2019s investors from FAANG stocks, to emerging public companies.",
-                  "channelNumber": 91,
-                  "start": "1657035000000",
-                  "end": "1657036800000",
+                  "id": "047539400",
+                  "title": "News Live",
+                  "synopsis": "Get the latest news every evening about what is happening around the globe.",
+                  "channelNumber": 90,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
                   "genres": [
                         "News/Current Affairs"
-                  ],
-                  "seriesId": "14429"
+                  ]
             },
             {
-                  "id": "047553719",
-                  "title": "Halftime Report",
-                  "synopsis": "\"Fast Money Halftime Report\" is on the front lines of CNBC's market coverage. Host CNBC\u2019s Scott Wapner and the Street's top investors get to the heart of the action as it's happening and help set the agenda for the rest of the day.",
-                  "channelNumber": 91,
-                  "start": "1657036800000",
-                  "end": "1657038600000",
+                  "id": "047539401",
+                  "title": "The Stream",
+                  "synopsis": "Viewers are connected to news stories via social media.",
+                  "channelNumber": 90,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
                   "genres": [
                         "News/Current Affairs"
-                  ],
-                  "seriesId": "18627"
+                  ]
             },
             {
                   "id": "047553720",
@@ -11522,6 +11618,18 @@
                   "seriesId": "15302"
             },
             {
+                  "id": "047553737",
+                  "title": "Asia Capital Connection",
+                  "synopsis": "Hosted by Hadley Gamble at Abu Dhabi Global Market (ADGM) and Dan Murphy at NASDAQ Dubai, \u201cCapital Connection\u201d gives you a reading on Asia's markets mid-day and sets you up for the Middle East and European trading day.",
+                  "channelNumber": 91,
+                  "start": "1657080000000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "News/Current Affairs"
+                  ],
+                  "seriesId": "21367"
+            },
+            {
                   "id": "047554825",
                   "title": "RT is currently unavailable",
                   "synopsis": "RT is currently unavailable",
@@ -11578,44 +11686,6 @@
                         "Kids/Family"
                   ],
                   "rating": "PG"
-            },
-            {
-                  "id": "047498451",
-                  "title": "ALVINNN!!! and The Chipmunks",
-                  "synopsis": "The Party Animals/Warren Seville: Alvin books the band at a birthday party! / Alvin tries to break Theodore's dependence on Talking Teddy.",
-                  "channelNumber": 101,
-                  "start": "1657034100000",
-                  "end": "1657035600000",
-                  "genres": [
-                        "Kids/Family"
-                  ],
-                  "rating": "G",
-                  "seriesId": "26344"
-            },
-            {
-                  "id": "047498452",
-                  "title": "The Loud House",
-                  "synopsis": "The Price of Admission/One Flu Over the Loud House: After seeing a scary movie, Lincoln can't go to sleep and pulls an all-nighter. / Lincoln believes his sisters have turned into Zombies!",
-                  "channelNumber": 101,
-                  "start": "1657035600000",
-                  "end": "1657037100000",
-                  "genres": [
-                        "Kids/Family"
-                  ],
-                  "rating": "G"
-            },
-            {
-                  "id": "047498453",
-                  "title": "The Casagrandes",
-                  "synopsis": "Spin Off/Tooth and Consequences: Par helps CJ enter and train for a sign spinning competition! / When Adelaide loses a tooth, Carl and Bobby teach her about El Raton.",
-                  "channelNumber": 101,
-                  "start": "1657037100000",
-                  "end": "1657038300000",
-                  "genres": [
-                        "Kids/Family"
-                  ],
-                  "rating": "G",
-                  "seriesId": "31887"
             },
             {
                   "id": "047498454",
@@ -11992,69 +12062,42 @@
                   "seriesId": "33662"
             },
             {
-                  "id": "047521875",
-                  "title": "Mighty Magiswords",
-                  "synopsis": "School's In, Oh Bummer: It turns out that Vambre and Prohyas didn't graduate the Adventure Academy after all and need to go back to school earn their diplomas!",
-                  "channelNumber": 102,
-                  "start": "1657035180000",
-                  "end": "1657035840000",
+                  "id": "047498483",
+                  "title": "The Patrick Star Show",
+                  "synopsis": "Nitwit Neighbourhood News/The Patrick Show MidSeason Finale: Patrick and Squidina report the news./The Patrick Show presents the concludes the first half its season.",
+                  "channelNumber": 101,
+                  "start": "1657079100000",
+                  "end": "1657080600000",
                   "genres": [
                         "Kids/Family"
                   ],
                   "rating": "G",
-                  "seriesId": "34251"
+                  "seriesId": "20068"
             },
             {
-                  "id": "047521876",
-                  "title": "Mighty Magiswords",
-                  "synopsis": "The Lanolion Sleeps Tonight: Bimm and Familiar shadow the Warriors on a mission in the Sheepy Jungle, but put under such close scrutiny, the Warriors find that they're unable to be themselves!",
-                  "channelNumber": 102,
-                  "start": "1657035840000",
-                  "end": "1657036800000",
+                  "id": "047498484",
+                  "title": "The Loud House",
+                  "synopsis": "Washed Up/Recipe for Disaster: The Louds rent a boat and set sail for a weekend day trip. / Lincoln and Clyde investigate to find out who is stealing Dad's recipes.",
+                  "channelNumber": 101,
+                  "start": "1657080600000",
+                  "end": "1657082400000",
                   "genres": [
                         "Kids/Family"
                   ],
-                  "rating": "G",
-                  "seriesId": "34251"
+                  "rating": "G"
             },
             {
-                  "id": "047521877",
-                  "title": "The Powerpuff Girls",
-                  "synopsis": "Tiara Trouble: Bubbles' excitement over being a contestant in The Townsville Pageant is ruined when Blossom and Buttercup become overbearing stage-sisters.",
-                  "channelNumber": 102,
-                  "start": "1657036800000",
-                  "end": "1657037460000",
+                  "id": "047498485",
+                  "title": "Danger Force",
+                  "synopsis": "Quaran-kini: A gas leak forces Swellview to quarantine and Captain Man and Danger Force are forced to stay in their homes to set an example.",
+                  "channelNumber": 101,
+                  "start": "1657082400000",
+                  "end": "1657083900000",
                   "genres": [
                         "Kids/Family"
                   ],
                   "rating": "G",
-                  "seriesId": "4394"
-            },
-            {
-                  "id": "047521878",
-                  "title": "The Powerpuff Girls",
-                  "synopsis": "Can't Buy Love: When Morbucks falls in love, she finds the first thing money can't buy.",
-                  "channelNumber": 102,
-                  "start": "1657037460000",
-                  "end": "1657038120000",
-                  "genres": [
-                        "Kids/Family"
-                  ],
-                  "rating": "G",
-                  "seriesId": "4394"
-            },
-            {
-                  "id": "047521879",
-                  "title": "The Powerpuff Girls",
-                  "synopsis": "Largo: When a mysterious raincloud plagues Townsville, Bubbles learns things aren't what they seem.",
-                  "channelNumber": 102,
-                  "start": "1657038120000",
-                  "end": "1657038780000",
-                  "genres": [
-                        "Kids/Family"
-                  ],
-                  "rating": "G",
-                  "seriesId": "4394"
+                  "seriesId": "6952"
             },
             {
                   "id": "047521880",
@@ -12814,52 +12857,56 @@
                   "seriesId": "33968"
             },
             {
-                  "id": "047534719",
-                  "title": "Swashbuckle",
-                  "synopsis": "The Space Ship: Captain Sinker tells Cook and Line to build a spaceship.",
-                  "channelNumber": 103,
-                  "start": "1657034400000",
-                  "end": "1657035900000",
+                  "id": "047521939",
+                  "title": "Mr. Bean: The Animated Series",
+                  "synopsis": "Bean Encore: Mr. Bean bets Irma that he can play the violin better than The Great Eduardo.",
+                  "channelNumber": 102,
+                  "start": "1657079040000",
+                  "end": "1657080000000",
                   "genres": [
-                        "Kids (Pre-School)"
+                        "Kids/Family"
                   ],
-                  "rating": "G"
+                  "rating": "G",
+                  "seriesId": "34924"
             },
             {
-                  "id": "047534720",
-                  "title": "Andy's Dinosaur Adventures",
-                  "synopsis": "Placerias And Red Clay: Andy goes back in time to search for a hippo-like reptile called a placerias.",
-                  "channelNumber": 103,
-                  "start": "1657035900000",
-                  "end": "1657036800000",
+                  "id": "047521940",
+                  "title": "Total Dramarama",
+                  "synopsis": "Teacher, Soldier, Chef, Spy: When Beth, Duncan and Izzy break Chef's new VR helmet they have to recreate his game world to keep him from ever finding out the truth.",
+                  "channelNumber": 102,
+                  "start": "1657080000000",
+                  "end": "1657080900000",
                   "genres": [
-                        "Kids (Pre-School)"
+                        "Kids/Family"
                   ],
-                  "rating": "G"
+                  "rating": "G",
+                  "seriesId": "42894"
             },
             {
-                  "id": "047534721",
-                  "title": "My World Kitchen",
-                  "synopsis": "Choekyi's Tibetan Spinach Momos: Choekyi's momos are a type of dumpling filled with spinach, cheese and mushrooms.",
-                  "channelNumber": 103,
-                  "start": "1657036800000",
-                  "end": "1657037700000",
+                  "id": "047521941",
+                  "title": "Total Dramarama",
+                  "synopsis": "Thingameroo: When a lack of motivation threatens to sink the kids' chances in the Sportslete Athlaction Awards, they create the greatest mascot of all time to boost school spirit.",
+                  "channelNumber": 102,
+                  "start": "1657080900000",
+                  "end": "1657081800000",
                   "genres": [
-                        "Kids (Pre-School)"
+                        "Kids/Family"
                   ],
-                  "rating": "G"
+                  "rating": "G",
+                  "seriesId": "42894"
             },
             {
-                  "id": "047534722",
-                  "title": "Andy's Prehistoric Adventures",
-                  "synopsis": "Australopithecus & Tool: Andy travels back in time three million years to the Great Rift Valley in Africa to meet the Australopithecus.",
-                  "channelNumber": 103,
-                  "start": "1657037700000",
-                  "end": "1657038600000",
+                  "id": "047521942",
+                  "title": "We Bare Bears",
+                  "synopsis": "Bear Cleanse: A doctor tells the Bears to go on a \"cleanse\" to improve their health. But when Grizz realises he can only eat what grizzly bears eat, he starts to lose his mind.",
+                  "channelNumber": 102,
+                  "start": "1657081800000",
+                  "end": "1657082700000",
                   "genres": [
-                        "Kids (Pre-School)"
+                        "Kids/Family"
                   ],
-                  "rating": "G"
+                  "rating": "G",
+                  "seriesId": "28896"
             },
             {
                   "id": "047534723",
@@ -13666,72 +13713,60 @@
                   "rating": "G"
             },
             {
-                  "id": "047463715",
-                  "title": "The Adventures of Paddington",
-                  "synopsis": "Paddington and the Painting/Paddington Finds Buried Treasure: Mrs. Brown can't find inspiration for her next art work. / Jonathan and Paddington dig up some broken pottery.",
-                  "channelNumber": 104,
-                  "start": "1657035300000",
-                  "end": "1657036500000",
+                  "id": "047534793",
+                  "title": "Andy's Dino Toybox",
+                  "synopsis": "The Greedy Dinosaur: Huge dinosaurs need to eat their greens. But a baby brachiosaurus has been too greedy!",
+                  "channelNumber": 103,
+                  "start": "1657079700000",
+                  "end": "1657080000000",
                   "genres": [
                         "Kids (Pre-School)"
                   ],
                   "rating": "G"
             },
             {
-                  "id": "047463716",
-                  "title": "Peppa Pig",
-                  "synopsis": "The Rainy Day Game: Daddy teaches Peppa and George a fun game to play while they wait inside for the rain to stop.",
-                  "channelNumber": 104,
-                  "start": "1657036500000",
-                  "end": "1657036800000",
+                  "id": "047534794",
+                  "title": "Andy's Aquatic Adventures",
+                  "synopsis": "Andy And The Storm Petrel: Andy goes on an aquatic adventure to the Galapagos Islands in search of a storm petrel.",
+                  "channelNumber": 103,
+                  "start": "1657080000000",
+                  "end": "1657080900000",
                   "genres": [
                         "Kids (Pre-School)"
                   ],
                   "rating": "G"
             },
             {
-                  "id": "047463717",
-                  "title": "Peppa Pig",
-                  "synopsis": "Mummy Rabbit's Bump: Everyone is excited when Mummy Rabbit arrives with some big news-she is pregnant! Will it be one baby or twins?",
-                  "channelNumber": 104,
-                  "start": "1657036800000",
-                  "end": "1657037100000",
+                  "id": "047534795",
+                  "title": "Go Jetters",
+                  "synopsis": "Climate Change, The Arctic Ocean: The Go Jetters are watching for polar bears, but an iceberg is heading for their ship!",
+                  "channelNumber": 103,
+                  "start": "1657080900000",
+                  "end": "1657081800000",
                   "genres": [
                         "Kids (Pre-School)"
                   ],
                   "rating": "G"
             },
             {
-                  "id": "047463718",
-                  "title": "Peppa Pig",
-                  "synopsis": "Pedro the Cowboy: Pedro Pony pretends he is a proper cowboy, telling everyone stories in the camp he has set up in the garden.",
-                  "channelNumber": 104,
-                  "start": "1657037100000",
-                  "end": "1657037400000",
+                  "id": "047534796",
+                  "title": "Thomas & Friends",
+                  "synopsis": "Henry's Hero: Henry is worried that bad coal he took on board will damage his firebox, so Hiro tries to carry their heavy load on his own.",
+                  "channelNumber": 103,
+                  "start": "1657081800000",
+                  "end": "1657082400000",
                   "genres": [
                         "Kids (Pre-School)"
                   ],
                   "rating": "G"
             },
             {
-                  "id": "047463719",
-                  "title": "Anna & Friends",
-                  "synopsis": "Impatient Christopher: Christopher can hardly wait for his birthday tomorrow, he delivers invitations to his friends, he tries to figure out what present they are preparing for him.",
-                  "channelNumber": 104,
-                  "start": "1657037400000",
-                  "end": "1657037700000",
-                  "genres": [
-                        "Kids (Pre-School)"
-                  ],
-                  "rating": "G"
-            },
-            {
-                  "id": "047463720",
-                  "title": "Anna & Friends",
-                  "synopsis": "The Statue of Friendship: Anna is inspired to create a statue of Froga but she runs out of clay. She and her friends agree to make their own special statues out of different materials.",
-                  "channelNumber": 104,
-                  "start": "1657037700000",
-                  "end": "1657038300000",
+                  "id": "047534797",
+                  "title": "Hey Duggee",
+                  "synopsis": "The Hiccup Badge: The squirrels meet a little worm who has swallowed a bit too much earth and has got the hiccups. How will the squirrels help!?",
+                  "channelNumber": 103,
+                  "start": "1657082400000",
+                  "end": "1657083000000",
                   "genres": [
                         "Kids (Pre-School)"
                   ],
@@ -14267,6 +14302,84 @@
                   "seriesId": "26849"
             },
             {
+                  "id": "047463762",
+                  "title": "Peppa Pig",
+                  "synopsis": "Trip to the Moon: Peppa's family go to the museum's moon exhibition with George's friend Edmond Elephant. But Peppa thinks there are going to the real moon and is worried.",
+                  "channelNumber": 104,
+                  "start": "1657080000000",
+                  "end": "1657080300000",
+                  "genres": [
+                        "Kids (Pre-School)"
+                  ],
+                  "rating": "G",
+                  "seriesId": "21701"
+            },
+            {
+                  "id": "047463763",
+                  "title": "Peppa Pig",
+                  "synopsis": "Grandpa at the Playground: Grandpa Pig takes Peppa and George to the playground, but does not understand the children's rules.",
+                  "channelNumber": 104,
+                  "start": "1657080300000",
+                  "end": "1657080600000",
+                  "genres": [
+                        "Kids (Pre-School)"
+                  ],
+                  "rating": "G",
+                  "seriesId": "21701"
+            },
+            {
+                  "id": "047463764",
+                  "title": "Peppa Pig",
+                  "synopsis": "Goldie the Fish: Goldie the fish does not look happy and is not eating her food, so Peppa, George and Mummy Pig take her on a bus trip to visit Dr Hamster the vet.",
+                  "channelNumber": 104,
+                  "start": "1657080600000",
+                  "end": "1657080900000",
+                  "genres": [
+                        "Kids (Pre-School)"
+                  ],
+                  "rating": "G",
+                  "seriesId": "21701"
+            },
+            {
+                  "id": "047463765",
+                  "title": "Anna & Friends",
+                  "synopsis": "Impatient Christopher: Christopher can hardly wait for his birthday tomorrow, he delivers invitations to his friends, he tries to figure out what present they are preparing for him.",
+                  "channelNumber": 104,
+                  "start": "1657080900000",
+                  "end": "1657081200000",
+                  "genres": [
+                        "Kids (Pre-School)"
+                  ],
+                  "rating": "G",
+                  "seriesId": "27058"
+            },
+            {
+                  "id": "047463766",
+                  "title": "Anna & Friends",
+                  "synopsis": "The Statue of Friendship: Anna is inspired to create a statue of Froga but she runs out of clay. She and her friends agree to make their own special statues out of different materials.",
+                  "channelNumber": 104,
+                  "start": "1657081200000",
+                  "end": "1657081800000",
+                  "genres": [
+                        "Kids (Pre-School)"
+                  ],
+                  "rating": "G",
+                  "seriesId": "27058"
+            },
+            {
+                  "id": "047463767",
+                  "title": "Blue's Clues & You",
+                  "synopsis": "A Blue's Clues Festival of Lights: Everyone's at Periwinkle's house celebrating Hanukkah, the festival of lights! Well, not everyone, exactly. There's a special, surprise guest coming!",
+                  "channelNumber": 104,
+                  "start": "1657081800000",
+                  "end": "1657083300000",
+                  "genres": [
+                        "Kids (Pre-School)"
+                  ],
+                  "rating": "G",
+                  "seriesId": "35768"
+            },
+            {
                   "id": "047544902",
                   "title": "Forever 80s",
                   "synopsis": "Check out all of the best hits from one of the biggest decades in music!",
@@ -14331,32 +14444,6 @@
                   "genres": [
                         "Rock Music"
                   ]
-            },
-            {
-                  "id": "047590981",
-                  "title": "Banni Chow Home Delivery",
-                  "synopsis": "Self-sufficient Banni runs her meal delivery service. However, her life turns upside down when she is tasked with feeding a rich but emotionally unstable Yuvan.",
-                  "channelNumber": 150,
-                  "start": "1657035000000",
-                  "end": "1657036800000",
-                  "genres": [
-                        "Special Interest"
-                  ],
-                  "rating": "G",
-                  "seriesId": "9483"
-            },
-            {
-                  "id": "047590982",
-                  "title": "Yeh Rishta Kya Kehlata Hai",
-                  "synopsis": "Kartik, Naira and Sirat's daughters are all grown up. Akshara immensely loves Aarohi. But, what happens when they are caught in a love triangle with Abhimanyu?",
-                  "channelNumber": 150,
-                  "start": "1657036800000",
-                  "end": "1657038600000",
-                  "genres": [
-                        "Special Interest"
-                  ],
-                  "rating": "G",
-                  "seriesId": "35078"
             },
             {
                   "id": "047590983",
@@ -14639,28 +14726,28 @@
                   "rating": "G"
             },
             {
-                  "id": "047560080",
-                  "title": "India's Most Sansanikhez Kahaniyan",
-                  "synopsis": "The host presents dramatised re-enactments of real-life crime cases that revolve around harassment, kidnapping and murder.",
-                  "channelNumber": 151,
-                  "start": "1657033200000",
-                  "end": "1657036800000",
+                  "id": "047591006",
+                  "title": "Yeh Rishta Kya Kehlata Hai",
+                  "synopsis": "Kartik, Naira and Sirat's daughters are all grown up. Akshara immensely loves Aarohi. But, what happens when they are caught in a love triangle with Abhimanyu?",
+                  "channelNumber": 150,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
                   "genres": [
-                        "Crime"
+                        "Special Interest"
                   ],
-                  "rating": "M-CSV"
+                  "rating": "G"
             },
             {
-                  "id": "047560081",
-                  "title": "Spy Bahu",
-                  "synopsis": "Love blooms between Sejal, a clumsy girl, and Yohan, a handsome young man who is always around to rescue her. However, their real lives pose as barricades between their relationship.",
-                  "channelNumber": 151,
-                  "start": "1657036800000",
-                  "end": "1657038600000",
+                  "id": "047591007",
+                  "title": "Anupamaa",
+                  "synopsis": "Despite the many challenges thrown her way, Anupama begins a new chapter of her life post divorce. Head held always high, what's waiting for her next?",
+                  "channelNumber": 150,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
                   "genres": [
-                        "Drama"
+                        "Special Interest"
                   ],
-                  "rating": "M-CSV"
+                  "rating": "G"
             },
             {
                   "id": "047560082",
@@ -14939,6 +15026,30 @@
                   "rating": "M-CSV"
             },
             {
+                  "id": "047560105",
+                  "title": "Sirf Tum",
+                  "synopsis": "Ranveer and Suhani, who come from different backgrounds, love each other. However, they live with a secret that threatens to jeopardise their relationship.",
+                  "channelNumber": 151,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
+                  "genres": [
+                        "Drama"
+                  ],
+                  "rating": "M-CSV"
+            },
+            {
+                  "id": "047560106",
+                  "title": "Sasural Simar Ka 2",
+                  "synopsis": "Gitanjali Devi entrusts Simar Bhardwaj with the task of finding an ideal bride for her grandson. Simar's quest ends when she meets her namesake, Simar Narayan, who dreams of making it big as a singer.",
+                  "channelNumber": 151,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "Drama"
+                  ],
+                  "rating": "M-CSV"
+            },
+            {
                   "id": "047600740",
                   "title": "Golmaal Again",
                   "synopsis": "The gang of five encounters some spiritual bodies and finds out the truth about the Jamnadas Orphanage where they were brought up.",
@@ -15021,18 +15132,6 @@
                         "Movie"
                   ],
                   "rating": "G"
-            },
-            {
-                  "id": "047577609",
-                  "title": "FPJ's Ang Probinsyano",
-                  "synopsis": "Follow the journey of  Cardo, a celebrated police officer, with a loving family as his support.",
-                  "channelNumber": 160,
-                  "start": "1657035000000",
-                  "end": "1657036800000",
-                  "genres": [
-                        "Drama"
-                  ],
-                  "rating": "PG"
             },
             {
                   "id": "047577610",
@@ -15167,16 +15266,16 @@
                   "rating": "PG"
             },
             {
-                  "id": "047550372",
-                  "title": "A Gift Horse",
-                  "synopsis": "Torn apart by the loss of her mother, young Amanda spends time at a ranch owned by a business tycoon. When his spoiled daughter rejects their new horse, Amanda proves that Misty is a true champion.",
-                  "channelNumber": 201,
-                  "start": "1657033200000",
-                  "end": "1657038600000",
+                  "id": "047577621",
+                  "title": "It\u2019s Showtime (LIVE)",
+                  "synopsis": "The venue for Pinoys to strut and display their unique talents for all the world to see.  Led by a powerhouse cast of popular celebrities!",
+                  "channelNumber": 160,
+                  "start": "1657080000000",
+                  "end": "1657090800000",
                   "genres": [
-                        "Family"
+                        "Game Show"
                   ],
-                  "rating": "G"
+                  "rating": "PG"
             },
             {
                   "id": "047550373",
@@ -15445,26 +15544,26 @@
                   "rating": "G"
             },
             {
-                  "id": "047566693",
-                  "title": "TD Jakes",
-                  "synopsis": "Like the prodigal son, who realized he was living beneath himself, God will release an epiphany that proves we can live another way.",
-                  "channelNumber": 202,
-                  "start": "1657035000000",
-                  "end": "1657036800000",
+                  "id": "047550395",
+                  "title": "ARISE Kids TV",
+                  "synopsis": "Your one stop shop kiwi kids content.. Jam packed full of faith, fun delivered by your favourite friends! We believe in the next generation and its our mandate to inspire, connect and empower them.",
+                  "channelNumber": 201,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
                   "genres": [
-                        "Comedy"
+                        "Kids/Family"
                   ],
                   "rating": "G"
             },
             {
-                  "id": "047566694",
-                  "title": "Life Today",
-                  "synopsis": "Two Christian leaders explain how believers are called to engage the culture in order to change it.",
-                  "channelNumber": 202,
-                  "start": "1657036800000",
-                  "end": "1657038600000",
+                  "id": "047550396",
+                  "title": "Friends and Heroes",
+                  "synopsis": "Friends and Heroes is an animated children's adventure based in Ancient Egypt, Israel and Rome.The story follows young friends Macky and Portia as they fight for justice against the Roman Empire.",
+                  "channelNumber": 201,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
                   "genres": [
-                        "Comedy"
+                        "Cartoons/Puppets"
                   ],
                   "rating": "G"
             },
@@ -15733,14 +15832,26 @@
                   "rating": "G"
             },
             {
-                  "id": "047564359",
-                  "title": "Frances & Friends",
-                  "synopsis": "Talk show hosted by Frances Swaggart, covering current events from a Biblical perspective.",
-                  "channelNumber": 203,
-                  "start": "1657029600000",
-                  "end": "1657036800000",
+                  "id": "047566717",
+                  "title": "Andrew Wommack",
+                  "synopsis": "Andrew Wommack shares how the Word of God transformed his life. He believes the same power will work for you. His teaching is profound, clear, and simple enough for a child.",
+                  "channelNumber": 202,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
                   "genres": [
-                        "Religion"
+                        "Comedy"
+                  ],
+                  "rating": "G"
+            },
+            {
+                  "id": "047566718",
+                  "title": "Joni Table Talk",
+                  "synopsis": "Is it possible to find peace and victory after a life-changing circumstances turn your world upside down? Dr. Dharius Daniels reveals wisdom we can find from the life of Job.",
+                  "channelNumber": 202,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "Comedy"
                   ],
                   "rating": "G"
             },
@@ -15853,30 +15964,16 @@
                   "rating": "G"
             },
             {
-                  "id": "047544203",
-                  "title": "It Is Written",
-                  "synopsis": "In Matthew chapter 5, Jesus gets to the heart of the Christian experience, challenging His hearers, that rather than merely being religious, they should demonstrate a changed heart and life.",
-                  "channelNumber": 204,
-                  "start": "1657035000000",
-                  "end": "1657036800000",
+                  "id": "047564369",
+                  "title": "FWC Music",
+                  "synopsis": "Live Gospel music recorded in Family Worship Center Church featuring Jimmy Swaggart and other singers.",
+                  "channelNumber": 203,
+                  "start": "1657080000000",
+                  "end": "1657083600000",
                   "genres": [
                         "Religion"
                   ],
-                  "rating": "G",
-                  "seriesId": "21066"
-            },
-            {
-                  "id": "047544204",
-                  "title": "Put Some Colour In Your Life",
-                  "synopsis": "Put Some Colour in Your Life showcases different Australian artists and their unique works. In this episode, presenter Graeme Stevenson visits Uma Barry in Melbourne.",
-                  "channelNumber": 204,
-                  "start": "1657036800000",
-                  "end": "1657038600000",
-                  "genres": [
-                        "Fine Arts"
-                  ],
-                  "rating": "G",
-                  "seriesId": "8044"
+                  "rating": "G"
             },
             {
                   "id": "047544205",
@@ -16113,17 +16210,30 @@
                   "seriesId": "47505"
             },
             {
-                  "id": "047526164",
-                  "title": "Be Found in Him",
-                  "synopsis": "Through the story of the Pharisee and the Publican the greatest deception of self righteousness is revealed. How can we avoid this deception? S1E1",
-                  "channelNumber": 206,
-                  "start": "1657033200000",
-                  "end": "1657036800000",
+                  "id": "047544223",
+                  "title": "Scripture Seekers",
+                  "synopsis": "On todays episode, the nice Blockheads' Bible is stolen and Hunter reassurers them that their replationship with God remains intact.",
+                  "channelNumber": 204,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
                   "genres": [
-                        "Religion"
+                        "Cartoons/Puppets"
                   ],
                   "rating": "G",
-                  "seriesId": "29174"
+                  "seriesId": "33327"
+            },
+            {
+                  "id": "047544224",
+                  "title": "Parker's Puzzle",
+                  "synopsis": "Join Mr Richie and his friend Parker the parrot as they follow the clues to answer this week's puzzle - Today's clue is a sealed envelope",
+                  "channelNumber": 204,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "Kids/Family"
+                  ],
+                  "rating": "G",
+                  "seriesId": "19503"
             },
             {
                   "id": "047526165",
@@ -16308,30 +16418,30 @@
                   "seriesId": "26620"
             },
             {
-                  "id": "046770613",
-                  "title": "Frasier",
-                  "synopsis": "When they discover an engagement ring hidden in their father's drawer, Niles and Frasier feel compelled to investigate Sherry's past.",
-                  "channelNumber": 208,
-                  "start": "1657034700000",
-                  "end": "1657036200000",
+                  "id": "047526179",
+                  "title": "Creation to Re-Creation",
+                  "synopsis": "In the last episode about Creation Week, Nicolene Filmalter shares with us what God did on the Seventh Day - the Sabbath Day. S1E5",
+                  "channelNumber": 206,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
                   "genres": [
-                        "Comedy"
+                        "Religion"
                   ],
                   "rating": "G",
-                  "seriesId": "25542"
+                  "seriesId": "25978"
             },
             {
-                  "id": "046770616",
-                  "title": "Frasier",
-                  "synopsis": "Fed up with his cut-throat agent Bebe, Frasier soon learns the high price of hiring a \"nice\" agent to represent him in contract negotiations.",
-                  "channelNumber": 208,
-                  "start": "1657036200000",
-                  "end": "1657037700000",
+                  "id": "047526180",
+                  "title": "Creation Scapes",
+                  "synopsis": "A journey through Gods creation with music videos that mix scenic views with hymns & songs of praise. S1E5",
+                  "channelNumber": 206,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
                   "genres": [
-                        "Comedy"
+                        "Nature Documentary"
                   ],
                   "rating": "G",
-                  "seriesId": "25542"
+                  "seriesId": "28819"
             },
             {
                   "id": "047368862",
@@ -16577,17 +16687,17 @@
                   "seriesId": "38129"
             },
             {
-                  "id": "047373027",
-                  "title": "Chicago Fire",
-                  "synopsis": "S7E21:A serial arsonist cold case is reopened when Lt. Severide finds a connection to a recent salon fire. Firehouse 51 celebrates a retirement party.",
-                  "channelNumber": 210,
-                  "start": "1657035000000",
-                  "end": "1657038600000",
+                  "id": "046607145",
+                  "title": "Police Story",
+                  "synopsis": "A young woman is snatched off a city street, driven out into the hills, and sexually assaulted. Investigators try to build a case by convincing the traumatised victim and a past victim to testify.",
+                  "channelNumber": 208,
+                  "start": "1657079400000",
+                  "end": "1657082700000",
                   "genres": [
                         "Drama"
                   ],
-                  "rating": "16-CV",
-                  "seriesId": "51096"
+                  "rating": "M-CV",
+                  "seriesId": "21713"
             },
             {
                   "id": "047373028",
@@ -16781,26 +16891,17 @@
                   "seriesId": "60351"
             },
             {
-                  "id": "047484336",
-                  "title": "Today\u2019s Top Pick",
-                  "synopsis": "The Journey of Rice 6",
-                  "channelNumber": 309,
-                  "start": "1657033200000",
-                  "end": "1657036800000",
+                  "id": "047373043",
+                  "title": "Chicago Fire",
+                  "synopsis": "S7E21:A serial arsonist cold case is reopened when Lt. Severide finds a connection to a recent salon fire. Firehouse 51 celebrates a retirement party.",
+                  "channelNumber": 210,
+                  "start": "1657081800000",
+                  "end": "1657085400000",
                   "genres": [
-                        "News/Current Affairs"
-                  ]
-            },
-            {
-                  "id": "047484337",
-                  "title": "Humanities and Geography",
-                  "synopsis": "Nature Wardens V 4",
-                  "channelNumber": 309,
-                  "start": "1657036800000",
-                  "end": "1657038600000",
-                  "genres": [
-                        "News/Current Affairs"
-                  ]
+                        "Drama"
+                  ],
+                  "rating": "16-CV",
+                  "seriesId": "4888"
             },
             {
                   "id": "047484338",
@@ -16990,23 +17091,23 @@
                   ]
             },
             {
-                  "id": "047481478",
-                  "title": "World Insight with Tian Wei",
-                  "synopsis": "World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.",
-                  "channelNumber": 310,
-                  "start": "1657035000000",
-                  "end": "1657036800000",
+                  "id": "047484355",
+                  "title": "Humanities and Geography",
+                  "synopsis": "Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.",
+                  "channelNumber": 309,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
                   "genres": [
                         "News/Current Affairs"
                   ]
             },
             {
-                  "id": "047481479",
-                  "title": "The World Today",
-                  "synopsis": "The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
-                  "channelNumber": 310,
-                  "start": "1657036800000",
-                  "end": "1657038600000",
+                  "id": "047484356",
+                  "title": "Living China",
+                  "synopsis": "Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.",
+                  "channelNumber": 309,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
                   "genres": [
                         "News/Current Affairs"
                   ]
@@ -17265,28 +17366,26 @@
                   ]
             },
             {
-                  "id": "047548337",
-                  "title": "Infomercials",
-                  "synopsis": "Infomercials",
-                  "channelNumber": 501,
-                  "start": "1657035300000",
-                  "end": "1657037100000",
+                  "id": "047481503",
+                  "title": "The World Today",
+                  "synopsis": "The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.",
+                  "channelNumber": 310,
+                  "start": "1657080000000",
+                  "end": "1657080900000",
                   "genres": [
-                        "Shopping"
-                  ],
-                  "rating": "G"
+                        "News/Current Affairs"
+                  ]
             },
             {
-                  "id": "047548339",
-                  "title": "Infomercials",
-                  "synopsis": "Infomercials",
-                  "channelNumber": 501,
-                  "start": "1657037100000",
-                  "end": "1657038900000",
+                  "id": "047481504",
+                  "title": "Global Business",
+                  "synopsis": "Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.",
+                  "channelNumber": 310,
+                  "start": "1657080900000",
+                  "end": "1657083600000",
                   "genres": [
-                        "Shopping"
-                  ],
-                  "rating": "G"
+                        "News/Current Affairs"
+                  ]
             },
             {
                   "id": "047548341",
@@ -17451,17 +17550,17 @@
                   "seriesId": "42152"
             },
             {
-                  "id": "047548985",
-                  "title": "MasterChef Australia",
-                  "synopsis": "In today's Immunity Challenge, contestants' creativity will be put to the test, with all  contestants receiving the same ingredient, but everyone having to cook it in a different style!",
-                  "channelNumber": 502,
-                  "start": "1657035000000",
-                  "end": "1657038300000",
+                  "id": "047548367",
+                  "title": "Tipping Point: Lucky Stars",
+                  "synopsis": "S7 E3 Ben Shephard hosts as author Fern Britton, comedian and Love Island narrator Iain Stirling and TV personality Mark-Francis Vandelli answer questions to win turns on an arcade-style machine.",
+                  "channelNumber": 501,
+                  "start": "1657080000000",
+                  "end": "1657083600000",
                   "genres": [
-                        "Food/Cooking"
+                        "Game Show"
                   ],
                   "rating": "G",
-                  "seriesId": "25928"
+                  "seriesId": "7861"
             },
             {
                   "id": "047548988",
@@ -17798,6 +17897,19 @@
                   "seriesId": "25919"
             },
             {
+                  "id": "047549066",
+                  "title": "The Feed",
+                  "synopsis": "The Feed is the perfect after-school arena for Kiwi kids! Join the team as they entertain and play the coolest TV shows across weekday afternoons.",
+                  "channelNumber": 502,
+                  "start": "1657081800000",
+                  "end": "1657087200000",
+                  "genres": [
+                        "Kids/Family"
+                  ],
+                  "rating": "G",
+                  "seriesId": "29088"
+            },
+            {
                   "id": "047566386",
                   "title": "Infomercials",
                   "synopsis": "Infomercials",
@@ -17905,6 +18017,19 @@
                   "rating": "M-CSV"
             },
             {
+                  "id": "047566415",
+                  "title": "What Could Possibly Go Wrong?",
+                  "synopsis": "Kevin and Grant take a golf cart from wimpy to monster truck. They take on the science of Spider-Man engineering a way to scale a 50-foot wall. S1B Ep1",
+                  "channelNumber": 503,
+                  "start": "1657079700000",
+                  "end": "1657083300000",
+                  "genres": [
+                        "Investigations"
+                  ],
+                  "rating": "PG-CL",
+                  "seriesId": "32483"
+            },
+            {
                   "id": "047549696",
                   "title": "DUKE Back in the Future",
                   "synopsis": "We'll catch you later on DUKE.",
@@ -18005,6 +18130,32 @@
                   ],
                   "rating": "M",
                   "seriesId": "14926"
+            },
+            {
+                  "id": "047549712",
+                  "title": "Hunting Aotearoa",
+                  "synopsis": "Capturing the pace, excitement and personalities that come with hunting wild game in the stunning outdoors of Aotearoa.",
+                  "channelNumber": 504,
+                  "start": "1657079400000",
+                  "end": "1657080900000",
+                  "genres": [
+                        "General Entertainment"
+                  ],
+                  "rating": "PG-L",
+                  "seriesId": "10139"
+            },
+            {
+                  "id": "047549714",
+                  "title": "Heavy Rescue 401",
+                  "synopsis": "The stories of heavy recovery drivers who fight to keep traffic rolling on some of the busiest and most unforgiving roads on the planet!",
+                  "channelNumber": 504,
+                  "start": "1657080900000",
+                  "end": "1657083900000",
+                  "genres": [
+                        "General Entertainment"
+                  ],
+                  "rating": "G",
+                  "seriesId": "18419"
             },
             {
                   "id": "047543955",
@@ -18187,6 +18338,19 @@
                   "seriesId": "39268"
             },
             {
+                  "id": "047570577",
+                  "title": "My Cat From Hell",
+                  "synopsis": "Ryann and Derek's cats do not get along, as Buddy bullies Lita. Jen and Nicole got along great, until Jen got a cat named Princess Puffy Pants who pees on everything.",
+                  "channelNumber": 505,
+                  "start": "1657080000000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "Nature Documentary"
+                  ],
+                  "rating": "PG",
+                  "seriesId": "27533"
+            },
+            {
                   "id": "047564858",
                   "title": "Infomercials",
                   "synopsis": "Infomercials",
@@ -18313,16 +18477,17 @@
                   "seriesId": "20807"
             },
             {
-                  "id": "047505986",
-                  "title": "Closedown",
-                  "synopsis": "Prime's regular programming returns at 6am with the best drama, factual, lifestyle and comedy shows, plus free-to-air sport! Check out primetv.co.nz for details.",
-                  "channelNumber": 514,
-                  "start": "1657033200000",
-                  "end": "1657036800000",
+                  "id": "047564878",
+                  "title": "Top Chef",
+                  "synopsis": "On the eve of the Quickfire, Padma and Season 14 Winner Brooke Williamson surprise the chefs at their house with ingredients and task them to create a delicious breakfast dish featuring Nutella.",
+                  "channelNumber": 512,
+                  "start": "1657081800000",
+                  "end": "1657085400000",
                   "genres": [
-                        "General Entertainment"
+                        "Food/Cooking"
                   ],
-                  "rating": "PG"
+                  "rating": "PG",
+                  "seriesId": "23431"
             },
             {
                   "id": "047342524",
@@ -18464,6 +18629,32 @@
                   ],
                   "rating": "PG",
                   "seriesId": "33211"
+            },
+            {
+                  "id": "046622427",
+                  "title": "Wheel Of Fortune",
+                  "synopsis": "Contestants guess letters in mystery words and phrases to win money or prizes, all determined by a spin of The Wheel!",
+                  "channelNumber": 514,
+                  "start": "1657080000000",
+                  "end": "1657081800000",
+                  "genres": [
+                        "Game Show"
+                  ],
+                  "rating": "G",
+                  "seriesId": "25323"
+            },
+            {
+                  "id": "046624408",
+                  "title": "Jeopardy",
+                  "synopsis": "This is fast paced general knowledge at its best! Jeopardy provides a test of literature, history, science, the arts, pop culture, and more. Can you keep up?",
+                  "channelNumber": 514,
+                  "start": "1657081800000",
+                  "end": "1657083600000",
+                  "genres": [
+                        "Game Show"
+                  ],
+                  "rating": "G",
+                  "seriesId": "19901"
             },
             {
                   "id": "047554925",

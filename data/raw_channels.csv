@@ -46,7 +46,7 @@ EPG_Map_No,Channel_Name,Logo_Url,HD,Genre
 55,SKY Sport 5,https://static.sky.co.nz/sky/epglogos/MK_SkySport5_NewLogo_V_80x60.png,true,Sport
 56,SKY Sport 6,https://static.sky.co.nz/sky/epglogos/MK_SkySport6_NewLogo_V_80x60.png,true,Sport
 57,SKY Sport 7,https://static.sky.co.nz/sky/epglogos/MK_SkySport7_NewLogo_V_80x60.png,true,Sport
-58,SKY Sport 8,https://static.sky.co.nz/sky/epglogos/MK_SkySport8_NewLogo_V_80x60.png,true,Sport
+58,SKY Sport 8,https://static.sky.co.nz/sky/epglogos/058_V200.png,true,Sport
 59,SKY Sport 9,https://static.sky.co.nz/sky/epglogos/MK_SkySport9_NewLogo_V_80x60.png,true,Sport
 600,SKY Sport Popup 1,https://static.sky.co.nz/sky/epglogos/MK_SKYSportPopUp1_Logo_80x60.png,,Sport
 60,ESPN,https://static.sky.co.nz/sky/epglogos/ESPN.png,,Sport
@@ -57,7 +57,7 @@ EPG_Map_No,Channel_Name,Logo_Url,HD,Genre
 70,Discovery Channel,https://static.sky.co.nz/sky/epglogos/Discovery_Channel.png,,News & Documentaries
 71,Crime + Investigation,https://static.sky.co.nz/sky/epglogos/MK_CI_LogoThumb_Update_80x60.png,,News & Documentaries
 72,National Geographic,https://static.sky.co.nz/sky/epglogos/MK_NatGeo_LogoThumbnail_80x60.jpg,,News & Documentaries
-73,History,https://static.sky.co.nz/sky/epglogos/MK_History_LogoThumbnail_80x60.jpg,,News & Documentaries
+73,History,https://static.sky.co.nz/sky/epglogos/logo_073_80x60.png,,News & Documentaries
 74,BBC Earth,https://static.sky.co.nz/sky/epglogos/MK_BBCEarth_LogoThumbnail_80x60.jpg,,News & Documentaries
 75,Discovery Turbo,https://static.sky.co.nz/sky/epglogos/MK_DiscoveryTurbo_LogoThumbnail_80x60.jpg,,News & Documentaries
 76,Animal Planet,https://static.sky.co.nz/sky/epglogos/MK_AnimalPlanetUpdate_Thumbnail_80x60.png,,News & Documentaries

@@ -1,3 +1,4 @@
+
 import requests
 import time
 from datetime import datetime, timezone, timedelta, date
@@ -8,7 +9,7 @@ import pandas as pd
 import yaml
 from yaml.loader import SafeLoader
 import ftplib
-
+from anyascii import anyascii
 
 ## EPG URL 
 ## "https://web-epg.sky.co.nz/prod/epgs/v1?start=1656804027242&end=1656832827242&limit=20000"
@@ -17,7 +18,7 @@ import ftplib
 URI_EPG = "https://web-epg.sky.co.nz/prod/epgs/v1?"
 URI_CHANNELS = "https://skywebconfig.msl-prod.skycloud.co.nz/sky/json/channels.prod.json"
 
-def push2FTP(file_name):    
+def push2FTP(file_name):
 
     with open("credentials.yaml") as f:
         config = yaml.load(f, Loader=SafeLoader)
@@ -29,27 +30,28 @@ def push2FTP(file_name):
 
     with open(f"./export/NZL/{file_name}", "rb") as file:
         ftp.storbinary(f'STOR .{config["dir"]}/{file_name}', file)
-    
+
     print("Process Complete")
     exit()
 
 
 def getRawEPG():
-    dateTimeStart = datetime.now(pytz.timezone("Pacific/Auckland"))
-    dateTimeEnd = dateTimeStart + timedelta(hours=12)
+    now = datetime.now(pytz.timezone("Pacific/Auckland"))
+    dateTimeStart = now + timedelta(hours=0)
+    dateTimeEnd = now + timedelta(hours=72)
 
     timeStart = str(datetime.timestamp(dateTimeStart)*1000).replace(".","")[0:13]
-    timeEnd = str(datetime.timestamp(dateTimeEnd)*1000).replace(".","")[0:13] 
-    uri = "%sstart=%s&end=%s&limit=2000" % (URI_EPG, timeStart, timeEnd)
-   
-    responce = requests.get(uri)     
+    timeEnd = str(datetime.timestamp(dateTimeEnd)*1000).replace(".","")[0:13]
+    uri = "%sstart=%s&end=%s&limit=20000" % (URI_EPG, timeStart, timeEnd)
+
+    responce = requests.get(uri)
+
     if responce.status_code == 200:
         with open("./data/raw_epg.json", "w") as f:
             json.dump(responce.json(), f, indent=6)
             f.close()
         return responce.json()
-
-    return responce.json()
+    exit()
 
 
 def getRawChannels():
@@ -66,13 +68,13 @@ def getRawChannels():
 
         return responce.json()
 
-def exportChannelMaping(data): 
+def exportChannelMaping(data):
     pop = {"genre", "sort", "synopsis", "promotions","logo","sku", "order","url","logoInverted","promotionIntro"}
 
     for c in data:
         c["EPG_Map_No"] = c.pop("number")
         c["Channel_Name"] = c.pop("name")
-        c["Logo_Url"] = c.pop("logoThumbnail")     
+        c["Logo_Url"] = c.pop("logoThumbnail")
         c["HD"] = c.pop("hd")
         c["Genre"] = c["genre"][0]
 
@@ -102,39 +104,46 @@ def modelEPG(rawEPG):
     events = rawEPG["events"]
 
     channels = []
+    this_events = []
 
     for event in events:
-        event["eventID"] = event.pop("id")
-        event["name"] = event.pop("title")
-        event["eventDescription"] = event.pop("synopsis")
-        event["date"] =  date(event["start"])
-        event["startTime"] = time(event["start"])
-        event["length"] = duration(event["start"], event["end"])
-        event["genres"] = event["genres"][0]
-        event.pop("start")
-        event.pop("end")
+        this_event = {
+            "eventID": f'{event["channelNumber"]}-{event["id"]}',
+            "title": anyascii(event["title"]),
+            "eventDescription": anyascii(event["synopsis"]) ,
+            "rating": None, #event["rating"],
+            "date": date(event["start"]),
+            "startTime": time(event["start"]),
+            "length": duration(event["start"], event["end"]),
+            "genre" : event["genres"][0],
+            "channelNumber": event["channelNumber"] # Removed Later
+        }
 
-        if "seriesId" in event:
-            event.pop("seriesId")
+        this_events.append(this_event)
 
-    return events
+    return this_events
 
 def groupEPGChannels(events):
     rawChannels = getRawChannels()
-    channel = {}
     channels = []
 
     for c in rawChannels:
         epg = [x for x in events if (x['channelNumber'] == int(c["number"]))]
-
-        channel["channelID"] = int(c["number"])
+        #if(len(epg) != 0):
+        channel ={}
+        channel["channelID"] = "NZL_" + str(int(c["number"]))
         channel["name"] = c["name"]
         channel["resolution"] = "HD" if c["hd"] == "true" else "SD"
         channel["events"] = epg
         channels.append(channel)
 
+    for channel in channels:
+        for event in channel["events"]:
+            if "channelNumber" in event.keys():
+                del event["channelNumber"]
+
     return channels
-    
+
 
 
 def getMaxMinutes(epg):
@@ -146,18 +155,19 @@ def getMaxMinutes(epg):
 
 
 
-def buildPayLoad(epg):   
+def buildPayLoad(epg):
+    fetchTime =  datetime.now(pytz.timezone("Pacific/Auckland"))
 
     payload = {
-        "filetype": "Pro:Centric JSON Program Guide Data",
+        "filetype": "Pro:Centric JSON Program Guide Data NZL",
         "version": "0.1",
-        "fetchTime": str(datetime.now(pytz.timezone("Pacific/Auckland"))),
+        "fetchTime": fetchTime.strftime('%Y-%m-%dT%H:%M:%S+0000'),
         "maxMinutes": getMaxMinutes(epg),
-        "channels": epg            
+        "channels": epg
     }
 
     with open("./data/Procentric_EPG.json", "w") as f:
-        json.dump(payload, f, indent=6)
+        json.dump(payload, f, indent=6, ensure_ascii=True)
         f.close()
 
     return payload
@@ -169,8 +179,8 @@ def saveToZip(payload):
     today = datetime.today().date().strftime("%Y%m%d")
 
     file_name = f"Procentric_EPG_NZL_{today}.zip"
-    with ZipFile(f"./export/NZL/{file_name}", 'w') as zip:
-        zip.write("./data/Procentric_EPG.json")
+    with ZipFile(f"/home/procentric/EPG/NZL/{file_name}", 'w') as zip:
+        zip.write("./data/Procentric_EPG.json", "Procentric_EPG.json")
         zip.close()
 
     return file_name
@@ -195,7 +205,7 @@ def Main():
     file_name = saveToZip(payload)
 
     ## Upload to FTP
-    push2FTP(file_name)
+    ##push2FTP(file_name)
 
 
 Main()

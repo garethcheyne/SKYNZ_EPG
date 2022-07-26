@@ -37,10 +37,17 @@ def push_to_ftp(file_name):
     exit()
 
 
+<<<<<<< HEAD
 def get_raw_epg():
     now = datetime.now(pytz.timezone("Pacific/Auckland"))
     dateTimeStart = now + timedelta(hours=0)
     dateTimeEnd = now + timedelta(hours=48)
+=======
+def getRawEPG():
+    now = datetime.now(pytz.timezone("Pacific/Auckland"))
+    dateTimeStart = now + timedelta(hours=12)
+    dateTimeEnd = now + timedelta(hours=24)
+>>>>>>> 0297b4dc1352b986ab7a4174954f7bbf797b55fa
 
     timeStart = str(datetime.timestamp(dateTimeStart)*1000).replace(".","")[0:13]
     timeEnd = str(datetime.timestamp(dateTimeEnd)*1000).replace(".","")[0:13]
@@ -120,6 +127,7 @@ def model_epg(raw_epg):
     this_events = []
 
     for event in events:
+<<<<<<< HEAD
         this_event = {
             "eventID": f'{event["channelNumber"]}-{event["id"]}',
             "title": anyascii(event["title"]),
@@ -138,22 +146,61 @@ def model_epg(raw_epg):
 
 def group_epg_channels(events):
     raw_channels = get_raw_channels()
-    channels = []
+=======
+        event["eventID"] = event.pop("id")
+        event["title"] = event.pop("title")
+        event["eventDescription"] = event.pop("synopsis")
+        event["date"] =  date(event["start"])
+        event["startTime"] = time(event["start"])
+        event["length"] = duration(event["start"], event["end"])
+        event["genres"] = event["genres"][0]
+        event.pop("start")
+        event.pop("end")
 
+        if "seriesId" in event:
+            event.pop("seriesId")
+
+    return events
+
+def groupEPGChannels(events):
+    rawChannels = getRawChannels()
+ 
+    
+>>>>>>> 0297b4dc1352b986ab7a4174954f7bbf797b55fa
+    channels = []
+    print(type(channels))
+
+<<<<<<< HEAD
     for c in raw_channels:
         epg = [x for x in events if (x['channelNumber'] == int(c["number"]))]
         channel = {}
         channel["channelID"] = "NZL_" + str(int(c["number"]))
+=======
+    for c in rawChannels:
+        channel = {}
+        epg = [x for x in events if (x['channelNumber'] == int(c["number"]))]  
+
+        channel["channelID"] = "NZL" + str(int(c["number"]))
+>>>>>>> 0297b4dc1352b986ab7a4174954f7bbf797b55fa
         channel["name"] = c["name"]
         channel["resolution"] = "HD" if c["hd"] == "true" else "SD"
         channel["events"] = epg
         channels.append(channel)
 
+<<<<<<< HEAD
+=======
+        print(f'Channel = {channel["name"]} Number = {c["number"]})')
+
+>>>>>>> 0297b4dc1352b986ab7a4174954f7bbf797b55fa
     for channel in channels:
         for event in channel["events"]:
             if "channelNumber" in event.keys():
                 del event["channelNumber"]
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 0297b4dc1352b986ab7a4174954f7bbf797b55fa
     return channels
 
 
@@ -191,7 +238,11 @@ def save_to_zip(payload):
     today = datetime.today().date().strftime("%Y%m%d")
 
     file_name = f"Procentric_EPG_NZL_{today}.zip"
+<<<<<<< HEAD
     with ZipFile(f"/home/procentric/EPG/NZL/{file_name}", 'w') as zip:
+=======
+    with ZipFile(f"./export/NZL/{file_name}", 'w') as zip:
+>>>>>>> 0297b4dc1352b986ab7a4174954f7bbf797b55fa
         zip.write("./data/Procentric_EPG.json", "Procentric_EPG.json")
         zip.close()
 
@@ -217,7 +268,11 @@ def Main():
     file_name = save_to_zip(payload)
 
     ## Upload to FTP
+<<<<<<< HEAD
     ##push2FTP(file_name)
+=======
+    #push2FTP(file_name)
+>>>>>>> 0297b4dc1352b986ab7a4174954f7bbf797b55fa
 
 
 Main()

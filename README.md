@@ -2,7 +2,7 @@
 
 ALPHA ONLY, NOT COMPLETE, NOT TESTED OR CONFIRMED WORKING.
 
-The following uses the Sky NZ EPG API to extract the current days channel information and prepairs that data for importation into a LG PCD Server, after it has been uploaded the an ftp server accessable to the PCD.
+The following uses the Sky NZ EPG API to extract the current days channel information and prepairs that data for importation into a LG ProCentic Server, after it has been uploaded the an ftp server accessable to the PCS.
 
 Feel free to use this as a base if you want an NZ EPG data including all Sky NZ channels and model as you see fit.
 
@@ -80,19 +80,31 @@ URL https://skywebconfig.msl-prod.skycloud.co.nz/sky/json/channels.prod.json
 
 
 
-## LG ProCentric 
-Preparing the data form importation is only the first step, you must host a Zip file on and accessable FTP server and have the file named correctly.
+## LG ProCentric Server
+Preparing the data form importation is only the first step, you must host a Zip file on and accessable FTP server and has the file named correctly.
 
 ZIP Naming Convention = Procentric_EPG_{ISO Country Code ie NZL}_{Date YYYYMMDD}.zip
 
 JSON Naming Convention = Procentric_EPG.json
 
+JSON payload needs to be enclosed into the the ZIP file and places in the approperate directory for collections over FTP.
+
+### FTP Service
+Your file needs to sit in a sub directory from a logged in FTP user.
+
+Linux Users prospective
+/home/procentric/EPG/NZL
+
+FTP Users prospective
+/EPG/NZL
+
+
 ### Expected JSON Format
 ```
 {
-    "filetype": "Pro:Centric JSON Program Guide Data 98101",
+    "filetype": "Pro:Centric JSON Program Guide Data NZL",
     "version": "0.1",
-    "fetchTime": "2022-06-24T13:22:44-0400",
+    "fetchTime": "2022-06-24T13:22:44+1200",
     "maxMinutes": 60,
     "channels": [
         {
@@ -115,6 +127,7 @@ JSON Naming Convention = Procentric_EPG.json
     ]
 }
 ```
+
 
 ### EPG ID Mapping for PCD or Other.
 [EPG ID Mapping](./data/raw_channels.csv)

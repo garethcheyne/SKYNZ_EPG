@@ -15,10 +15,12 @@ from anyascii import anyascii
 ## "https://web-epg.sky.co.nz/prod/epgs/v1?start=1656804027242&end=1656832827242&limit=20000"
 
 
+# FIXED SKY URI's
 URI_EPG = "https://web-epg.sky.co.nz/prod/epgs/v1?"
 URI_CHANNELS = "https://skywebconfig.msl-prod.skycloud.co.nz/sky/json/channels.prod.json"
 
-def push2FTP(file_name):
+
+def push_to_ftp(file_name):
 
     with open("credentials.yaml") as f:
         config = yaml.load(f, Loader=SafeLoader)
@@ -35,10 +37,10 @@ def push2FTP(file_name):
     exit()
 
 
-def getRawEPG():
+def get_raw_epg():
     now = datetime.now(pytz.timezone("Pacific/Auckland"))
     dateTimeStart = now + timedelta(hours=0)
-    dateTimeEnd = now + timedelta(hours=72)
+    dateTimeEnd = now + timedelta(hours=48)
 
     timeStart = str(datetime.timestamp(dateTimeStart)*1000).replace(".","")[0:13]
     timeEnd = str(datetime.timestamp(dateTimeEnd)*1000).replace(".","")[0:13]
@@ -54,7 +56,7 @@ def getRawEPG():
     exit()
 
 
-def getRawChannels():
+def get_raw_channels():
     uri = URI_CHANNELS
     responce = requests.get(uri) 
 
@@ -64,11 +66,11 @@ def getRawChannels():
             json.dump(data, f, indent=6)
             f.close()
 
-        exportChannelMaping(data)
+        export_channel_mapping(data)
 
         return responce.json()
 
-def exportChannelMaping(data):
+def export_channel_mapping(data):
     pop = {"genre", "sort", "synopsis", "promotions","logo","sku", "order","url","logoInverted","promotionIntro"}
 
     for c in data:
@@ -95,15 +97,26 @@ def date(start):
     utc_time = datetime.fromtimestamp(unix_ts)    
     return utc_time.strftime("%Y-%m-%d")
 
+def datetime_shift(unix_timestamp):
+    ts = datetime.fromtimestamp(unix_timestamp)
+    shifted_ts = ts - timedelta(hours=12)
+    return 
+    
+
 def time(start):
     unix_ts = int(start[0:10])
     utc_time = datetime.fromtimestamp(unix_ts)    
     return utc_time.strftime("%H%M")
 
-def modelEPG(rawEPG):
-    events = rawEPG["events"]
+def rating(event):
+    if "rating" in event.keys():
+        return event['rating']
+    else:
+        return None
 
-    channels = []
+def model_epg(raw_epg):
+
+    events = raw_epg["events"]
     this_events = []
 
     for event in events:
@@ -111,26 +124,25 @@ def modelEPG(rawEPG):
             "eventID": f'{event["channelNumber"]}-{event["id"]}',
             "title": anyascii(event["title"]),
             "eventDescription": anyascii(event["synopsis"]) ,
-            "rating": None, #event["rating"],
+            "rating": None, #rating(event),
             "date": date(event["start"]),
             "startTime": time(event["start"]),
             "length": duration(event["start"], event["end"]),
             "genre" : event["genres"][0],
-            "channelNumber": event["channelNumber"] # Removed Later
+            "channelNumber": event["channelNumber"] 
         }
 
         this_events.append(this_event)
 
     return this_events
 
-def groupEPGChannels(events):
-    rawChannels = getRawChannels()
+def group_epg_channels(events):
+    raw_channels = get_raw_channels()
     channels = []
 
-    for c in rawChannels:
+    for c in raw_channels:
         epg = [x for x in events if (x['channelNumber'] == int(c["number"]))]
-        #if(len(epg) != 0):
-        channel ={}
+        channel = {}
         channel["channelID"] = "NZL_" + str(int(c["number"]))
         channel["name"] = c["name"]
         channel["resolution"] = "HD" if c["hd"] == "true" else "SD"
@@ -146,7 +158,7 @@ def groupEPGChannels(events):
 
 
 
-def getMaxMinutes(epg):
+def get_max_minutes(epg):
     maxMin = 0
     for channel in epg:
         for event in channel['events']:
@@ -155,14 +167,14 @@ def getMaxMinutes(epg):
 
 
 
-def buildPayLoad(epg):
+def build_payload(epg):
     fetchTime =  datetime.now(pytz.timezone("Pacific/Auckland"))
 
     payload = {
         "filetype": "Pro:Centric JSON Program Guide Data NZL",
         "version": "0.1",
-        "fetchTime": fetchTime.strftime('%Y-%m-%dT%H:%M:%S+0000'),
-        "maxMinutes": getMaxMinutes(epg),
+        "fetchTime": fetchTime.strftime('%Y-%m-%dT%H:%M:%S+2400'),
+        "maxMinutes": get_max_minutes(epg),
         "channels": epg
     }
 
@@ -173,7 +185,7 @@ def buildPayLoad(epg):
     return payload
 
 
-def saveToZip(payload):
+def save_to_zip(payload):
     #Zip file name : Procentric_EPG_{country code}_{date}.zip (e.g. Procentric_EPG_GBR_20220609.zip)
 
     today = datetime.today().date().strftime("%Y%m%d")
@@ -190,19 +202,19 @@ def saveToZip(payload):
 
 def Main():
     ## Get EPG From SKY NZ API
-    raw_epg = getRawEPG()
+    raw_epg = get_raw_epg()
 
     ## Process Events
-    events = modelEPG(raw_epg)
+    events = model_epg(raw_epg)
 
     ## Group Events per Channel
-    epg = groupEPGChannels(events)
+    epg = group_epg_channels(events)
 
     ## Build ProCentric JSON PayLoad
-    payload = buildPayLoad(epg)
+    payload = build_payload(epg)
 
     # Add ProCentric JSON to ZIP
-    file_name = saveToZip(payload)
+    file_name = save_to_zip(payload)
 
     ## Upload to FTP
     ##push2FTP(file_name)

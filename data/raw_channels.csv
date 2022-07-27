@@ -49,6 +49,8 @@ EPG_Map_No,Channel_Name,Logo_Url,HD,Genre
 58,SKY Sport 8,https://static.sky.co.nz/sky/epglogos/058_V200.png,true,Sport
 59,SKY Sport 9,https://static.sky.co.nz/sky/epglogos/MK_SkySport9_NewLogo_V_80x60.png,true,Sport
 600,SKY Sport Popup 1,https://static.sky.co.nz/sky/epglogos/MK_SKYSportPopUp1_Logo_80x60.png,,Sport
+603,SKY Sport Pop-up,https://static.sky.co.nz/sky/epglogos/603_SPUP.png,,Sport
+602,Prime Simulcast,https://static.sky.co.nz/sky/epglogos/Prime_Orange_80x60.png,,Sport
 60,ESPN,https://static.sky.co.nz/sky/epglogos/ESPN.png,,Sport
 61,ESPN2,https://static.sky.co.nz/sky/epglogos/ESPN2.png,true,Sport
 62,TAB Trackside 1,https://static.sky.co.nz/sky/epglogos/Trackside_1.png,true,Sport

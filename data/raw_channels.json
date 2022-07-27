@@ -905,6 +905,42 @@
             "order": "0"
       },
       {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/603_SPUP.png",
+            "sort": "SKY Sport Pop-up",
+            "synopsis": "",
+            "url": "",
+            "number": "603",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "SKY Sport Pop-up",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "242",
+            "order": "0"
+      },
+      {
+            "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/Prime_Orange_80x60.png",
+            "sort": "Prime Simulcast",
+            "synopsis": "",
+            "url": "",
+            "number": "602",
+            "promotions": [],
+            "logoInverted": "",
+            "promotionIntro": "",
+            "name": "Prime Simulcast",
+            "genre": [
+                  "Sport"
+            ],
+            "logo": "",
+            "hd": "",
+            "sku": "242",
+            "order": "0"
+      },
+      {
             "logoThumbnail": "https://static.sky.co.nz/sky/epglogos/ESPN.png",
             "sort": "ESPN",
             "synopsis": "ESPN, the world wide leaders in sport. Catch all the action from around the United States and the world as we cross to ESPN International. Keep up with NFL Football, NBA Basketball and the MLB Baseball. ESPN also covers many other sports like UEFA Champions League, Volleyball and Tennis.",

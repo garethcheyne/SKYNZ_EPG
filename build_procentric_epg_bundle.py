@@ -8,7 +8,7 @@ from zipfile import ZipFile
 import pandas as pd
 import yaml
 from yaml.loader import SafeLoader
-import ftplib
+from pathlib import Path
 from anyascii import anyascii
 
 ## EPG URL 
@@ -19,32 +19,30 @@ from anyascii import anyascii
 URI_EPG = "https://web-epg.sky.co.nz/prod/epgs/v1?"
 URI_CHANNELS = "https://skywebconfig.msl-prod.skycloud.co.nz/sky/json/channels.prod.json"
 
-
-def push_to_ftp(file_name):
-
+def get_config():
     with open("credentials.yaml") as f:
-        config = yaml.load(f, Loader=SafeLoader)
+        global CONFIG 
+        CONFIG = yaml.load(f, Loader=SafeLoader)
         f.close()
-
-    ftp = ftplib.FTP()
-    ftp.connect(config["server"], config["port"])
-    ftp.login(config["username"], config["password"])
-
-    with open(f"./export/NZL/{file_name}", "rb") as file:
-        ftp.storbinary(f'STOR .{config["dir"]}/{file_name}', file)
-
-    print("Process Complete")
-    exit()
 
 
 def get_raw_epg():
     now = datetime.now(pytz.timezone("Pacific/Auckland"))
-    dateTimeStart = now + timedelta(hours=0)
-    dateTimeEnd = now + timedelta(hours=48)
+    #start_of_day = now.strftime('%Y-%m-%d 00:00:00:00 %Z%z')
 
-    timeStart = str(datetime.timestamp(dateTimeStart)*1000).replace(".","")[0:13]
-    timeEnd = str(datetime.timestamp(dateTimeEnd)*1000).replace(".","")[0:13]
-    uri = "%sstart=%s&end=%s&limit=20000" % (URI_EPG, timeStart, timeEnd)
+    # datetime_start = start_of_day + timedelta(hours=24)
+    # datetime_end = start_of_day + timedelta(hours=48)
+
+    datetime_start = now + timedelta(hours=0)
+    datetime_end = now + timedelta(hours=48)
+
+    #print(start_of_day)
+
+    print(f"Start time: {datetime_start}, End Time: {datetime_end}")
+
+    time_start = str(datetime.timestamp(datetime_start)*1000).replace(".","")[0:13]
+    time_end = str(datetime.timestamp(datetime_end)*1000).replace(".","")[0:13]
+    uri = "%sstart=%s&end=%s&limit=20000" % (URI_EPG, time_start, time_end)
 
     responce = requests.get(uri)
 
@@ -92,20 +90,17 @@ def duration(start, end):
     duration = str((secounds/60))[0:-2]     
     return duration
 
-def date(start):
-    unix_ts = int(start[0:10])
-    utc_time = datetime.fromtimestamp(unix_ts)    
+def shift_time(unix_timestamp):
+    unix_timestamp = int(int(unix_timestamp) - 43200000) # 43200000 = 12hours
+    shifted_time = int(str(unix_timestamp)[0:10])
+    return shifted_time
+   
+def date(unix_ts):
+    utc_time = datetime.fromtimestamp(shift_time(unix_ts))  
     return utc_time.strftime("%Y-%m-%d")
 
-def datetime_shift(unix_timestamp):
-    ts = datetime.fromtimestamp(unix_timestamp)
-    shifted_ts = ts - timedelta(hours=12)
-    return 
-    
-
-def time(start):
-    unix_ts = int(start[0:10])
-    utc_time = datetime.fromtimestamp(unix_ts)    
+def time(unix_ts): 
+    utc_time = datetime.fromtimestamp(shift_time(unix_ts))  
     return utc_time.strftime("%H%M")
 
 def rating(event):
@@ -139,7 +134,6 @@ def model_epg(raw_epg):
 def group_epg_channels(events):
     raw_channels = get_raw_channels()
     channels = []
-    print(type(channels))
 
     for c in raw_channels:
         epg = [x for x in events if (x['channelNumber'] == int(c["number"]))]
@@ -173,7 +167,7 @@ def build_payload(epg):
     payload = {
         "filetype": "Pro:Centric JSON Program Guide Data NZL",
         "version": "0.1",
-        "fetchTime": fetchTime.strftime('%Y-%m-%dT%H:%M:%S+2400'),
+        "fetchTime": fetchTime.strftime('%Y-%m-%dT%H:%M:%S%z'),
         "maxMinutes": get_max_minutes(epg),
         "channels": epg
     }
@@ -188,19 +182,29 @@ def build_payload(epg):
 def save_to_zip(payload):
     #Zip file name : Procentric_EPG_{country code}_{date}.zip (e.g. Procentric_EPG_GBR_20220609.zip)
 
-    today = datetime.today().date().strftime("%Y%m%d")
+    today = datetime.today().date().strftime("%Y%m%d")   
 
     file_name = f"Procentric_EPG_NZL_{today}.zip"
-    with ZipFile(f"/home/procentric/EPG/NZL/{file_name}", 'w') as zip:
+
+    with ZipFile(f"{CONFIG['local_dir']}{file_name}", 'w') as zip:
         zip.write("./data/Procentric_EPG.json", "Procentric_EPG.json")
         zip.close()
 
+    print(f"Process Complete, File Saved {CONFIG['local_dir']}{file_name}")
+
     return file_name
 
+def prune_old_epgs():
+    [f.unlink() for f in Path(CONFIG['local_dir']).glob("*") if f.is_file()] 
 
 
+def Director():
+    ## Get Config 
+    get_config()
 
-def Main():
+    ## Prune old  EPG files.
+    prune_old_epgs()
+
     ## Get EPG From SKY NZ API
     raw_epg = get_raw_epg()
 
@@ -214,10 +218,6 @@ def Main():
     payload = build_payload(epg)
 
     # Add ProCentric JSON to ZIP
-    file_name = save_to_zip(payload)
+    save_to_zip(payload)
 
-    ## Upload to FTP
-    ##push2FTP(file_name)
-
-
-Main()
+Director()
